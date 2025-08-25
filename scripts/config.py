@@ -4,8 +4,6 @@ import dotenv
 dotenv.load_dotenv()
 
 REPO_ROOT = os.path.dirname(os.path.dirname(__file__))
-STATE_DIR = os.path.join(REPO_ROOT, "state")
-STATE_FILE = os.path.join(STATE_DIR, "last_ids.json")
 CHANNELS_FILE = os.path.join(REPO_ROOT, "channels.yml")
 KEYWORDS_FILE = os.path.join(REPO_ROOT, "keywords.yml")
 FEED_FILE = os.path.join(REPO_ROOT, "feed.xml")

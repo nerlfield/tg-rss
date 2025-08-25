@@ -10,8 +10,6 @@ from telethon.errors.rpcerrorlist import FloodWaitError
 from telethon.tl.types import Message
 
 from config import (
-    STATE_DIR,
-    STATE_FILE,
     CHANNELS_FILE,
     KEYWORDS_FILE,
     FEED_FILE,
@@ -30,18 +28,6 @@ def load_yaml(path: str) -> Dict[str, Any]:
         return {}
     with open(path, "r", encoding="utf-8") as f:
         return yaml.safe_load(f) or {}
-
-def load_state() -> Dict[str, int]:
-    if not os.path.exists(STATE_DIR):
-        os.makedirs(STATE_DIR, exist_ok=True)
-    if os.path.exists(STATE_FILE):
-        with open(STATE_FILE, "r", encoding="utf-8") as f:
-            return json.load(f)
-    return {}
-
-def save_state(state: Dict[str, int]) -> None:
-    with open(STATE_FILE, "w", encoding="utf-8") as f:
-        json.dump(state, f, ensure_ascii=False, indent=2)
 
 def msg_link(channel_username: str, msg_id: int) -> str:
     # Works for public channels/supergroups
@@ -140,7 +126,6 @@ def build_rss(channel_items: List[Dict[str, Any]]) -> str:
 async def fetch_all() -> None:
     channels = load_yaml(CHANNELS_FILE).get("channels", [])
     kw = load_yaml(KEYWORDS_FILE).get("keywords", [])
-    state = load_state()
 
     if not channels:
         raise RuntimeError("channels.yml is empty—add channel @usernames.")
@@ -154,13 +139,11 @@ async def fetch_all() -> None:
     async with TelegramClient(StringSession(string_session), api_id, api_hash) as client:
         for ch in channels:
             uname = ch if ch.startswith("@") else f"@{ch}"
-            min_id = state.get(uname, 0)
-            fetched_for_channel = 0
             channel_post_count = 0
 
             try:
                 print(f"Fetching from {uname}...")
-                async for m in client.iter_messages(uname, limit=500, min_id=min_id):
+                async for m in client.iter_messages(uname, limit=500):
                     if not m:
                         continue
                     
@@ -180,10 +163,6 @@ async def fetch_all() -> None:
                     item = message_to_item(uname, m)
                     items.append(item)
                     channel_post_count += 1
-                    fetched_for_channel = max(fetched_for_channel, m.id)
-
-                if fetched_for_channel > 0:
-                    state[uname] = max(state.get(uname, 0), fetched_for_channel)
                 
                 print(f"  Added {channel_post_count} posts from {uname}")
 
@@ -217,8 +196,6 @@ async def fetch_all() -> None:
     rss = build_rss(items)
     with open(FEED_FILE, "w", encoding="utf-8") as f:
         f.write(rss)
-
-    save_state(state)
 
 if __name__ == "__main__":
     import asyncio

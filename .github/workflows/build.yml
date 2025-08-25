@@ -43,7 +43,7 @@ jobs:
         run: |
           git config user.name "${{ secrets.GIT_USER_NAME || 'github-actions' }}"
           git config user.email "${{ secrets.GIT_USER_EMAIL || 'actions@users.noreply.github.com' }}"
-          git add feed.xml state/last_ids.json
+          git add feed.xml
           git commit -m "Update feed $(date -u +'%Y-%m-%dT%H:%M:%SZ')" || echo "No changes to commit"
           git push
 
