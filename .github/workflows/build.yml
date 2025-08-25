@@ -7,6 +7,9 @@ on:
   push:
     branches: [ "main" ]
 
+permissions:
+  contents: write  # Allow the workflow to push changes
+
 jobs:
   build:
     runs-on: ubuntu-latest
