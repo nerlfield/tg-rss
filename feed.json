@@ -3,62 +3,8 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-08-25T20:16:29.195090+00:00",
+  "lastBuildDate": "2025-08-25T20:37:30.728685+00:00",
   "items": [
-    {
-      "title": "Show HN: Luminal – Open-source, search-based GPU compiler (❄️ Score: 150+ in 5 days)",
-      "link": "https://readhacker.news/s/6A3K9",
-      "guid": "https://readhacker.news/s/6A3K9",
-      "pubDate": "Mon, 25 Aug 2025 19:40:04 +0000",
-      "timestamp": "2025-08-25T19:40:04+00:00",
-      "description": "Show HN: Luminal – Open-source, search-based GPU compiler (❄️ Score: 150+ in 5 days)\n\nLink: https://readhacker.news/s/6A3K9\nComments: https://readhacker.news/c/6A3K9\n\nHi HN, I’m Joe. My friends Matthew, Jake and I are building Luminal (https://luminalai.com/), a GPU compiler for automatically generating fast GPU kernels for AI models. It uses search-based compilation to achieve high performance.\nWe take high level model code, like you&#x27;d have in PyTorch, and generate very fast GPU code. We do that without using LLMs or AI - rather, we pose it as a search problem. Our compiler builds a search space, generates millions of possible kernels, and then searches through it to minimize runtime.\nYou can try out a demo in `demos/matmul` on mac to see how Luminal takes a naive operation, represented in our IR of 12 simple operations, and compiles it to an optimized, tensor-core enabled Metal kernel. Here’s a video showing how: https://youtu.be/P2oNR8zxSAA\nOur approach differs significantly from traditional ML libraries in that we ahead-of-time compile everything, generate a large search space of logically-equivalent kernels, and search through it to find the fastest kernels. This allows us to leverage the Bitter Lesson to discover complex optimizations like Flash Attention entirely automatically without needing manual heuristics. The best rule is no rule, the best heuristic is no heuristic, just search everything.\nWe’re working on bringing CUDA support up to parity with Metal, adding more flexibility to the search space, adding full-model examples (like Llama), and adding very exotic hardware backends.\nWe aim to radically simplify the ML ecosystem while improving performance and hardware utilization. Please check out our repo: https://github.com/luminal-ai/luminal and I’d love to hear your thoughts!",
-      "telegram_link": "https://t.me/hacker_news_feed/120138"
-    },
-    {
-      "title": "Omarchy Is Out (Score: 150+ in 1 day)",
-      "link": "https://readhacker.news/s/6AfX4",
-      "guid": "https://readhacker.news/s/6AfX4",
-      "pubDate": "Mon, 25 Aug 2025 19:40:03 +0000",
-      "timestamp": "2025-08-25T19:40:03+00:00",
-      "description": "Omarchy Is Out (Score: 150+ in 1 day)\n\nLink: https://readhacker.news/s/6AfX4\nComments: https://readhacker.news/c/6AfX4",
-      "telegram_link": "https://t.me/hacker_news_feed/120137"
-    },
-    {
-      "title": "The Size of Adobe Reader Installers Through the Years (Score: 152+ in 7 hours)",
-      "link": "https://readhacker.news/s/6AjCm",
-      "guid": "https://readhacker.news/s/6AjCm",
-      "pubDate": "Mon, 25 Aug 2025 19:30:11 +0000",
-      "timestamp": "2025-08-25T19:30:11+00:00",
-      "description": "The Size of Adobe Reader Installers Through the Years (Score: 152+ in 7 hours)\n\nLink: https://readhacker.news/s/6AjCm\nComments: https://readhacker.news/c/6AjCm",
-      "telegram_link": "https://t.me/hacker_news_feed/120136"
-    },
-    {
-      "title": "Japan's Creepiest Station (Score: 151+ in 5 hours)",
-      "link": "https://readhacker.news/s/6AjTq",
-      "guid": "https://readhacker.news/s/6AjTq",
-      "pubDate": "Mon, 25 Aug 2025 19:10:08 +0000",
-      "timestamp": "2025-08-25T19:10:08+00:00",
-      "description": "Japan&#x27;s Creepiest Station (Score: 151+ in 5 hours)\n\nLink: https://readhacker.news/s/6AjTq\nComments: https://readhacker.news/c/6AjTq",
-      "telegram_link": "https://t.me/hacker_news_feed/120135"
-    },
-    {
-      "title": "Japan Post to temporarily suspend mail to US over end of de minimis exemption (🔥 Score: 153+ in 58 minutes)",
-      "link": "https://readhacker.news/s/6AkLp",
-      "guid": "https://readhacker.news/s/6AkLp",
-      "pubDate": "Mon, 25 Aug 2025 18:40:00 +0000",
-      "timestamp": "2025-08-25T18:40:00+00:00",
-      "description": "Japan Post to temporarily suspend mail to US over end of de minimis exemption (🔥 Score: 153+ in 58 minutes)\n\nLink: https://readhacker.news/s/6AkLp\nComments: https://readhacker.news/c/6AkLp",
-      "telegram_link": "https://t.me/hacker_news_feed/120134"
-    },
-    {
-      "title": "FCC Bars over 1,200 Providers for Non-Compliance with Robocall Protections (🔥 Score: 151+ in 1 hour)",
-      "link": "https://readhacker.news/s/6AkpC",
-      "guid": "https://readhacker.news/s/6AkpC",
-      "pubDate": "Mon, 25 Aug 2025 18:00:06 +0000",
-      "timestamp": "2025-08-25T18:00:06+00:00",
-      "description": "FCC Bars over 1,200 Providers for Non-Compliance with Robocall Protections (🔥 Score: 151+ in 1 hour)\n\nLink: https://readhacker.news/s/6AkpC\nComments: https://readhacker.news/c/6AkpC",
-      "telegram_link": "https://t.me/hacker_news_feed/120133"
-    },
     {
       "title": "Post 10677 on @denissexy",
       "link": "https://t.me/denissexy/10677",
@@ -78,15 +24,6 @@
       "telegram_link": "https://t.me/aiukraine_wetrust/2035"
     },
     {
-      "title": "Building the mouse Logitech won't make (🔥 Score: 152+ in 1 hour)",
-      "link": "https://readhacker.news/s/6Akhb",
-      "guid": "https://readhacker.news/s/6Akhb",
-      "pubDate": "Mon, 25 Aug 2025 17:30:00 +0000",
-      "timestamp": "2025-08-25T17:30:00+00:00",
-      "description": "Building the mouse Logitech won&#x27;t make (🔥 Score: 152+ in 1 hour)\n\nLink: https://readhacker.news/s/6Akhb\nComments: https://readhacker.news/c/6Akhb",
-      "telegram_link": "https://t.me/hacker_news_feed/120132"
-    },
-    {
       "title": "#Це_не_ШІ, але я не можу не написати: 55-річний айтівець отримав десять год тюрьми 4 роки в'язниці через те, що його зві",
       "link": "https://t.me/oooneuro/5776",
       "guid": "https://t.me/oooneuro/5776",
@@ -94,24 +31,6 @@
       "timestamp": "2025-08-25T17:26:13+00:00",
       "description": "#Це_не_ШІ, але я не можу не написати: 55-річний айтівець отримав десять год тюрьми 4 роки в&#x27;язниці через те, що його звільнили 🍟\n\nДевіс Лу працював у Eaton Corporation вже 12 років і дуже боявся, що його роботу забере ШІ. Параноїдальні думки переслідували Девіса, то ж він вирішив — якщо піду, то піду красиво 🤩\n\nЗа місяць до свого звільнення він підготував kill switch із бомбою з коду — як тільки обліковий запис Лу було вимкнено, скрипт автоматично заблокував усі доступи колег до сервера, а сам сервер почало знищувати зсередини через вічні цикли, які створювалися знову й знову.\n\nСудді вирішили, що Девісу не завадить трохи відпочити у комфортабельному готелі під назвою «В&#x27;язниця» 😞\n\nооо донат на збір (лишилося 91 897.97)",
       "telegram_link": "https://t.me/oooneuro/5776"
-    },
-    {
-      "title": "An Illustrated Guide to OAuth (Score: 156+ in 4 hours)",
-      "link": "https://readhacker.news/s/6AjFV",
-      "guid": "https://readhacker.news/s/6AjFV",
-      "pubDate": "Mon, 25 Aug 2025 16:50:08 +0000",
-      "timestamp": "2025-08-25T16:50:08+00:00",
-      "description": "An Illustrated Guide to OAuth (Score: 156+ in 4 hours)\n\nLink: https://readhacker.news/s/6AjFV\nComments: https://readhacker.news/c/6AjFV",
-      "telegram_link": "https://t.me/hacker_news_feed/120131"
-    },
-    {
-      "title": "We put agentic AI browsers to the test – They clicked, they paid, they failed (Score: 151+ in 9 hours)",
-      "link": "https://readhacker.news/s/6Aj3A",
-      "guid": "https://readhacker.news/s/6Aj3A",
-      "pubDate": "Mon, 25 Aug 2025 16:50:02 +0000",
-      "timestamp": "2025-08-25T16:50:02+00:00",
-      "description": "We put agentic AI browsers to the test – They clicked, they paid, they failed (Score: 151+ in 9 hours)\n\nLink: https://readhacker.news/s/6Aj3A\nComments: https://readhacker.news/c/6Aj3A",
-      "telegram_link": "https://t.me/hacker_news_feed/120130"
     },
     {
       "title": "🤖 Powered by OpenAI.",
@@ -123,33 +42,6 @@
       "telegram_link": "https://t.me/aiukraine_wetrust/2034"
     },
     {
-      "title": "Standard Thermal: Energy Storage 500x Cheaper Than Batteries (Score: 153+ in 4 hours)",
-      "link": "https://readhacker.news/s/6AjCy",
-      "guid": "https://readhacker.news/s/6AjCy",
-      "pubDate": "Mon, 25 Aug 2025 16:20:16 +0000",
-      "timestamp": "2025-08-25T16:20:16+00:00",
-      "description": "Standard Thermal: Energy Storage 500x Cheaper Than Batteries (Score: 153+ in 4 hours)\n\nLink: https://readhacker.news/s/6AjCy\nComments: https://readhacker.news/c/6AjCy",
-      "telegram_link": "https://t.me/hacker_news_feed/120129"
-    },
-    {
-      "title": "The Unix-Haters Handbook (1994) [pdf] (Score: 152+ in 15 hours)",
-      "link": "https://readhacker.news/s/6Air6",
-      "guid": "https://readhacker.news/s/6Air6",
-      "pubDate": "Mon, 25 Aug 2025 16:20:09 +0000",
-      "timestamp": "2025-08-25T16:20:09+00:00",
-      "description": "The Unix-Haters Handbook (1994) [pdf] (Score: 152+ in 15 hours)\n\nLink: https://readhacker.news/s/6Air6\nComments: https://readhacker.news/c/6Air6",
-      "telegram_link": "https://t.me/hacker_news_feed/120128"
-    },
-    {
-      "title": "Show HN: Base, an SQLite database editor for macOS (🔥 Score: 154+ in 2 hours)",
-      "link": "https://readhacker.news/s/6AjZM",
-      "guid": "https://readhacker.news/s/6AjZM",
-      "pubDate": "Mon, 25 Aug 2025 16:20:01 +0000",
-      "timestamp": "2025-08-25T16:20:01+00:00",
-      "description": "Show HN: Base, an SQLite database editor for macOS (🔥 Score: 154+ in 2 hours)\n\nLink: https://readhacker.news/s/6AjZM\nComments: https://readhacker.news/c/6AjZM\n\nI recently released v3 of Base, my SQLite editor for macOS.\nThe goal of this app is to provide a comfortable native GUI for SQLite, without it turning into a massive IDE-style app.\nThe coolest features are\n- That it can handle full altering of tables, which is quite finicky to do manually with SQLite.\n- It has a more detailed display of column constraints than most editors. Each constraint is shown as an icon if active, with full details available on clicking the icon.\nThis update also adds support for attaching databases, which is a bit fiddly with macOS sandboxing.\nI&#x27;d love to hear any feedback or answer any questions.",
-      "telegram_link": "https://t.me/hacker_news_feed/120127"
-    },
-    {
       "title": "🥂 Waver.",
       "link": "https://t.me/aiukraine_wetrust/2033",
       "guid": "https://t.me/aiukraine_wetrust/2033",
@@ -157,24 +49,6 @@
       "timestamp": "2025-08-25T15:22:20+00:00",
       "description": "🥂 Waver. \n\nдосить інтригуюча штука, я вам скажу 😃\n\nмодель заточена під генерацію реалістичних рухів у масштабних сценах з людьми та тваринами\n\nгенерація text2video / img2video (може генерувати 720p та 1080p)\n\n👆 сайт тут (багато цікавих прикладів)\n👨‍💻 репозиторій тут (але кода поки нема)\n\nкажуть, що можна пощупати в діскорді безкоштовно, я долучився до серверу, але доступу поки не отримав \n\n🌀AI UKRAINE",
       "telegram_link": "https://t.me/aiukraine_wetrust/2033"
-    },
-    {
-      "title": "Show HN: Sping – An HTTP/TCP latency tool that's easy on the eye (Score: 150+ in 14 hours)",
-      "link": "https://readhacker.news/s/6AiiV",
-      "guid": "https://readhacker.news/s/6AiiV",
-      "pubDate": "Mon, 25 Aug 2025 14:30:17 +0000",
-      "timestamp": "2025-08-25T14:30:17+00:00",
-      "description": "Show HN: Sping – An HTTP/TCP latency tool that&#x27;s easy on the eye (Score: 150+ in 14 hours)\n\nLink: https://readhacker.news/s/6AiiV\nComments: https://readhacker.news/c/6AiiV\n\nI&#x27;ve frequently found myself using [nvitop](https://github.com/XuehaiPan/nvitop) to diagnose GPU/CPU contention issues.\nThe two best things about it are:\n- It&#x27;s easy to install if I can access pip in the container\n- It makes a compelling screenshot (which helps me communicate with coworkers.)\nWith those two lessons in mind: Here is Sping!\nPurpose: Help observe and diagnose latency issues at layer 4+ (TCP/HTTP/HTTPS)\nTwo good things about it:\n- It&#x27;s easy to install if you have pip. (Available at [service-ping-sping](https://pypi.org/project/service-ping-sping/) on PyPi)\n- It makes a compelling screenshot.\nNot sure if this is the kind of thing that anyone else would be interested in. But I&#x27;ve enjoyed making it and intend to keep using it.",
-      "telegram_link": "https://t.me/hacker_news_feed/120126"
-    },
-    {
-      "title": "Materialized views are obviously useful (Score: 150+ in 1 day)",
-      "link": "https://readhacker.news/s/6Aff4",
-      "guid": "https://readhacker.news/s/6Aff4",
-      "pubDate": "Mon, 25 Aug 2025 14:30:00 +0000",
-      "timestamp": "2025-08-25T14:30:00+00:00",
-      "description": "Materialized views are obviously useful (Score: 150+ in 1 day)\n\nLink: https://readhacker.news/s/6Aff4\nComments: https://readhacker.news/c/6Aff4",
-      "telegram_link": "https://t.me/hacker_news_feed/120125"
     },
     {
       "title": "Принес комментарий к Гибли мультику из тиктока: «почему это выглядит как АИ?»",
@@ -186,15 +60,6 @@
       "telegram_link": "https://t.me/denissexy/10676"
     },
     {
-      "title": "Git-Annex (Score: 150+ in 9 hours)",
-      "link": "https://readhacker.news/s/6AiJT",
-      "guid": "https://readhacker.news/s/6AiJT",
-      "pubDate": "Mon, 25 Aug 2025 13:30:04 +0000",
-      "timestamp": "2025-08-25T13:30:04+00:00",
-      "description": "Git-Annex (Score: 150+ in 9 hours)\n\nLink: https://readhacker.news/s/6AiJT\nComments: https://readhacker.news/c/6AiJT",
-      "telegram_link": "https://t.me/hacker_news_feed/120124"
-    },
-    {
       "title": "Принесли для вас традиційну добірку новин минулого тижня. Читайте, діліться та залишайтеся в курсі👇",
       "link": "https://t.me/AIHOUSE/1287",
       "guid": "https://t.me/AIHOUSE/1287",
@@ -202,33 +67,6 @@
       "timestamp": "2025-08-25T12:58:27+00:00",
       "description": "Принесли для вас традиційну добірку новин минулого тижня. Читайте, діліться та залишайтеся в курсі👇\n\n▫️ Meta запускає AI-переклади для креаторів\nТепер Instagram і Facebook можуть автоматично дублювати ролики англійською та іспанською, зберігаючи голос автора й навіть синхронізуючи рухи губ. Доступно для акаунтів з 1k+ підписників. \n\n▫️ У Grok знову проблеми з приватністю\nЧати з ботом від xAI, якими користувачі ділилися через публічні лінки, стали доступні в Google. Щось таке ми вже проходили.\n\n▫️ Dex: AI-камера для вивчення мов дітьми\nДіти фотографують предмети, а гаджет перекладає слова 9+ мовами та діалектами. Стартап уже залучив $4,8M. Ціна стартує з $249.\n\n▫️Halo — смарт-окуляри з &lt;нескінченною памʼяттю&gt;\nДвоє випускників Гарварду презентували окуляри, що слухають розмови, транскрибують і підказують відповіді в реальному часі. Працюють на Gemini та Perplexity. Старт з $249. \n\n▫️Claude Code тепер у бізнес-пакеті Anthropic\nІнструмент для роботи з кодом інтегрований прямо в enterprise-версію Claude — з адмін-контролем і чат-інтерфейсом. Конкуренція з GitHub Copilot і Google стає цікавішою.\n\n▫️Microsoft про дослідження AI-свідомості\nHead of AI компанії застерігає: ця лінія досліджень може бути небезпечною. Дискусія про ризики &lt;свідомого&gt; AI стає гучнішою. Радимо почитати.\n\n▫️Apple думає про Gemini для Siri\nКомпанія веде переговори з Google, аби посилити Siri через інтеграцію Gemini. Угоду ще не укладено.\n\n▫️ Meta + Midjourney\nMeta отримає ліцензію на використання моделей Midjourney — новий рівень генеративних зображень для екосистеми Meta.\n\n▫️Дивіться новий епізод AI HOUSE Podcast\nГостем випуску став Юрій Стасінчук, CEO FoxFour та екс-дослідник у MRS Group [CTU в Празі]. У випуску обговорили, автономні дрони, супутник Притули, swarm-архітектури та як це все працює.\n\n▫️AI HOUSE Podcast у шорт-листі аудіопремії &lt;Слушно&gt; від MEGOGO\nМи потрапили до фіналу в категорії &lt;Наука й технології&gt;. Якщо вам відгукуються теми наших епізодів — будемо вдячні за ваш голос.\nЗалишити свій голос можна тут.\n\n🏠 LinkedIn 🏠 Instagram 🏠 Podcast",
       "telegram_link": "https://t.me/AIHOUSE/1287"
-    },
-    {
-      "title": "Static sites with Python, uv, Caddy, and Docker (❄️ Score: 150+ in 2 days)",
-      "link": "https://readhacker.news/s/6AaVf",
-      "guid": "https://readhacker.news/s/6AaVf",
-      "pubDate": "Mon, 25 Aug 2025 12:50:03 +0000",
-      "timestamp": "2025-08-25T12:50:03+00:00",
-      "description": "Static sites with Python, uv, Caddy, and Docker (❄️ Score: 150+ in 2 days)\n\nLink: https://readhacker.news/s/6AaVf\nComments: https://readhacker.news/c/6AaVf",
-      "telegram_link": "https://t.me/hacker_news_feed/120123"
-    },
-    {
-      "title": "Busy beaver hunters reach numbers that overwhelm ordinary math (❄️ Score: 150+ in 2 days)",
-      "link": "https://readhacker.news/s/6AczR",
-      "guid": "https://readhacker.news/s/6AczR",
-      "pubDate": "Mon, 25 Aug 2025 12:30:06 +0000",
-      "timestamp": "2025-08-25T12:30:06+00:00",
-      "description": "Busy beaver hunters reach numbers that overwhelm ordinary math (❄️ Score: 150+ in 2 days)\n\nLink: https://readhacker.news/s/6AczR\nComments: https://readhacker.news/c/6AczR",
-      "telegram_link": "https://t.me/hacker_news_feed/120122"
-    },
-    {
-      "title": "YouTube made AI enhancements to videos without warning or permission (Score: 154+ in 1 day)",
-      "link": "https://readhacker.news/s/6Aguj",
-      "guid": "https://readhacker.news/s/6Aguj",
-      "pubDate": "Mon, 25 Aug 2025 12:20:13 +0000",
-      "timestamp": "2025-08-25T12:20:13+00:00",
-      "description": "YouTube made AI enhancements to videos without warning or permission (Score: 154+ in 1 day)\n\nLink: https://readhacker.news/s/6Aguj\nComments: https://readhacker.news/c/6Aguj",
-      "telegram_link": "https://t.me/hacker_news_feed/120121"
     },
     {
       "title": "🤖 Теж відчуваєте, що ми живем у найцікавіший час для технологій?",
@@ -276,15 +114,6 @@
       "telegram_link": "https://t.me/blognot/6301"
     },
     {
-      "title": "Halt and Catch Fire Syllabus (2021) (Score: 151+ in 14 hours)",
-      "link": "https://readhacker.news/s/6AhRQ",
-      "guid": "https://readhacker.news/s/6AhRQ",
-      "pubDate": "Mon, 25 Aug 2025 10:40:10 +0000",
-      "timestamp": "2025-08-25T10:40:10+00:00",
-      "description": "Halt and Catch Fire Syllabus (2021) (Score: 151+ in 14 hours)\n\nLink: https://readhacker.news/s/6AhRQ\nComments: https://readhacker.news/c/6AhRQ",
-      "telegram_link": "https://t.me/hacker_news_feed/120120"
-    },
-    {
       "title": "Страшно, дуже страшно — Реддітори показали нову промт-ін'єкцію, спрямовану проти ШІ-браузерів 💀",
       "link": "https://t.me/oooneuro/5774",
       "guid": "https://t.me/oooneuro/5774",
@@ -312,132 +141,6 @@
       "telegram_link": "https://t.me/blognot/6300"
     },
     {
-      "title": "What are OKLCH colors? (🔥 Score: 153+ in 2 hours)",
-      "link": "https://readhacker.news/s/6AiXE",
-      "guid": "https://readhacker.news/s/6AiXE",
-      "pubDate": "Mon, 25 Aug 2025 08:50:00 +0000",
-      "timestamp": "2025-08-25T08:50:00+00:00",
-      "description": "What are OKLCH colors? (🔥 Score: 153+ in 2 hours)\n\nLink: https://readhacker.news/s/6AiXE\nComments: https://readhacker.news/c/6AiXE",
-      "telegram_link": "https://t.me/hacker_news_feed/120119"
-    },
-    {
-      "title": "Uncle Sam shouldn't own Intel stock (Score: 153+ in 10 hours)",
-      "link": "https://readhacker.news/s/6Ai5i",
-      "guid": "https://readhacker.news/s/6Ai5i",
-      "pubDate": "Mon, 25 Aug 2025 08:20:06 +0000",
-      "timestamp": "2025-08-25T08:20:06+00:00",
-      "description": "Uncle Sam shouldn&#x27;t own Intel stock (Score: 153+ in 10 hours)\n\nLink: https://readhacker.news/s/6Ai5i\nComments: https://readhacker.news/c/6Ai5i",
-      "telegram_link": "https://t.me/hacker_news_feed/120118"
-    },
-    {
-      "title": "Claim: GPT-5-pro can prove new interesting mathematics (❄️ Score: 150+ in 4 days)",
-      "link": "https://readhacker.news/s/6A4wK",
-      "guid": "https://readhacker.news/s/6A4wK",
-      "pubDate": "Mon, 25 Aug 2025 07:40:06 +0000",
-      "timestamp": "2025-08-25T07:40:06+00:00",
-      "description": "Claim: GPT-5-pro can prove new interesting mathematics (❄️ Score: 150+ in 4 days)\n\nLink: https://readhacker.news/s/6A4wK\nComments: https://readhacker.news/c/6A4wK",
-      "telegram_link": "https://t.me/hacker_news_feed/120117"
-    },
-    {
-      "title": "Bro, ban me at the IP level if you don't like me (🔥 Score: 159+ in 2 hours)",
-      "link": "https://readhacker.news/s/6AiKh",
-      "guid": "https://readhacker.news/s/6AiKh",
-      "pubDate": "Mon, 25 Aug 2025 07:10:02 +0000",
-      "timestamp": "2025-08-25T07:10:02+00:00",
-      "description": "Bro, ban me at the IP level if you don&#x27;t like me (🔥 Score: 159+ in 2 hours)\n\nLink: https://readhacker.news/s/6AiKh\nComments: https://readhacker.news/c/6AiKh",
-      "telegram_link": "https://t.me/hacker_news_feed/120116"
-    },
-    {
-      "title": "Y Combinator files brief supporting Epic Games, says store fees stifle startups (❄️ Score: 150+ in 3 days)",
-      "link": "https://readhacker.news/s/6A92H",
-      "guid": "https://readhacker.news/s/6A92H",
-      "pubDate": "Mon, 25 Aug 2025 06:40:18 +0000",
-      "timestamp": "2025-08-25T06:40:18+00:00",
-      "description": "Y Combinator files brief supporting Epic Games, says store fees stifle startups (❄️ Score: 150+ in 3 days)\n\nLink: https://readhacker.news/s/6A92H\nComments: https://readhacker.news/c/6A92H",
-      "telegram_link": "https://t.me/hacker_news_feed/120115"
-    },
-    {
-      "title": "The two versions of Parquet (❄️ Score: 151+ in 3 days)",
-      "link": "https://readhacker.news/s/6A6bt",
-      "guid": "https://readhacker.news/s/6A6bt",
-      "pubDate": "Mon, 25 Aug 2025 05:50:08 +0000",
-      "timestamp": "2025-08-25T05:50:08+00:00",
-      "description": "The two versions of Parquet (❄️ Score: 151+ in 3 days)\n\nLink: https://readhacker.news/s/6A6bt\nComments: https://readhacker.news/c/6A6bt",
-      "telegram_link": "https://t.me/hacker_news_feed/120114"
-    },
-    {
-      "title": "We put a coding agent in a while loop (Score: 155+ in 12 hours)",
-      "link": "https://readhacker.news/s/6Aheu",
-      "guid": "https://readhacker.news/s/6Aheu",
-      "pubDate": "Mon, 25 Aug 2025 04:30:06 +0000",
-      "timestamp": "2025-08-25T04:30:06+00:00",
-      "description": "We put a coding agent in a while loop (Score: 155+ in 12 hours)\n\nLink: https://readhacker.news/s/6Aheu\nComments: https://readhacker.news/c/6Aheu",
-      "telegram_link": "https://t.me/hacker_news_feed/120113"
-    },
-    {
-      "title": "Cloudflare incident on August 21, 2025 (❄️ Score: 150+ in 3 days)",
-      "link": "https://readhacker.news/s/6A9r6",
-      "guid": "https://readhacker.news/s/6A9r6",
-      "pubDate": "Mon, 25 Aug 2025 04:20:16 +0000",
-      "timestamp": "2025-08-25T04:20:16+00:00",
-      "description": "Cloudflare incident on August 21, 2025 (❄️ Score: 150+ in 3 days)\n\nLink: https://readhacker.news/s/6A9r6\nComments: https://readhacker.news/c/6A9r6",
-      "telegram_link": "https://t.me/hacker_news_feed/120112"
-    },
-    {
-      "title": "Trees on city streets cope with drought by drinking from leaky pipes (❄️ Score: 150+ in 2 days)",
-      "link": "https://readhacker.news/s/6Abgm",
-      "guid": "https://readhacker.news/s/6Abgm",
-      "pubDate": "Mon, 25 Aug 2025 02:50:12 +0000",
-      "timestamp": "2025-08-25T02:50:12+00:00",
-      "description": "Trees on city streets cope with drought by drinking from leaky pipes (❄️ Score: 150+ in 2 days)\n\nLink: https://readhacker.news/s/6Abgm\nComments: https://readhacker.news/c/6Abgm\n\nhttps://archive.ph/5gJNi",
-      "telegram_link": "https://t.me/hacker_news_feed/120111"
-    },
-    {
-      "title": "Is 4chan the perfect Pirate Bay poster child to justify wider UK site-blocking? (Score: 152+ in 8 hours)",
-      "link": "https://readhacker.news/s/6Ahgt",
-      "guid": "https://readhacker.news/s/6Ahgt",
-      "pubDate": "Mon, 25 Aug 2025 01:30:05 +0000",
-      "timestamp": "2025-08-25T01:30:05+00:00",
-      "description": "Is 4chan the perfect Pirate Bay poster child to justify wider UK site-blocking? (Score: 152+ in 8 hours)\n\nLink: https://readhacker.news/s/6Ahgt\nComments: https://readhacker.news/c/6Ahgt",
-      "telegram_link": "https://t.me/hacker_news_feed/120110"
-    },
-    {
-      "title": "Everything I know about good API design (Score: 151+ in 5 hours)",
-      "link": "https://readhacker.news/s/6AhET",
-      "guid": "https://readhacker.news/s/6AhET",
-      "pubDate": "Mon, 25 Aug 2025 01:10:03 +0000",
-      "timestamp": "2025-08-25T01:10:03+00:00",
-      "description": "Everything I know about good API design (Score: 151+ in 5 hours)\n\nLink: https://readhacker.news/s/6AhET\nComments: https://readhacker.news/c/6AhET",
-      "telegram_link": "https://t.me/hacker_news_feed/120109"
-    },
-    {
-      "title": "Ghrc.io appears to be malicious (🔥 Score: 158+ in 1 hour)",
-      "link": "https://readhacker.news/s/6Aihw",
-      "guid": "https://readhacker.news/s/6Aihw",
-      "pubDate": "Mon, 25 Aug 2025 01:10:02 +0000",
-      "timestamp": "2025-08-25T01:10:02+00:00",
-      "description": "Ghrc.io appears to be malicious (🔥 Score: 158+ in 1 hour)\n\nLink: https://readhacker.news/s/6Aihw\nComments: https://readhacker.news/c/6Aihw",
-      "telegram_link": "https://t.me/hacker_news_feed/120108"
-    },
-    {
-      "title": "Paracetamol disrupts early embryogenesis by cell cycle inhibition (Score: 153+ in 6 hours)",
-      "link": "https://readhacker.news/s/6AhvS",
-      "guid": "https://readhacker.news/s/6AhvS",
-      "pubDate": "Mon, 25 Aug 2025 00:30:01 +0000",
-      "timestamp": "2025-08-25T00:30:01+00:00",
-      "description": "Paracetamol disrupts early embryogenesis by cell cycle inhibition (Score: 153+ in 6 hours)\n\nLink: https://readhacker.news/s/6AhvS\nComments: https://readhacker.news/c/6AhvS",
-      "telegram_link": "https://t.me/hacker_news_feed/120107"
-    },
-    {
-      "title": "Show HN: Clearcam – Add AI object detection to your IP CCTV cameras (Score: 151+ in 11 hours)",
-      "link": "https://readhacker.news/s/6AgAw",
-      "guid": "https://readhacker.news/s/6AgAw",
-      "pubDate": "Sun, 24 Aug 2025 23:00:11 +0000",
-      "timestamp": "2025-08-24T23:00:11+00:00",
-      "description": "Show HN: Clearcam – Add AI object detection to your IP CCTV cameras (Score: 151+ in 11 hours)\n\nLink: https://readhacker.news/s/6AgAw\nComments: https://readhacker.news/c/6AgAw\n\nThis runs YOLOv8 + bytetrack with Tinygrad detections (depending on user config) are saved and can be sent to the companion iOS app along with a notification, all video processing is done locally, all footage is encrypted before leaving your computer, and the sending notifications + videos part is optional.\nThis uses tinygrad, so it runs well on my apple silicon macs and should be able to run on a lot of hardware (or will be able to when I remove other deps).",
-      "telegram_link": "https://t.me/hacker_news_feed/120106"
-    },
-    {
       "title": "ChatGPT попросили намалювати, як живеться дитини в організмі матері. Токени сплуталися й вийшов батько 🤣",
       "link": "https://t.me/oooneuro/5773",
       "guid": "https://t.me/oooneuro/5773",
@@ -445,33 +148,6 @@
       "timestamp": "2025-08-24T22:39:11+00:00",
       "description": "ChatGPT попросили намалювати, як живеться дитини в організмі матері. Токени сплуталися й вийшов батько 🤣\n\nЖоден лікар ще не зрозумів, як народжувати дитину через пеніс, а ШІ це вдалося 😂\n\nооо донат на збір (лишилося 91 958.97)",
       "telegram_link": "https://t.me/oooneuro/5773"
-    },
-    {
-      "title": "Good EU regulations (Score: 150+ in 22 hours)",
-      "link": "https://readhacker.news/s/6Afj5",
-      "guid": "https://readhacker.news/s/6Afj5",
-      "pubDate": "Sun, 24 Aug 2025 20:50:17 +0000",
-      "timestamp": "2025-08-24T20:50:17+00:00",
-      "description": "Good EU regulations (Score: 150+ in 22 hours)\n\nLink: https://readhacker.news/s/6Afj5\nComments: https://readhacker.news/c/6Afj5",
-      "telegram_link": "https://t.me/hacker_news_feed/120105"
-    },
-    {
-      "title": "Burner Phone 101 (❄️ Score: 150+ in 3 days)",
-      "link": "https://readhacker.news/s/6A59R",
-      "guid": "https://readhacker.news/s/6A59R",
-      "pubDate": "Sun, 24 Aug 2025 20:40:11 +0000",
-      "timestamp": "2025-08-24T20:40:11+00:00",
-      "description": "Burner Phone 101 (❄️ Score: 150+ in 3 days)\n\nLink: https://readhacker.news/s/6A59R\nComments: https://readhacker.news/c/6A59R",
-      "telegram_link": "https://t.me/hacker_news_feed/120104"
-    },
-    {
-      "title": "Making games in Go: 3 months without LLMs vs. 3 days with LLMs (Score: 150+ in 5 hours)",
-      "link": "https://readhacker.news/s/6AgZS",
-      "guid": "https://readhacker.news/s/6AgZS",
-      "pubDate": "Sun, 24 Aug 2025 20:30:02 +0000",
-      "timestamp": "2025-08-24T20:30:02+00:00",
-      "description": "Making games in Go: 3 months without LLMs vs. 3 days with LLMs (Score: 150+ in 5 hours)\n\nLink: https://readhacker.news/s/6AgZS\nComments: https://readhacker.news/c/6AgZS",
-      "telegram_link": "https://t.me/hacker_news_feed/120103"
     },
     {
       "title": "Post 10674 on @denissexy",
@@ -490,15 +166,6 @@
       "timestamp": "2025-08-24T20:22:46+00:00",
       "description": "Ну сами посмотрите как грозно смотрелось бы в жару ≈45℃ на воине 😏",
       "telegram_link": "https://t.me/denissexy/10673"
-    },
-    {
-      "title": "It is worth it to buy the fast CPU (Score: 150+ in 13 hours)",
-      "link": "https://readhacker.news/s/6Ag5c",
-      "guid": "https://readhacker.news/s/6Ag5c",
-      "pubDate": "Sun, 24 Aug 2025 19:40:01 +0000",
-      "timestamp": "2025-08-24T19:40:01+00:00",
-      "description": "It is worth it to buy the fast CPU (Score: 150+ in 13 hours)\n\nLink: https://readhacker.news/s/6Ag5c\nComments: https://readhacker.news/c/6Ag5c",
-      "telegram_link": "https://t.me/hacker_news_feed/120102"
     },
     {
       "title": "Post 10672 on @denissexy",
@@ -537,24 +204,6 @@
       "telegram_link": "https://t.me/oooneuro/5772"
     },
     {
-      "title": "Comet AI browser can get prompt injected from any site, drain your bank account (🔥 Score: 153+ in 1 hour)",
-      "link": "https://readhacker.news/s/6Ah3Y",
-      "guid": "https://readhacker.news/s/6Ah3Y",
-      "pubDate": "Sun, 24 Aug 2025 17:00:02 +0000",
-      "timestamp": "2025-08-24T17:00:02+00:00",
-      "description": "Comet AI browser can get prompt injected from any site, drain your bank account (🔥 Score: 153+ in 1 hour)\n\nLink: https://readhacker.news/s/6Ah3Y\nComments: https://readhacker.news/c/6Ah3Y",
-      "telegram_link": "https://t.me/hacker_news_feed/120101"
-    },
-    {
-      "title": "US attack on renewables will lead to power crunch that spikes electricity prices (🔥 Score: 151+ in 2 hours)",
-      "link": "https://readhacker.news/s/6AgVc",
-      "guid": "https://readhacker.news/s/6AgVc",
-      "pubDate": "Sun, 24 Aug 2025 16:50:15 +0000",
-      "timestamp": "2025-08-24T16:50:15+00:00",
-      "description": "US attack on renewables will lead to power crunch that spikes electricity prices (🔥 Score: 151+ in 2 hours)\n\nLink: https://readhacker.news/s/6AgVc\nComments: https://readhacker.news/c/6AgVc",
-      "telegram_link": "https://t.me/hacker_news_feed/120100"
-    },
-    {
       "title": "Post 10669 on @denissexy",
       "link": "https://t.me/denissexy/10669",
       "guid": "https://t.me/denissexy/10669",
@@ -573,87 +222,6 @@
       "telegram_link": "https://t.me/denissexy/10668"
     },
     {
-      "title": "Turning Claude Code into my best design partner (Score: 152+ in 7 hours)",
-      "link": "https://readhacker.news/s/6AgeM",
-      "guid": "https://readhacker.news/s/6AgeM",
-      "pubDate": "Sun, 24 Aug 2025 15:20:04 +0000",
-      "timestamp": "2025-08-24T15:20:04+00:00",
-      "description": "Turning Claude Code into my best design partner (Score: 152+ in 7 hours)\n\nLink: https://readhacker.news/s/6AgeM\nComments: https://readhacker.news/c/6AgeM",
-      "telegram_link": "https://t.me/hacker_news_feed/120099"
-    },
-    {
-      "title": "Valve Software handbook for new employees [pdf] (2012) (Score: 153+ in 6 hours)",
-      "link": "https://readhacker.news/s/6Agex",
-      "guid": "https://readhacker.news/s/6Agex",
-      "pubDate": "Sun, 24 Aug 2025 14:50:12 +0000",
-      "timestamp": "2025-08-24T14:50:12+00:00",
-      "description": "Valve Software handbook for new employees [pdf] (2012) (Score: 153+ in 6 hours)\n\nLink: https://readhacker.news/s/6Agex\nComments: https://readhacker.news/c/6Agex",
-      "telegram_link": "https://t.me/hacker_news_feed/120098"
-    },
-    {
-      "title": "A 2k-year-old sun hat worn by a Roman soldier in Egypt (Score: 150+ in 17 hours)",
-      "link": "https://readhacker.news/s/6Af2U",
-      "guid": "https://readhacker.news/s/6Af2U",
-      "pubDate": "Sun, 24 Aug 2025 13:30:05 +0000",
-      "timestamp": "2025-08-24T13:30:05+00:00",
-      "description": "A 2k-year-old sun hat worn by a Roman soldier in Egypt (Score: 150+ in 17 hours)\n\nLink: https://readhacker.news/s/6Af2U\nComments: https://readhacker.news/c/6Af2U",
-      "telegram_link": "https://t.me/hacker_news_feed/120097"
-    },
-    {
-      "title": "How can AI ID a cat? (❄️ Score: 150+ in 3 days)",
-      "link": "https://readhacker.news/s/6A4gS",
-      "guid": "https://readhacker.news/s/6A4gS",
-      "pubDate": "Sun, 24 Aug 2025 12:50:17 +0000",
-      "timestamp": "2025-08-24T12:50:17+00:00",
-      "description": "How can AI ID a cat? (❄️ Score: 150+ in 3 days)\n\nLink: https://readhacker.news/s/6A4gS\nComments: https://readhacker.news/c/6A4gS",
-      "telegram_link": "https://t.me/hacker_news_feed/120096"
-    },
-    {
-      "title": "Why was Apache Kafka created? (Score: 150+ in 1 day)",
-      "link": "https://readhacker.news/s/6AbWf",
-      "guid": "https://readhacker.news/s/6AbWf",
-      "pubDate": "Sun, 24 Aug 2025 12:20:04 +0000",
-      "timestamp": "2025-08-24T12:20:04+00:00",
-      "description": "Why was Apache Kafka created? (Score: 150+ in 1 day)\n\nLink: https://readhacker.news/s/6AbWf\nComments: https://readhacker.news/c/6AbWf",
-      "telegram_link": "https://t.me/hacker_news_feed/120095"
-    },
-    {
-      "title": "A German ISP tampered with their DNS – specifically to sabotage my website (🔥 Score: 168+ in 1 hour)",
-      "link": "https://readhacker.news/s/6AgtB",
-      "guid": "https://readhacker.news/s/6AgtB",
-      "pubDate": "Sun, 24 Aug 2025 12:00:00 +0000",
-      "timestamp": "2025-08-24T12:00:00+00:00",
-      "description": "A German ISP tampered with their DNS – specifically to sabotage my website (🔥 Score: 168+ in 1 hour)\n\nLink: https://readhacker.news/s/6AgtB\nComments: https://readhacker.news/c/6AgtB",
-      "telegram_link": "https://t.me/hacker_news_feed/120094"
-    },
-    {
-      "title": "Texas Instruments’ new plants where Apple will make iPhone chips (Score: 150+ in 1 day)",
-      "link": "https://readhacker.news/s/6AbnG",
-      "guid": "https://readhacker.news/s/6AbnG",
-      "pubDate": "Sun, 24 Aug 2025 10:50:09 +0000",
-      "timestamp": "2025-08-24T10:50:09+00:00",
-      "description": "Texas Instruments’ new plants where Apple will make iPhone chips (Score: 150+ in 1 day)\n\nLink: https://readhacker.news/s/6AbnG\nComments: https://readhacker.news/c/6AbnG",
-      "telegram_link": "https://t.me/hacker_news_feed/120093"
-    },
-    {
-      "title": "AGI is an engineering problem, not a model training problem (Score: 150+ in 10 hours)",
-      "link": "https://readhacker.news/s/6AfyA",
-      "guid": "https://readhacker.news/s/6AfyA",
-      "pubDate": "Sun, 24 Aug 2025 10:50:00 +0000",
-      "timestamp": "2025-08-24T10:50:00+00:00",
-      "description": "AGI is an engineering problem, not a model training problem (Score: 150+ in 10 hours)\n\nLink: https://readhacker.news/s/6AfyA\nComments: https://readhacker.news/c/6AfyA",
-      "telegram_link": "https://t.me/hacker_news_feed/120092"
-    },
-    {
-      "title": "Writing Speed-of-Light Flash Attention for 5090 in CUDA C++ (Score: 150+ in 22 hours)",
-      "link": "https://readhacker.news/s/6Ae5e",
-      "guid": "https://readhacker.news/s/6Ae5e",
-      "pubDate": "Sun, 24 Aug 2025 10:40:16 +0000",
-      "timestamp": "2025-08-24T10:40:16+00:00",
-      "description": "Writing Speed-of-Light Flash Attention for 5090 in CUDA C++ (Score: 150+ in 22 hours)\n\nLink: https://readhacker.news/s/6Ae5e\nComments: https://readhacker.news/c/6Ae5e",
-      "telegram_link": "https://t.me/hacker_news_feed/120091"
-    },
-    {
       "title": "🇺🇦З Днем Незалежності України, шановна спільното.",
       "link": "https://t.me/aiukraine_wetrust/2031",
       "guid": "https://t.me/aiukraine_wetrust/2031",
@@ -663,15 +231,6 @@
       "telegram_link": "https://t.me/aiukraine_wetrust/2031"
     },
     {
-      "title": "Romhack.ing's Internet Archive Mirror No Longer Available (Score: 150+ in 13 hours)",
-      "link": "https://readhacker.news/s/6Afbg",
-      "guid": "https://readhacker.news/s/6Afbg",
-      "pubDate": "Sun, 24 Aug 2025 10:10:04 +0000",
-      "timestamp": "2025-08-24T10:10:04+00:00",
-      "description": "Romhack.ing&#x27;s Internet Archive Mirror No Longer Available (Score: 150+ in 13 hours)\n\nLink: https://readhacker.news/s/6Afbg\nComments: https://readhacker.news/c/6Afbg",
-      "telegram_link": "https://t.me/hacker_news_feed/120090"
-    },
-    {
       "title": "Помните я в 2021 году писал про «будку самоубийств» – проект The Last Resort из Швейцарии?",
       "link": "https://t.me/denissexy/10667",
       "guid": "https://t.me/denissexy/10667",
@@ -679,51 +238,6 @@
       "timestamp": "2025-08-24T09:15:32+00:00",
       "description": "Помните я в 2021 году писал про «будку самоубийств» – проект The Last Resort из Швейцарии? \n\nЯ как-то пропустил, но проект закончился самоубийством со-основателя компании, вот короткий таймлайн:\n\n&gt;2021: факт-чекеры выяснили что на самом деле будка не была одобрена в Швейцарии к применению, мол, авторов не так поняли журналисты \n\n&gt;2024: Спустя 3 года, The Last Resort заявляет, что у них будет первый клиент для теста\n\n&gt;Первая клиентка – 64-летняя американка приехвшая в Швейцарию «в последний раз»; сразу после ее кончины «будку» изымают и автора – арестовывают  \n\n&gt;Автору проекта выдвигаются обвинения в том, что устройство плохо сработало и американку «задушили», и что он подстрекал ее к суициду \n\n&gt;Позже, «умышленное убийство» власти исключили, в деле остаётся «подстрекательство/содействие»\n\n&gt;Начало 2025 года: автор проекта выпадает с окна третьего этажа, но выживает \n\n&gt;Спустя пару месяцев он прибегает к услугам «клиники самоубийств» в Германии убивая себя\n\n&gt;Расследования «дела американки» все еще ведутся властями\n\nЯ даже не знаю, что можно написать про эту историю 💀 в Швейцарии есть обычные законы для ассистированного окончания жизни, зачем этот девайс нужен был вообще не ясно\n\n***\n\nИ на всякий случай, потому что тема сложная – если плохо и интрузивные суицидальные мысли можно позвонить сюда, там помогут:\n\nИз РФ\nИз РБ \nИз Казахстана\nИз Украины",
       "telegram_link": "https://t.me/denissexy/10667"
-    },
-    {
-      "title": "How to build a coding agent (Score: 150+ in 4 hours)",
-      "link": "https://readhacker.news/s/6AfQd",
-      "guid": "https://readhacker.news/s/6AfQd",
-      "pubDate": "Sun, 24 Aug 2025 08:00:01 +0000",
-      "timestamp": "2025-08-24T08:00:01+00:00",
-      "description": "How to build a coding agent (Score: 150+ in 4 hours)\n\nLink: https://readhacker.news/s/6AfQd\nComments: https://readhacker.news/c/6AfQd",
-      "telegram_link": "https://t.me/hacker_news_feed/120089"
-    },
-    {
-      "title": "The cost of interrupted work (2023) (Score: 151+ in 8 hours)",
-      "link": "https://readhacker.news/s/6Afif",
-      "guid": "https://readhacker.news/s/6Afif",
-      "pubDate": "Sun, 24 Aug 2025 06:00:04 +0000",
-      "timestamp": "2025-08-24T06:00:04+00:00",
-      "description": "The cost of interrupted work (2023) (Score: 151+ in 8 hours)\n\nLink: https://readhacker.news/s/6Afif\nComments: https://readhacker.news/c/6Afif",
-      "telegram_link": "https://t.me/hacker_news_feed/120088"
-    },
-    {
-      "title": "The issue of anti-cheat on Linux (2024) (Score: 150+ in 1 day)",
-      "link": "https://readhacker.news/s/6A99s",
-      "guid": "https://readhacker.news/s/6A99s",
-      "pubDate": "Sun, 24 Aug 2025 00:20:00 +0000",
-      "timestamp": "2025-08-24T00:20:00+00:00",
-      "description": "The issue of anti-cheat on Linux (2024) (Score: 150+ in 1 day)\n\nLink: https://readhacker.news/s/6A99s\nComments: https://readhacker.news/c/6A99s",
-      "telegram_link": "https://t.me/hacker_news_feed/120087"
-    },
-    {
-      "title": "Line scan camera image processing for train photography (Score: 151+ in 7 hours)",
-      "link": "https://readhacker.news/s/6AewL",
-      "guid": "https://readhacker.news/s/6AewL",
-      "pubDate": "Sun, 24 Aug 2025 00:00:06 +0000",
-      "timestamp": "2025-08-24T00:00:06+00:00",
-      "description": "Line scan camera image processing for train photography (Score: 151+ in 7 hours)\n\nLink: https://readhacker.news/s/6AewL\nComments: https://readhacker.news/c/6AewL",
-      "telegram_link": "https://t.me/hacker_news_feed/120086"
-    },
-    {
-      "title": "What makes Claude Code so damn good (Score: 150+ in 4 hours)",
-      "link": "https://readhacker.news/s/6AeWZ",
-      "guid": "https://readhacker.news/s/6AeWZ",
-      "pubDate": "Sat, 23 Aug 2025 23:50:09 +0000",
-      "timestamp": "2025-08-23T23:50:09+00:00",
-      "description": "What makes Claude Code so damn good (Score: 150+ in 4 hours)\n\nLink: https://readhacker.news/s/6AeWZ\nComments: https://readhacker.news/c/6AeWZ",
-      "telegram_link": "https://t.me/hacker_news_feed/120085"
     },
     {
       "title": "OpenAI выступила с жестким предупреждением против несанкционированной торговли своими акциями. Любые попытки продажи equ",
@@ -744,42 +258,6 @@
       "telegram_link": "https://t.me/oooneuro/5771"
     },
     {
-      "title": "I hacked Monster Energy (Score: 151+ in 5 hours)",
-      "link": "https://readhacker.news/s/6AeAt",
-      "guid": "https://readhacker.news/s/6AeAt",
-      "pubDate": "Sat, 23 Aug 2025 22:20:14 +0000",
-      "timestamp": "2025-08-23T22:20:14+00:00",
-      "description": "I hacked Monster Energy (Score: 151+ in 5 hours)\n\nLink: https://readhacker.news/s/6AeAt\nComments: https://readhacker.news/c/6AeAt",
-      "telegram_link": "https://t.me/hacker_news_feed/120084"
-    },
-    {
-      "title": "I made a floppy disk from scratch (Score: 151+ in 9 hours)",
-      "link": "https://readhacker.news/s/6AdSG",
-      "guid": "https://readhacker.news/s/6AdSG",
-      "pubDate": "Sat, 23 Aug 2025 20:20:17 +0000",
-      "timestamp": "2025-08-23T20:20:17+00:00",
-      "description": "I made a floppy disk from scratch (Score: 151+ in 9 hours)\n\nLink: https://readhacker.news/s/6AdSG\nComments: https://readhacker.news/c/6AdSG\n\nhttps://www.youtube.com/watch?v=TBiFGhnXsh8",
-      "telegram_link": "https://t.me/hacker_news_feed/120083"
-    },
-    {
-      "title": "Developer's block (Score: 150+ in 10 hours)",
-      "link": "https://readhacker.news/s/6AdLQ",
-      "guid": "https://readhacker.news/s/6AdLQ",
-      "pubDate": "Sat, 23 Aug 2025 20:00:04 +0000",
-      "timestamp": "2025-08-23T20:00:04+00:00",
-      "description": "Developer&#x27;s block (Score: 150+ in 10 hours)\n\nLink: https://readhacker.news/s/6AdLQ\nComments: https://readhacker.news/c/6AdLQ",
-      "telegram_link": "https://t.me/hacker_news_feed/120082"
-    },
-    {
-      "title": "What could have been (❄️ Score: 151+ in 4 days)",
-      "link": "https://readhacker.news/s/6zWgy",
-      "guid": "https://readhacker.news/s/6zWgy",
-      "pubDate": "Sat, 23 Aug 2025 19:50:09 +0000",
-      "timestamp": "2025-08-23T19:50:09+00:00",
-      "description": "What could have been (❄️ Score: 151+ in 4 days)\n\nLink: https://readhacker.news/s/6zWgy\nComments: https://readhacker.news/c/6zWgy",
-      "telegram_link": "https://t.me/hacker_news_feed/120081"
-    },
-    {
       "title": "Передавал между GPT 5 Pro ↔︎ Gemini 2.5 Pro Deep Think ответы на довольно сложный вопрос:",
       "link": "https://t.me/denissexy/10666",
       "guid": "https://t.me/denissexy/10666",
@@ -787,42 +265,6 @@
       "timestamp": "2025-08-23T19:23:53+00:00",
       "description": "Передавал между GPT 5 Pro ↔︎ Gemini 2.5 Pro Deep Think ответы на довольно сложный вопрос:\n\nЕсли бы за всю жизнь, человек мог бы прочитать строго 10 книг, не больше; какие книги это были бы и почему? \n\nПолучился такой список, я не все читал так что побежал качать:\n\nНаучная и системная оптика\n\n📔 1. Карл Саган - «Космос»\nФормирует картину мира от атомов до галактик и показывает научный метод «в деле»: скептицизм, проверяемость, красота сомнения. Даёт масштаб и смирение - противоядие от догматизма и узости перспективы.\n\n📔 2. Донелла Медоуз - «Азбука системного мышления» (Thinking in Systems)\nБазовый набор инструментов: запасы/потоки, петли обратной связи, задержки, точки рычага. Помогает понимать экосистемы, рынки, политику и ИТ-платформы как сложные системы с непреднамеренными последствиями.\n\n📔 3. Даниэль Канеман - «Думай медленно… решай быстро»\nГрамматика когнитивных искажений: вероятности, причинность, риск. Инструкция по выживанию в мире манипуляций и инфошума.\n\n📔 4. Элизабет Колберт - «Шестое вымирание»\nТрезвая оптика антропогенных изменений: биоразнообразие, климат, пороги необратимости. Сшивает экологию с экономикой и политикой.\n\nПрактическая философия и жизнестойкость\n\n📔 5. Марк Аврелий - «Размышления»\nСтоический «тулкит» для высокой турбулентности: различение контролируемого/неконтролируемого, тренировка внимания, дисциплина и мягкая доброта.\n\nТехнологии, власть и общество\n\n📔 6. Мэри Шелли - «Франкенштейн, или Современный Прометей»\nПророческая этика создателя: «способность» ≠ «право», ответственность за побочные эффекты. Рифмуется с ИИ, синбиотехом и «быстрыми» R&amp;D-циклами.\n\n📔 7. Вирджиния Вулф - «Своя комната»\nПро невидимую инфраструктуру неравенства: деньги, время, тишина, двери. Учебник по распознаванию структурных барьеров и дизайну условий для таланта.\n\n📔 8. Джордж Оруэлл - «1984»\nЯзык как инструмент власти, контроль памяти и восприятия. Мини-словарь для распознавания новояза и архитектур наблюдения в цифровой среде.\n\n📔 9. Чинуа Ачебе - «Распад» (Things Fall Apart)\nДеконструирует колониальный взгляд; показывает цену «прогресса» и хрупкость культурных систем. Расширяет моральный круг.\n\nХудожественные «симуляторы» глубокой этики\n\n📔 10. Фёдор Достоевский - «Братья Карамазовы»\nЛаборатория свободы и ответственности. «Великий инквизитор» как модель алгоритмического патернализма: комфорт и предсказуемость в обмен на свободу и данные.\n\n***\n\nА вот мотивация, почему список такой:\n\nКогнитивистика вместо «истории науки»: в мире информационного шума важнее понимать собственные ошибки мышления, чем историографию их опровержения.\n\nЭкология и системность: кризисы теперь связаны - климат, биоразнообразие, энергетика, эпидемии. Нужен взгляд на взаимосвязи, а не только на «величие идей».\n\nТехнологическая этика: ИИ/генетика ставят вопросы ответственности творца и границ контроля.\n\nПрактическая философия и устойчивость: инструменты самообладания, когда неопределённость - норма.\n\nБаланс перспектив: добавляем женские голоса и неевропейские оптики, чтобы «карта мира» не была однобокой.\n\nP.S. Для кино сделаю такой же попозже\n\nP.P.S. Вот лог как общались модели\n\nP.P.P.S. Gemini Pro в конце оценивала список книг по методу 100 из 100, поэтому как ответила 100% качества подборки - я остановился; интернет поиск не использовался – поэтому SEO-страницы тоже не попали в кандидаты",
       "telegram_link": "https://t.me/denissexy/10666"
-    },
-    {
-      "title": "You can't grow cool-climate plants in hot climates (❄️ Score: 150+ in 3 days)",
-      "link": "https://readhacker.news/s/6A3kf",
-      "guid": "https://readhacker.news/s/6A3kf",
-      "pubDate": "Sat, 23 Aug 2025 18:40:05 +0000",
-      "timestamp": "2025-08-23T18:40:05+00:00",
-      "description": "You can&#x27;t grow cool-climate plants in hot climates (❄️ Score: 150+ in 3 days)\n\nLink: https://readhacker.news/s/6A3kf\nComments: https://readhacker.news/c/6A3kf",
-      "telegram_link": "https://t.me/hacker_news_feed/120080"
-    },
-    {
-      "title": "Measuring the environmental impact of AI inference (Score: 150+ in 15 hours)",
-      "link": "https://readhacker.news/s/6Adds",
-      "guid": "https://readhacker.news/s/6Adds",
-      "pubDate": "Sat, 23 Aug 2025 18:30:01 +0000",
-      "timestamp": "2025-08-23T18:30:01+00:00",
-      "description": "Measuring the environmental impact of AI inference (Score: 150+ in 15 hours)\n\nLink: https://readhacker.news/s/6Adds\nComments: https://readhacker.news/c/6Adds\n\nResearch paper: https://services.google.com/fh/files/misc/measuring_the_envi...\nGoogle blog post: https://cloud.google.com/blog/products/infrastructure/measur...",
-      "telegram_link": "https://t.me/hacker_news_feed/120079"
-    },
-    {
-      "title": "Librebox: An open source, Roblox-compatible game engine (Score: 153+ in 6 hours)",
-      "link": "https://readhacker.news/s/6AdWM",
-      "guid": "https://readhacker.news/s/6AdWM",
-      "pubDate": "Sat, 23 Aug 2025 18:20:02 +0000",
-      "timestamp": "2025-08-23T18:20:02+00:00",
-      "description": "Librebox: An open source, Roblox-compatible game engine (Score: 153+ in 6 hours)\n\nLink: https://readhacker.news/s/6AdWM\nComments: https://readhacker.news/c/6AdWM",
-      "telegram_link": "https://t.me/hacker_news_feed/120078"
-    },
-    {
-      "title": "RFC 9839 and Bad Unicode (Score: 151+ in 4 hours)",
-      "link": "https://readhacker.news/s/6Ae7A",
-      "guid": "https://readhacker.news/s/6Ae7A",
-      "pubDate": "Sat, 23 Aug 2025 17:50:01 +0000",
-      "timestamp": "2025-08-23T17:50:01+00:00",
-      "description": "RFC 9839 and Bad Unicode (Score: 151+ in 4 hours)\n\nLink: https://readhacker.news/s/6Ae7A\nComments: https://readhacker.news/c/6Ae7A",
-      "telegram_link": "https://t.me/hacker_news_feed/120077"
     },
     {
       "title": "Post 2030 on @aiukraine_wetrust",
@@ -843,33 +285,6 @@
       "telegram_link": "https://t.me/aiukraine_wetrust/2029"
     },
     {
-      "title": "My tips for using LLM agents to create software (Score: 150+ in 15 hours)",
-      "link": "https://readhacker.news/s/6AcUw",
-      "guid": "https://readhacker.news/s/6AcUw",
-      "pubDate": "Sat, 23 Aug 2025 16:40:21 +0000",
-      "timestamp": "2025-08-23T16:40:21+00:00",
-      "description": "My tips for using LLM agents to create software (Score: 150+ in 15 hours)\n\nLink: https://readhacker.news/s/6AcUw\nComments: https://readhacker.news/c/6AcUw",
-      "telegram_link": "https://t.me/hacker_news_feed/120076"
-    },
-    {
-      "title": "Mail Carriers Pause US Deliveries as Tariff Shift Sows Confusion (Score: 150+ in 17 hours)",
-      "link": "https://readhacker.news/s/6AcDr",
-      "guid": "https://readhacker.news/s/6AcDr",
-      "pubDate": "Sat, 23 Aug 2025 16:30:03 +0000",
-      "timestamp": "2025-08-23T16:30:03+00:00",
-      "description": "Mail Carriers Pause US Deliveries as Tariff Shift Sows Confusion (Score: 150+ in 17 hours)\n\nLink: https://readhacker.news/s/6AcDr\nComments: https://readhacker.news/c/6AcDr",
-      "telegram_link": "https://t.me/hacker_news_feed/120075"
-    },
-    {
-      "title": "Lightning declines over shipping lanes following regulation of sulfur emissions (❄️ Score: 150+ in 4 days)",
-      "link": "https://readhacker.news/s/6zXhN",
-      "guid": "https://readhacker.news/s/6zXhN",
-      "pubDate": "Sat, 23 Aug 2025 16:20:12 +0000",
-      "timestamp": "2025-08-23T16:20:12+00:00",
-      "description": "Lightning declines over shipping lanes following regulation of sulfur emissions (❄️ Score: 150+ in 4 days)\n\nLink: https://readhacker.news/s/6zXhN\nComments: https://readhacker.news/c/6zXhN\n\nResearch paper: https://acp.copernicus.org/articles/25/2937/2025/",
-      "telegram_link": "https://t.me/hacker_news_feed/120074"
-    },
-    {
       "title": "🕸 Потужний підгон від Google.",
       "link": "https://t.me/aiukraine_wetrust/2028",
       "guid": "https://t.me/aiukraine_wetrust/2028",
@@ -877,24 +292,6 @@
       "timestamp": "2025-08-23T16:11:13+00:00",
       "description": "🕸 Потужний підгон від Google. \n\nна ці вихідні відкрили доступ до генерації відосів у VEO всім користувачам БЕЗКОШТОВНО 🫡\n\nдають 3 відоси на акаунт \n\n👆 тестимо тут.\n\n🌀AI UKRAINE",
       "telegram_link": "https://t.me/aiukraine_wetrust/2028"
-    },
-    {
-      "title": "I run a full Linux desktop in Docker just because I can (❄️ Score: 150+ in 4 days)",
-      "link": "https://readhacker.news/s/6zXHc",
-      "guid": "https://readhacker.news/s/6zXHc",
-      "pubDate": "Sat, 23 Aug 2025 15:00:01 +0000",
-      "timestamp": "2025-08-23T15:00:01+00:00",
-      "description": "I run a full Linux desktop in Docker just because I can (❄️ Score: 150+ in 4 days)\n\nLink: https://readhacker.news/s/6zXHc\nComments: https://readhacker.news/c/6zXHc",
-      "telegram_link": "https://t.me/hacker_news_feed/120073"
-    },
-    {
-      "title": "From M1 MacBook to Arch Linux: A month-long experiment that became permanenent (❄️ Score: 151+ in 3 days)",
-      "link": "https://readhacker.news/s/6zZsm",
-      "guid": "https://readhacker.news/s/6zZsm",
-      "pubDate": "Sat, 23 Aug 2025 14:10:15 +0000",
-      "timestamp": "2025-08-23T14:10:15+00:00",
-      "description": "From M1 MacBook to Arch Linux: A month-long experiment that became permanenent (❄️ Score: 151+ in 3 days)\n\nLink: https://readhacker.news/s/6zZsm\nComments: https://readhacker.news/c/6zZsm",
-      "telegram_link": "https://t.me/hacker_news_feed/120072"
     },
     {
       "title": "👾 В GPT-5 завезли Quiz карточки",
@@ -906,15 +303,6 @@
       "telegram_link": "https://t.me/mishin_learning/1831"
     },
     {
-      "title": "Manim: Animation engine for explanatory math videos (Score: 155+ in 5 hours)",
-      "link": "https://readhacker.news/s/6AdBz",
-      "guid": "https://readhacker.news/s/6AdBz",
-      "pubDate": "Sat, 23 Aug 2025 13:30:03 +0000",
-      "timestamp": "2025-08-23T13:30:03+00:00",
-      "description": "Manim: Animation engine for explanatory math videos (Score: 155+ in 5 hours)\n\nLink: https://readhacker.news/s/6AdBz\nComments: https://readhacker.news/c/6AdBz",
-      "telegram_link": "https://t.me/hacker_news_feed/120071"
-    },
-    {
       "title": "Оце халява — на вихідні Veo 3 зробили безплатним для всіх користувачів, навіть без підписки 👌",
       "link": "https://t.me/oooneuro/5770",
       "guid": "https://t.me/oooneuro/5770",
@@ -922,15 +310,6 @@
       "timestamp": "2025-08-23T12:59:30+00:00",
       "description": "Оце халява — на вихідні Veo 3 зробили безплатним для всіх користувачів, навіть без підписки 👌\n\nАле з нюансом: у вас усього три генерації 😢\n\nооо нейромережеве | Монобаза",
       "telegram_link": "https://t.me/oooneuro/5770"
-    },
-    {
-      "title": "I'm too dumb for Zig's new IO interface (Score: 150+ in 5 hours)",
-      "link": "https://readhacker.news/s/6AdwF",
-      "guid": "https://readhacker.news/s/6AdwF",
-      "pubDate": "Sat, 23 Aug 2025 12:20:12 +0000",
-      "timestamp": "2025-08-23T12:20:12+00:00",
-      "description": "I&#x27;m too dumb for Zig&#x27;s new IO interface (Score: 150+ in 5 hours)\n\nLink: https://readhacker.news/s/6AdwF\nComments: https://readhacker.news/c/6AdwF",
-      "telegram_link": "https://t.me/hacker_news_feed/120070"
     },
     {
       "title": "Post 1830 on @mishin_learning",
@@ -969,114 +348,6 @@
       "telegram_link": "https://t.me/mishin_learning/1827"
     },
     {
-      "title": "Show HN: JavaScript-free (X)HTML Includes (Score: 150+ in 15 hours)",
-      "link": "https://readhacker.news/s/6AbKZ",
-      "guid": "https://readhacker.news/s/6AbKZ",
-      "pubDate": "Sat, 23 Aug 2025 10:40:08 +0000",
-      "timestamp": "2025-08-23T10:40:08+00:00",
-      "description": "Show HN: JavaScript-free (X)HTML Includes (Score: 150+ in 15 hours)\n\nLink: https://readhacker.news/s/6AbKZ\nComments: https://readhacker.news/c/6AbKZ\n\n(spoiler: its XSLT)\nI&#x27;ve been working on a little demo for how to avoid copy-pasting header/footer boilerplate on a simple static webpage. My goal is to approximate the experience of Jekyll/Hugo but eliminate the need for a build step before publishing. This demo shows how to get basic templating features with XSL so you could write a blog post which looks like\n  &lt;?xml version=&quot;1.0&quot;?&gt;\n  &lt;?xml-stylesheet type=&quot;text/xsl&quot; href=&quot;/template.xsl&quot;?&gt;\n  &lt;page&gt;\n      &lt;title&gt;My Article&lt;/title&gt;\n      &lt;content&gt;\n          some content\n          &lt;ul&gt;\n              &lt;li&gt;hello&lt;/li&gt;\n              &lt;li&gt;hello&lt;/li&gt;\n          &lt;/ul&gt;\n      &lt;/content&gt;\n  &lt;/page&gt;\n\nSome properties which set this approach apart from other methods:\n  - no build step (no need to setup Jekyll on the client or configure Github/Gitlab actions)\n  - works on any webserver (e.g. as opposed to server-side includes, actions)\n  - normal looking URLs (e.g. `example.com/foobar` as opposed to `example.com/#page=foobar`)\n\nThere&#x27;s been some talk about removing XSLT support from the HTML spec [0], so I figured I would show this proof of concept while it still works.\n[0]: https://news.ycombinator.com/item?id=44952185\nSee also: grug-brain XSLT https://news.ycombinator.com/item?id=44393817",
-      "telegram_link": "https://t.me/hacker_news_feed/120069"
-    },
-    {
-      "title": "Shader Academy: Learn computer graphics by solving challenges (❄️ Score: 151+ in 2 days)",
-      "link": "https://readhacker.news/s/6A2Yy",
-      "guid": "https://readhacker.news/s/6A2Yy",
-      "pubDate": "Sat, 23 Aug 2025 10:40:07 +0000",
-      "timestamp": "2025-08-23T10:40:07+00:00",
-      "description": "Shader Academy: Learn computer graphics by solving challenges (❄️ Score: 151+ in 2 days)\n\nLink: https://readhacker.news/s/6A2Yy\nComments: https://readhacker.news/c/6A2Yy",
-      "telegram_link": "https://t.me/hacker_news_feed/120068"
-    },
-    {
-      "title": "Bluesky Goes Dark in Mississippi over Age Verification Law (Score: 153+ in 10 hours)",
-      "link": "https://readhacker.news/s/6AcAG",
-      "guid": "https://readhacker.news/s/6AcAG",
-      "pubDate": "Sat, 23 Aug 2025 09:00:08 +0000",
-      "timestamp": "2025-08-23T09:00:08+00:00",
-      "description": "Bluesky Goes Dark in Mississippi over Age Verification Law (Score: 153+ in 10 hours)\n\nLink: https://readhacker.news/s/6AcAG\nComments: https://readhacker.news/c/6AcAG",
-      "telegram_link": "https://t.me/hacker_news_feed/120067"
-    },
-    {
-      "title": "Being “Confidently Wrong” is holding AI back (Score: 150+ in 19 hours)",
-      "link": "https://readhacker.news/s/6Aag4",
-      "guid": "https://readhacker.news/s/6Aag4",
-      "pubDate": "Sat, 23 Aug 2025 07:20:08 +0000",
-      "timestamp": "2025-08-23T07:20:08+00:00",
-      "description": "Being “Confidently Wrong” is holding AI back (Score: 150+ in 19 hours)\n\nLink: https://readhacker.news/s/6Aag4\nComments: https://readhacker.news/c/6Aag4",
-      "telegram_link": "https://t.me/hacker_news_feed/120066"
-    },
-    {
-      "title": "Computer fraud laws used to prosecute leaking air crash footage to CNN (Score: 150+ in 6 hours)",
-      "link": "https://readhacker.news/s/6AcNq",
-      "guid": "https://readhacker.news/s/6AcNq",
-      "pubDate": "Sat, 23 Aug 2025 06:10:14 +0000",
-      "timestamp": "2025-08-23T06:10:14+00:00",
-      "description": "Computer fraud laws used to prosecute leaking air crash footage to CNN (Score: 150+ in 6 hours)\n\nLink: https://readhacker.news/s/6AcNq\nComments: https://readhacker.news/c/6AcNq",
-      "telegram_link": "https://t.me/hacker_news_feed/120065"
-    },
-    {
-      "title": "Our Response to Mississippi's Age Assurance Law (Score: 152+ in 9 hours)",
-      "link": "https://readhacker.news/s/6Ac3f",
-      "guid": "https://readhacker.news/s/6Ac3f",
-      "pubDate": "Sat, 23 Aug 2025 05:10:02 +0000",
-      "timestamp": "2025-08-23T05:10:02+00:00",
-      "description": "Our Response to Mississippi&#x27;s Age Assurance Law (Score: 152+ in 9 hours)\n\nLink: https://readhacker.news/s/6Ac3f\nComments: https://readhacker.news/c/6Ac3f",
-      "telegram_link": "https://t.me/hacker_news_feed/120064"
-    },
-    {
-      "title": "XSLT removal will break multiple government and regulatory sites (Score: 150+ in 11 hours)",
-      "link": "https://readhacker.news/s/6Abtu",
-      "guid": "https://readhacker.news/s/6Abtu",
-      "pubDate": "Sat, 23 Aug 2025 05:00:02 +0000",
-      "timestamp": "2025-08-23T05:00:02+00:00",
-      "description": "XSLT removal will break multiple government and regulatory sites (Score: 150+ in 11 hours)\n\nLink: https://readhacker.news/s/6Abtu\nComments: https://readhacker.news/c/6Abtu",
-      "telegram_link": "https://t.me/hacker_news_feed/120063"
-    },
-    {
-      "title": "It’s not wrong that \"\\u{1F926}\\u{1F3FC}\\u200D\\u2642\\uFE0F\".length == 7 (2019) (Score: 150+ in 22 hours)",
-      "link": "https://readhacker.news/s/6A9Bx",
-      "guid": "https://readhacker.news/s/6A9Bx",
-      "pubDate": "Sat, 23 Aug 2025 04:30:07 +0000",
-      "timestamp": "2025-08-23T04:30:07+00:00",
-      "description": "It’s not wrong that &quot;\\u{1F926}\\u{1F3FC}\\u200D\\u2642\\uFE0F&quot;.length == 7 (2019) (Score: 150+ in 22 hours)\n\nLink: https://readhacker.news/s/6A9Bx\nComments: https://readhacker.news/c/6A9Bx",
-      "telegram_link": "https://t.me/hacker_news_feed/120062"
-    },
-    {
-      "title": "Nitro: A tiny but flexible init system and process supervisor (Score: 151+ in 7 hours)",
-      "link": "https://readhacker.news/s/6AbQC",
-      "guid": "https://readhacker.news/s/6AbQC",
-      "pubDate": "Sat, 23 Aug 2025 02:50:02 +0000",
-      "timestamp": "2025-08-23T02:50:02+00:00",
-      "description": "Nitro: A tiny but flexible init system and process supervisor (Score: 151+ in 7 hours)\n\nLink: https://readhacker.news/s/6AbQC\nComments: https://readhacker.news/c/6AbQC",
-      "telegram_link": "https://t.me/hacker_news_feed/120061"
-    },
-    {
-      "title": "The First Media over QUIC CDN: Cloudflare (Score: 150+ in 6 hours)",
-      "link": "https://readhacker.news/s/6AbDN",
-      "guid": "https://readhacker.news/s/6AbDN",
-      "pubDate": "Sat, 23 Aug 2025 01:10:03 +0000",
-      "timestamp": "2025-08-23T01:10:03+00:00",
-      "description": "The First Media over QUIC CDN: Cloudflare (Score: 150+ in 6 hours)\n\nLink: https://readhacker.news/s/6AbDN\nComments: https://readhacker.news/c/6AbDN",
-      "telegram_link": "https://t.me/hacker_news_feed/120060"
-    },
-    {
-      "title": "The US Department of Agriculture Bans Support for Renewables (Score: 151+ in 6 hours)",
-      "link": "https://readhacker.news/s/6AbwV",
-      "guid": "https://readhacker.news/s/6AbwV",
-      "pubDate": "Sat, 23 Aug 2025 00:10:03 +0000",
-      "timestamp": "2025-08-23T00:10:03+00:00",
-      "description": "The US Department of Agriculture Bans Support for Renewables (Score: 151+ in 6 hours)\n\nLink: https://readhacker.news/s/6AbwV\nComments: https://readhacker.news/c/6AbwV",
-      "telegram_link": "https://t.me/hacker_news_feed/120059"
-    },
-    {
-      "title": "Leaving Gmail for Mailbox.org (Score: 150+ in 6 hours)",
-      "link": "https://readhacker.news/s/6Abu6",
-      "guid": "https://readhacker.news/s/6Abu6",
-      "pubDate": "Sat, 23 Aug 2025 00:00:13 +0000",
-      "timestamp": "2025-08-23T00:00:13+00:00",
-      "description": "Leaving Gmail for Mailbox.org (Score: 150+ in 6 hours)\n\nLink: https://readhacker.news/s/6Abu6\nComments: https://readhacker.news/c/6Abu6",
-      "telegram_link": "https://t.me/hacker_news_feed/120058"
-    },
-    {
       "title": "Meta заплатит Google более $10 млрд за услуги Google Cloud в течение 6 лет. Впрочем, для Google это уже не первая такая",
       "link": "https://www.theinformation.com/articles/meta-signs-10-billion-plus-cloud-deal-google?rc=ukjmk2",
       "guid": "https://www.theinformation.com/articles/meta-signs-10-billion-plus-cloud-deal-google?rc=ukjmk2",
@@ -1084,60 +355,6 @@
       "timestamp": "2025-08-22T23:07:55+00:00",
       "description": "Meta заплатит Google более $10 млрд за услуги Google Cloud в течение 6 лет. Впрочем, для Google это уже не первая такая сделка. OpenAI подписала соглашение с Google Cloud, Apple хранит данные iCloud у Google. Вроде и конкуренты, но зачем же стулья ломать?\n\nЗакерберг в июле обещал потратить &quot;сотни миллиардов долларов&quot; на расширение вычислительных мощностей для AI-амбиций компании. Meta продолжает строить собственные дата-центры (буквально на этой неделе объявили о новом за $1 млрд в Миссури), но одновременно арендует мощности у всех подряд — AWS, Azure, Oracle, CoreWeave, теперь вот Google.\n\nhttps://www.theinformation.com/articles/meta-signs-10-billion-plus-cloud-deal-google?rc=ukjmk2",
       "telegram_link": "https://t.me/blognot/6298"
-    },
-    {
-      "title": "U.S. government takes 10% stake in Intel (🔥 Score: 155+ in 1 hour)",
-      "link": "https://readhacker.news/s/6AceP",
-      "guid": "https://readhacker.news/s/6AceP",
-      "pubDate": "Fri, 22 Aug 2025 22:20:00 +0000",
-      "timestamp": "2025-08-22T22:20:00+00:00",
-      "description": "U.S. government takes 10% stake in Intel (🔥 Score: 155+ in 1 hour)\n\nLink: https://readhacker.news/s/6AceP\nComments: https://readhacker.news/c/6AceP",
-      "telegram_link": "https://t.me/hacker_news_feed/120057"
-    },
-    {
-      "title": "LabPlot: Free, open source and cross-platform Data Visualization and Analysis (Score: 150+ in 10 hours)",
-      "link": "https://readhacker.news/s/6A9Tj",
-      "guid": "https://readhacker.news/s/6A9Tj",
-      "pubDate": "Fri, 22 Aug 2025 19:30:09 +0000",
-      "timestamp": "2025-08-22T19:30:09+00:00",
-      "description": "LabPlot: Free, open source and cross-platform Data Visualization and Analysis (Score: 150+ in 10 hours)\n\nLink: https://readhacker.news/s/6A9Tj\nComments: https://readhacker.news/c/6A9Tj",
-      "telegram_link": "https://t.me/hacker_news_feed/120056"
-    },
-    {
-      "title": "VHS-C: When a lazy idea stumbles towards perfection [video] (❄️ Score: 150+ in 4 days)",
-      "link": "https://readhacker.news/s/6zUGS",
-      "guid": "https://readhacker.news/s/6zUGS",
-      "pubDate": "Fri, 22 Aug 2025 19:10:01 +0000",
-      "timestamp": "2025-08-22T19:10:01+00:00",
-      "description": "VHS-C: When a lazy idea stumbles towards perfection [video] (❄️ Score: 150+ in 4 days)\n\nLink: https://readhacker.news/s/6zUGS\nComments: https://readhacker.news/c/6zUGS",
-      "telegram_link": "https://t.me/hacker_news_feed/120055"
-    },
-    {
-      "title": "Thunderbird Pro August 2025 Update (Score: 151+ in 4 hours)",
-      "link": "https://readhacker.news/s/6AaKV",
-      "guid": "https://readhacker.news/s/6AaKV",
-      "pubDate": "Fri, 22 Aug 2025 18:50:12 +0000",
-      "timestamp": "2025-08-22T18:50:12+00:00",
-      "description": "Thunderbird Pro August 2025 Update (Score: 151+ in 4 hours)\n\nLink: https://readhacker.news/s/6AaKV\nComments: https://readhacker.news/c/6AaKV",
-      "telegram_link": "https://t.me/hacker_news_feed/120054"
-    },
-    {
-      "title": "Waymo granted permit to begin testing in New York City (🔥 Score: 180+ in 1 hour)",
-      "link": "https://readhacker.news/s/6Abkp",
-      "guid": "https://readhacker.news/s/6Abkp",
-      "pubDate": "Fri, 22 Aug 2025 18:20:01 +0000",
-      "timestamp": "2025-08-22T18:20:01+00:00",
-      "description": "Waymo granted permit to begin testing in New York City (🔥 Score: 180+ in 1 hour)\n\nLink: https://readhacker.news/s/6Abkp\nComments: https://readhacker.news/c/6Abkp",
-      "telegram_link": "https://t.me/hacker_news_feed/120053"
-    },
-    {
-      "title": "How Not to Buy a SSD (❄️ Score: 152+ in 4 days)",
-      "link": "https://readhacker.news/s/6zVep",
-      "guid": "https://readhacker.news/s/6zVep",
-      "pubDate": "Fri, 22 Aug 2025 18:10:10 +0000",
-      "timestamp": "2025-08-22T18:10:10+00:00",
-      "description": "How Not to Buy a SSD (❄️ Score: 152+ in 4 days)\n\nLink: https://readhacker.news/s/6zVep\nComments: https://readhacker.news/c/6zVep",
-      "telegram_link": "https://t.me/hacker_news_feed/120052"
     },
     {
       "title": "🤯 Продовжимо марафон некст-степ геймдеву.",
@@ -1185,15 +402,6 @@
       "telegram_link": "https://t.me/oooneuro/5767"
     },
     {
-      "title": "FFmpeg 8.0 (🔥 Score: 153+ in 57 minutes)",
-      "link": "https://readhacker.news/s/6AaWC",
-      "guid": "https://readhacker.news/s/6AaWC",
-      "pubDate": "Fri, 22 Aug 2025 16:20:01 +0000",
-      "timestamp": "2025-08-22T16:20:01+00:00",
-      "description": "FFmpeg 8.0 (🔥 Score: 153+ in 57 minutes)\n\nLink: https://readhacker.news/s/6AaWC\nComments: https://readhacker.news/c/6AaWC",
-      "telegram_link": "https://t.me/hacker_news_feed/120051"
-    },
-    {
       "title": "Порошенко в Твіттері показав свій MacBook на Windows з російським інтерфейсом",
       "link": "https://t.me/oooneuro/5766",
       "guid": "https://t.me/oooneuro/5766",
@@ -1201,33 +409,6 @@
       "timestamp": "2025-08-22T16:02:10+00:00",
       "description": "Порошенко в Твіттері показав свій MacBook на Windows з російським інтерфейсом\n\nНа макбуці цифри 1234, ймовірно пароль",
       "telegram_link": "https://t.me/oooneuro/5766"
-    },
-    {
-      "title": "4chan will refuse to pay daily online safety fines, lawyer tells BBC (Score: 156+ in 5 hours)",
-      "link": "https://readhacker.news/s/6A9Yb",
-      "guid": "https://readhacker.news/s/6A9Yb",
-      "pubDate": "Fri, 22 Aug 2025 16:00:19 +0000",
-      "timestamp": "2025-08-22T16:00:19+00:00",
-      "description": "4chan will refuse to pay daily online safety fines, lawyer tells BBC (Score: 156+ in 5 hours)\n\nLink: https://readhacker.news/s/6A9Yb\nComments: https://readhacker.news/c/6A9Yb",
-      "telegram_link": "https://t.me/hacker_news_feed/120050"
-    },
-    {
-      "title": "Scientists No Longer Find X Professionally Useful, and Have Switched to Bluesky (Score: 151+ in 16 hours)",
-      "link": "https://readhacker.news/s/6A8K9",
-      "guid": "https://readhacker.news/s/6A8K9",
-      "pubDate": "Fri, 22 Aug 2025 15:10:19 +0000",
-      "timestamp": "2025-08-22T15:10:19+00:00",
-      "description": "Scientists No Longer Find X Professionally Useful, and Have Switched to Bluesky (Score: 151+ in 16 hours)\n\nLink: https://readhacker.news/s/6A8K9\nComments: https://readhacker.news/c/6A8K9",
-      "telegram_link": "https://t.me/hacker_news_feed/120049"
-    },
-    {
-      "title": "All managers make mistakes; good managers acknowledge and repair (🔥 Score: 152+ in 2 hours)",
-      "link": "https://readhacker.news/s/6Aapu",
-      "guid": "https://readhacker.news/s/6Aapu",
-      "pubDate": "Fri, 22 Aug 2025 15:10:08 +0000",
-      "timestamp": "2025-08-22T15:10:08+00:00",
-      "description": "All managers make mistakes; good managers acknowledge and repair (🔥 Score: 152+ in 2 hours)\n\nLink: https://readhacker.news/s/6Aapu\nComments: https://readhacker.news/c/6Aapu",
-      "telegram_link": "https://t.me/hacker_news_feed/120048"
     },
     {
       "title": "💜 Runway Game Worlds (beta).",
@@ -1248,69 +429,6 @@
       "telegram_link": "https://t.me/oooneuro/5765"
     },
     {
-      "title": "What the Hell Is Going On? (Score: 159+ in 6 hours)",
-      "link": "https://readhacker.news/s/6A9Fv",
-      "guid": "https://readhacker.news/s/6A9Fv",
-      "pubDate": "Fri, 22 Aug 2025 14:00:03 +0000",
-      "timestamp": "2025-08-22T14:00:03+00:00",
-      "description": "What the Hell Is Going On? (Score: 159+ in 6 hours)\n\nLink: https://readhacker.news/s/6A9Fv\nComments: https://readhacker.news/c/6A9Fv",
-      "telegram_link": "https://t.me/hacker_news_feed/120047"
-    },
-    {
-      "title": "Privately-Owned Rail Cars (Score: 151+ in 23 hours)",
-      "link": "https://readhacker.news/s/6A6yC",
-      "guid": "https://readhacker.news/s/6A6yC",
-      "pubDate": "Fri, 22 Aug 2025 12:30:11 +0000",
-      "timestamp": "2025-08-22T12:30:11+00:00",
-      "description": "Privately-Owned Rail Cars (Score: 151+ in 23 hours)\n\nLink: https://readhacker.news/s/6A6yC\nComments: https://readhacker.news/c/6A6yC",
-      "telegram_link": "https://t.me/hacker_news_feed/120046"
-    },
-    {
-      "title": "Python f-string cheat sheets (2022) (Score: 150+ in 1 day)",
-      "link": "https://readhacker.news/s/6A5FP",
-      "guid": "https://readhacker.news/s/6A5FP",
-      "pubDate": "Fri, 22 Aug 2025 12:30:10 +0000",
-      "timestamp": "2025-08-22T12:30:10+00:00",
-      "description": "Python f-string cheat sheets (2022) (Score: 150+ in 1 day)\n\nLink: https://readhacker.news/s/6A5FP\nComments: https://readhacker.news/c/6A5FP",
-      "telegram_link": "https://t.me/hacker_news_feed/120045"
-    },
-    {
-      "title": "Go is still not good (🔥 Score: 158+ in 3 hours)",
-      "link": "https://readhacker.news/s/6A9UM",
-      "guid": "https://readhacker.news/s/6A9UM",
-      "pubDate": "Fri, 22 Aug 2025 12:30:09 +0000",
-      "timestamp": "2025-08-22T12:30:09+00:00",
-      "description": "Go is still not good (🔥 Score: 158+ in 3 hours)\n\nLink: https://readhacker.news/s/6A9UM\nComments: https://readhacker.news/c/6A9UM",
-      "telegram_link": "https://t.me/hacker_news_feed/120044"
-    },
-    {
-      "title": "Everything Is Correlated (Score: 151+ in 10 hours)",
-      "link": "https://readhacker.news/s/6A9em",
-      "guid": "https://readhacker.news/s/6A9em",
-      "pubDate": "Fri, 22 Aug 2025 12:30:05 +0000",
-      "timestamp": "2025-08-22T12:30:05+00:00",
-      "description": "Everything Is Correlated (Score: 151+ in 10 hours)\n\nLink: https://readhacker.news/s/6A9em\nComments: https://readhacker.news/c/6A9em",
-      "telegram_link": "https://t.me/hacker_news_feed/120043"
-    },
-    {
-      "title": "My other email client is a daemon (Score: 162+ in 1 day)",
-      "link": "https://readhacker.news/s/6A67M",
-      "guid": "https://readhacker.news/s/6A67M",
-      "pubDate": "Fri, 22 Aug 2025 12:20:20 +0000",
-      "timestamp": "2025-08-22T12:20:20+00:00",
-      "description": "My other email client is a daemon (Score: 162+ in 1 day)\n\nLink: https://readhacker.news/s/6A67M\nComments: https://readhacker.news/c/6A67M",
-      "telegram_link": "https://t.me/hacker_news_feed/120042"
-    },
-    {
-      "title": "Building AI products in the probabilistic era (Score: 150+ in 17 hours)",
-      "link": "https://readhacker.news/s/6A7Ze",
-      "guid": "https://readhacker.news/s/6A7Ze",
-      "pubDate": "Fri, 22 Aug 2025 12:00:15 +0000",
-      "timestamp": "2025-08-22T12:00:15+00:00",
-      "description": "Building AI products in the probabilistic era (Score: 150+ in 17 hours)\n\nLink: https://readhacker.news/s/6A7Ze\nComments: https://readhacker.news/c/6A7Ze",
-      "telegram_link": "https://t.me/hacker_news_feed/120041"
-    },
-    {
       "title": "Знайшов дуже крутий ШІ-сервіс для музикантів — Studio Moises 😇",
       "link": "https://t.me/oooneuro/5764",
       "guid": "https://t.me/oooneuro/5764",
@@ -1327,177 +445,6 @@
       "timestamp": "2025-08-22T11:01:45+00:00",
       "description": "Канадская Cohere выпустила Command A Reasoning — модель специально для корпоративных задач. В бенчмарках (собственных) сравнивают с DeepSeek-R1 0528, gpt-oss-120b и Mistral Magistral Medium и превосходят их — заявляя таким образом о самой мощной рассуждающей модели для корпоративного использования, то есть такую, которую можно разместить на своих мощностях.\n\nПри этом эти мощности необязательно должны выглядеть целым датацентром — разработчики утверждают, что модель с контекстом в 128K сможет работать на одном GPU A100 или H100, что снижает стоимость внедрения до нескольких сотен тысяч долларов. Впрочем, для большего контекста уже понадобится кластер и кратное увеличение расходов, что, впрочем, все равно по карману корпорациям.\n\nhttps://cohere.com/blog/command-a-reasoning",
       "telegram_link": "https://t.me/blognot/6297"
-    },
-    {
-      "title": "Why Semantic Layers Matter (and how to build one with DuckDB) (❄️ Score: 150+ in 2 days)",
-      "link": "https://readhacker.news/s/6zYGr",
-      "guid": "https://readhacker.news/s/6zYGr",
-      "pubDate": "Fri, 22 Aug 2025 10:50:15 +0000",
-      "timestamp": "2025-08-22T10:50:15+00:00",
-      "description": "Why Semantic Layers Matter (and how to build one with DuckDB) (❄️ Score: 150+ in 2 days)\n\nLink: https://readhacker.news/s/6zYGr\nComments: https://readhacker.news/c/6zYGr",
-      "telegram_link": "https://t.me/hacker_news_feed/120040"
-    },
-    {
-      "title": "Io_uring, kTLS and Rust for zero syscall HTTPS server (Score: 150+ in 4 hours)",
-      "link": "https://readhacker.news/s/6A9pK",
-      "guid": "https://readhacker.news/s/6A9pK",
-      "pubDate": "Fri, 22 Aug 2025 08:20:01 +0000",
-      "timestamp": "2025-08-22T08:20:01+00:00",
-      "description": "Io_uring, kTLS and Rust for zero syscall HTTPS server (Score: 150+ in 4 hours)\n\nLink: https://readhacker.news/s/6A9pK\nComments: https://readhacker.news/c/6A9pK",
-      "telegram_link": "https://t.me/hacker_news_feed/120039"
-    },
-    {
-      "title": "Control shopping cart wheels with your phone (2021) (Score: 150+ in 7 hours)",
-      "link": "https://readhacker.news/s/6A98n",
-      "guid": "https://readhacker.news/s/6A98n",
-      "pubDate": "Fri, 22 Aug 2025 08:10:03 +0000",
-      "timestamp": "2025-08-22T08:10:03+00:00",
-      "description": "Control shopping cart wheels with your phone (2021) (Score: 150+ in 7 hours)\n\nLink: https://readhacker.news/s/6A98n\nComments: https://readhacker.news/c/6A98n\n\nOriginal DEF CON 29 (2021) talk: https://www.youtube.com/watch?v=fBICDODmCPI",
-      "telegram_link": "https://t.me/hacker_news_feed/120038"
-    },
-    {
-      "title": "How does the US use water? (Score: 151+ in 19 hours)",
-      "link": "https://readhacker.news/s/6A6wL",
-      "guid": "https://readhacker.news/s/6A6wL",
-      "pubDate": "Fri, 22 Aug 2025 07:40:17 +0000",
-      "timestamp": "2025-08-22T07:40:17+00:00",
-      "description": "How does the US use water? (Score: 151+ in 19 hours)\n\nLink: https://readhacker.news/s/6A6wL\nComments: https://readhacker.news/c/6A6wL",
-      "telegram_link": "https://t.me/hacker_news_feed/120037"
-    },
-    {
-      "title": "Perfect Freehand – Draw perfect pressure-sensitive freehand lines (❄️ Score: 150+ in 2 days)",
-      "link": "https://readhacker.news/s/6zZm2",
-      "guid": "https://readhacker.news/s/6zZm2",
-      "pubDate": "Fri, 22 Aug 2025 06:00:19 +0000",
-      "timestamp": "2025-08-22T06:00:19+00:00",
-      "description": "Perfect Freehand – Draw perfect pressure-sensitive freehand lines (❄️ Score: 150+ in 2 days)\n\nLink: https://readhacker.news/s/6zZm2\nComments: https://readhacker.news/c/6zZm2",
-      "telegram_link": "https://t.me/hacker_news_feed/120036"
-    },
-    {
-      "title": "The Onion brought back its print edition and the gamble is paying off (Score: 152+ in 7 hours)",
-      "link": "https://readhacker.news/s/6A8L7",
-      "guid": "https://readhacker.news/s/6A8L7",
-      "pubDate": "Fri, 22 Aug 2025 05:40:11 +0000",
-      "timestamp": "2025-08-22T05:40:11+00:00",
-      "description": "The Onion brought back its print edition and the gamble is paying off (Score: 152+ in 7 hours)\n\nLink: https://readhacker.news/s/6A8L7\nComments: https://readhacker.news/c/6A8L7",
-      "telegram_link": "https://t.me/hacker_news_feed/120035"
-    },
-    {
-      "title": "Crimes with Python's Pattern Matching (2022) (Score: 150+ in 9 hours)",
-      "link": "https://readhacker.news/s/6A8e7",
-      "guid": "https://readhacker.news/s/6A8e7",
-      "pubDate": "Fri, 22 Aug 2025 05:00:06 +0000",
-      "timestamp": "2025-08-22T05:00:06+00:00",
-      "description": "Crimes with Python&#x27;s Pattern Matching (2022) (Score: 150+ in 9 hours)\n\nLink: https://readhacker.news/s/6A8e7\nComments: https://readhacker.news/c/6A8e7",
-      "telegram_link": "https://t.me/hacker_news_feed/120034"
-    },
-    {
-      "title": "The Core of Rust (Score: 150+ in 12 hours)",
-      "link": "https://readhacker.news/s/6A7rs",
-      "guid": "https://readhacker.news/s/6A7rs",
-      "pubDate": "Fri, 22 Aug 2025 04:40:02 +0000",
-      "timestamp": "2025-08-22T04:40:02+00:00",
-      "description": "The Core of Rust (Score: 150+ in 12 hours)\n\nLink: https://readhacker.news/s/6A7rs\nComments: https://readhacker.news/c/6A7rs",
-      "telegram_link": "https://t.me/hacker_news_feed/120033"
-    },
-    {
-      "title": "Uv format: Code Formatting Comes to uv (experimentally) (Score: 150+ in 6 hours)",
-      "link": "https://readhacker.news/s/6A8nf",
-      "guid": "https://readhacker.news/s/6A8nf",
-      "pubDate": "Fri, 22 Aug 2025 02:30:02 +0000",
-      "timestamp": "2025-08-22T02:30:02+00:00",
-      "description": "Uv format: Code Formatting Comes to uv (experimentally) (Score: 150+ in 6 hours)\n\nLink: https://readhacker.news/s/6A8nf\nComments: https://readhacker.news/c/6A8nf",
-      "telegram_link": "https://t.me/hacker_news_feed/120032"
-    },
-    {
-      "title": "How to stop feeling lost in tech: the wafflehouse method (Score: 150+ in 23 hours)",
-      "link": "https://readhacker.news/s/6A5mq",
-      "guid": "https://readhacker.news/s/6A5mq",
-      "pubDate": "Fri, 22 Aug 2025 01:00:13 +0000",
-      "timestamp": "2025-08-22T01:00:13+00:00",
-      "description": "How to stop feeling lost in tech: the wafflehouse method (Score: 150+ in 23 hours)\n\nLink: https://readhacker.news/s/6A5mq\nComments: https://readhacker.news/c/6A5mq",
-      "telegram_link": "https://t.me/hacker_news_feed/120031"
-    },
-    {
-      "title": "The contrarian physics podcast subculture (Score: 150+ in 7 hours)",
-      "link": "https://readhacker.news/s/6A7DL",
-      "guid": "https://readhacker.news/s/6A7DL",
-      "pubDate": "Fri, 22 Aug 2025 00:40:05 +0000",
-      "timestamp": "2025-08-22T00:40:05+00:00",
-      "description": "The contrarian physics podcast subculture (Score: 150+ in 7 hours)\n\nLink: https://readhacker.news/s/6A7DL\nComments: https://readhacker.news/c/6A7DL",
-      "telegram_link": "https://t.me/hacker_news_feed/120030"
-    },
-    {
-      "title": "CEO pay and stock buybacks have soared at the 100 largest low-wage corporations (🔥 Score: 152+ in 1 hour)",
-      "link": "https://readhacker.news/s/6A8Gh",
-      "guid": "https://readhacker.news/s/6A8Gh",
-      "pubDate": "Thu, 21 Aug 2025 23:20:01 +0000",
-      "timestamp": "2025-08-21T23:20:01+00:00",
-      "description": "CEO pay and stock buybacks have soared at the 100 largest low-wage corporations (🔥 Score: 152+ in 1 hour)\n\nLink: https://readhacker.news/s/6A8Gh\nComments: https://readhacker.news/c/6A8Gh",
-      "telegram_link": "https://t.me/hacker_news_feed/120029"
-    },
-    {
-      "title": "An interactive guide to SVG paths (❄️ Score: 150+ in 3 days)",
-      "link": "https://readhacker.news/s/6zUSF",
-      "guid": "https://readhacker.news/s/6zUSF",
-      "pubDate": "Thu, 21 Aug 2025 22:40:04 +0000",
-      "timestamp": "2025-08-21T22:40:04+00:00",
-      "description": "An interactive guide to SVG paths (❄️ Score: 150+ in 3 days)\n\nLink: https://readhacker.news/s/6zUSF\nComments: https://readhacker.news/c/6zUSF",
-      "telegram_link": "https://t.me/hacker_news_feed/120028"
-    },
-    {
-      "title": "How well does the money laundering control system work? (Score: 150+ in 9 hours)",
-      "link": "https://readhacker.news/s/6A6Df",
-      "guid": "https://readhacker.news/s/6A6Df",
-      "pubDate": "Thu, 21 Aug 2025 22:20:15 +0000",
-      "timestamp": "2025-08-21T22:20:15+00:00",
-      "description": "How well does the money laundering control system work? (Score: 150+ in 9 hours)\n\nLink: https://readhacker.news/s/6A6Df\nComments: https://readhacker.news/c/6A6Df",
-      "telegram_link": "https://t.me/hacker_news_feed/120027"
-    },
-    {
-      "title": "DeepSeek-v3.1 Release (🔥 Score: 154+ in 2 hours)",
-      "link": "https://readhacker.news/s/6A86w",
-      "guid": "https://readhacker.news/s/6A86w",
-      "pubDate": "Thu, 21 Aug 2025 21:40:06 +0000",
-      "timestamp": "2025-08-21T21:40:06+00:00",
-      "description": "DeepSeek-v3.1 Release (🔥 Score: 154+ in 2 hours)\n\nLink: https://readhacker.news/s/6A86w\nComments: https://readhacker.news/c/6A86w",
-      "telegram_link": "https://t.me/hacker_news_feed/120026"
-    },
-    {
-      "title": "AI tooling must be disclosed for contributions (🔥 Score: 167+ in 1 hour)",
-      "link": "https://readhacker.news/s/6A832",
-      "guid": "https://readhacker.news/s/6A832",
-      "pubDate": "Thu, 21 Aug 2025 20:00:00 +0000",
-      "timestamp": "2025-08-21T20:00:00+00:00",
-      "description": "AI tooling must be disclosed for contributions (🔥 Score: 167+ in 1 hour)\n\nLink: https://readhacker.news/s/6A832\nComments: https://readhacker.news/c/6A832",
-      "telegram_link": "https://t.me/hacker_news_feed/120025"
-    },
-    {
-      "title": "Forced every engineer to take sales calls.They rewrote our platform in 2 weeks (🔥 Score: 152+ in 3 hours)",
-      "link": "https://readhacker.news/s/6A7hg",
-      "guid": "https://readhacker.news/s/6A7hg",
-      "pubDate": "Thu, 21 Aug 2025 19:10:08 +0000",
-      "timestamp": "2025-08-21T19:10:08+00:00",
-      "description": "Forced every engineer to take sales calls.They rewrote our platform in 2 weeks (🔥 Score: 152+ in 3 hours)\n\nLink: https://readhacker.news/s/6A7hg\nComments: https://readhacker.news/c/6A7hg",
-      "telegram_link": "https://t.me/hacker_news_feed/120024"
-    },
-    {
-      "title": "Unity reintroduces the Runtime Fee through its Industry license (Score: 153+ in 4 hours)",
-      "link": "https://readhacker.news/s/6A6Y7",
-      "guid": "https://readhacker.news/s/6A6Y7",
-      "pubDate": "Thu, 21 Aug 2025 19:00:21 +0000",
-      "timestamp": "2025-08-21T19:00:21+00:00",
-      "description": "Unity reintroduces the Runtime Fee through its Industry license (Score: 153+ in 4 hours)\n\nLink: https://readhacker.news/s/6A6Y7\nComments: https://readhacker.news/c/6A6Y7",
-      "telegram_link": "https://t.me/hacker_news_feed/120023"
-    },
-    {
-      "title": "Beyond sensor data: Foundation models of behavioral data from wearables (Score: 153+ in 4 hours)",
-      "link": "https://readhacker.news/s/6A6ZZ",
-      "guid": "https://readhacker.news/s/6A6ZZ",
-      "pubDate": "Thu, 21 Aug 2025 19:00:02 +0000",
-      "timestamp": "2025-08-21T19:00:02+00:00",
-      "description": "Beyond sensor data: Foundation models of behavioral data from wearables (Score: 153+ in 4 hours)\n\nLink: https://readhacker.news/s/6A6ZZ\nComments: https://readhacker.news/c/6A6ZZ",
-      "telegram_link": "https://t.me/hacker_news_feed/120022"
     },
     {
       "title": "DeepSeek выкатил модель V3.1 и утверждает, что модель превосходит флагманскую рассуждающую R1 на ключевых бенчмарках. Ве",
@@ -1518,15 +465,6 @@
       "telegram_link": "https://t.me/aiukraine_wetrust/2025"
     },
     {
-      "title": "Bank forced to rehire workers after lying about chatbot productivity, union says (🔥 Score: 160+ in 2 hours)",
-      "link": "https://readhacker.news/s/6A7jF",
-      "guid": "https://readhacker.news/s/6A7jF",
-      "pubDate": "Thu, 21 Aug 2025 18:50:09 +0000",
-      "timestamp": "2025-08-21T18:50:09+00:00",
-      "description": "Bank forced to rehire workers after lying about chatbot productivity, union says (🔥 Score: 160+ in 2 hours)\n\nLink: https://readhacker.news/s/6A7jF\nComments: https://readhacker.news/c/6A7jF",
-      "telegram_link": "https://t.me/hacker_news_feed/120021"
-    },
-    {
       "title": "Post 5763 on @oooneuro",
       "link": "https://t.me/oooneuro/5763",
       "guid": "https://t.me/oooneuro/5763",
@@ -1545,87 +483,6 @@
       "telegram_link": "https://t.me/oooneuro/5762"
     },
     {
-      "title": "Margin debt surges to record high (Score: 151+ in 6 hours)",
-      "link": "https://readhacker.news/s/6A6nE",
-      "guid": "https://readhacker.news/s/6A6nE",
-      "pubDate": "Thu, 21 Aug 2025 17:50:20 +0000",
-      "timestamp": "2025-08-21T17:50:20+00:00",
-      "description": "Margin debt surges to record high (Score: 151+ in 6 hours)\n\nLink: https://readhacker.news/s/6A6nE\nComments: https://readhacker.news/c/6A6nE",
-      "telegram_link": "https://t.me/hacker_news_feed/120020"
-    },
-    {
-      "title": "Show HN: PlutoPrint – Generate PDFs and PNGs from HTML with Python (Score: 150+ in 21 hours)",
-      "link": "https://readhacker.news/s/6A4Hk",
-      "guid": "https://readhacker.news/s/6A4Hk",
-      "pubDate": "Thu, 21 Aug 2025 17:50:15 +0000",
-      "timestamp": "2025-08-21T17:50:15+00:00",
-      "description": "Show HN: PlutoPrint – Generate PDFs and PNGs from HTML with Python (Score: 150+ in 21 hours)\n\nLink: https://readhacker.news/s/6A4Hk\nComments: https://readhacker.news/c/6A4Hk\n\nHi everyone, I built PlutoPrint because I needed a simple way to generate beautiful PDFs and images directly from HTML with Python. Most of the tools I tried felt heavy, tricky to set up, or produced results that didn’t look great, so I wanted something lightweight, modern, and fast. PlutoPrint is built on top of PlutoBook’s rendering engine, which is designed for paged media, and then wrapped with a Python API that makes it easy to turn HTML or XML into crisp PDFs and PNGs. I’ve used it for things like invoices, reports, tickets, and even snapshots, and it can also integrate with Matplotlib to render charts directly into documents.\nI’d be glad to hear what you think. If you’ve ever had to wrestle with generating PDFs or images from HTML, I hope this feels like a smoother option. Feedback, ideas, or even just impressions are all very welcome, and I’d love to learn how PlutoPrint could be more useful for you.",
-      "telegram_link": "https://t.me/hacker_news_feed/120019"
-    },
-    {
-      "title": "AI crawlers, fetchers are blowing up websites; Meta, OpenAI are worst offenders (Score: 155+ in 5 hours)",
-      "link": "https://readhacker.news/s/6A6qh",
-      "guid": "https://readhacker.news/s/6A6qh",
-      "pubDate": "Thu, 21 Aug 2025 17:00:04 +0000",
-      "timestamp": "2025-08-21T17:00:04+00:00",
-      "description": "AI crawlers, fetchers are blowing up websites; Meta, OpenAI are worst offenders (Score: 155+ in 5 hours)\n\nLink: https://readhacker.news/s/6A6qh\nComments: https://readhacker.news/c/6A6qh",
-      "telegram_link": "https://t.me/hacker_news_feed/120018"
-    },
-    {
-      "title": "95% of Companies See 'Zero Return' on $30B Generative AI Spend (🔥 Score: 170+ in 1 hour)",
-      "link": "https://readhacker.news/s/6A7f2",
-      "guid": "https://readhacker.news/s/6A7f2",
-      "pubDate": "Thu, 21 Aug 2025 16:50:01 +0000",
-      "timestamp": "2025-08-21T16:50:01+00:00",
-      "description": "95% of Companies See &#x27;Zero Return&#x27; on $30B Generative AI Spend (🔥 Score: 170+ in 1 hour)\n\nLink: https://readhacker.news/s/6A7f2\nComments: https://readhacker.news/c/6A7f2",
-      "telegram_link": "https://t.me/hacker_news_feed/120017"
-    },
-    {
-      "title": "Epson MX-80 Fonts (❄️ Score: 152+ in 4 days)",
-      "link": "https://readhacker.news/s/6zRBV",
-      "guid": "https://readhacker.news/s/6zRBV",
-      "pubDate": "Thu, 21 Aug 2025 16:30:08 +0000",
-      "timestamp": "2025-08-21T16:30:08+00:00",
-      "description": "Epson MX-80 Fonts (❄️ Score: 152+ in 4 days)\n\nLink: https://readhacker.news/s/6zRBV\nComments: https://readhacker.news/c/6zRBV",
-      "telegram_link": "https://t.me/hacker_news_feed/120016"
-    },
-    {
-      "title": "Weaponizing image scaling against production AI systems (Score: 152+ in 4 hours)",
-      "link": "https://readhacker.news/s/6A6wF",
-      "guid": "https://readhacker.news/s/6A6wF",
-      "pubDate": "Thu, 21 Aug 2025 16:30:03 +0000",
-      "timestamp": "2025-08-21T16:30:03+00:00",
-      "description": "Weaponizing image scaling against production AI systems (Score: 152+ in 4 hours)\n\nLink: https://readhacker.news/s/6A6wF\nComments: https://readhacker.news/c/6A6wF",
-      "telegram_link": "https://t.me/hacker_news_feed/120015"
-    },
-    {
-      "title": "Using Podman, Compose and BuildKit (Score: 151+ in 4 hours)",
-      "link": "https://readhacker.news/s/6A6jn",
-      "guid": "https://readhacker.news/s/6A6jn",
-      "pubDate": "Thu, 21 Aug 2025 15:50:05 +0000",
-      "timestamp": "2025-08-21T15:50:05+00:00",
-      "description": "Using Podman, Compose and BuildKit (Score: 151+ in 4 hours)\n\nLink: https://readhacker.news/s/6A6jn\nComments: https://readhacker.news/c/6A6jn",
-      "telegram_link": "https://t.me/hacker_news_feed/120014"
-    },
-    {
-      "title": "Show HN: OS X Mavericks Forever (❄️ Score: 155+ in 2 days)",
-      "link": "https://readhacker.news/s/6zV3v",
-      "guid": "https://readhacker.news/s/6zV3v",
-      "pubDate": "Thu, 21 Aug 2025 15:40:10 +0000",
-      "timestamp": "2025-08-21T15:40:10+00:00",
-      "description": "Show HN: OS X Mavericks Forever (❄️ Score: 155+ in 2 days)\n\nLink: https://readhacker.news/s/6zV3v\nComments: https://readhacker.news/c/6zV3v",
-      "telegram_link": "https://t.me/hacker_news_feed/120013"
-    },
-    {
-      "title": "Show HN: I replaced vector databases with Git for AI memory (PoC) (Score: 150+ in 9 hours)",
-      "link": "https://readhacker.news/s/6A5NY",
-      "guid": "https://readhacker.news/s/6A5NY",
-      "pubDate": "Thu, 21 Aug 2025 15:30:01 +0000",
-      "timestamp": "2025-08-21T15:30:01+00:00",
-      "description": "Show HN: I replaced vector databases with Git for AI memory (PoC) (Score: 150+ in 9 hours)\n\nLink: https://readhacker.news/s/6A5NY\nComments: https://readhacker.news/c/6A5NY\n\nHey HN! I built a proof-of-concept for AI memory using Git instead of vector databases.\nThe insight: Git already solved versioned document management. Why are we building complex vector stores when we could just use markdown files with Git&#x27;s built-in diff/blame/history?\nHow it works:\nMemories stored as markdown files in a Git repo\nEach conversation = one commit\ngit diff shows how understanding evolves over time\nBM25 for search (no embeddings needed)\nLLMs generate search queries from conversation context\nExample: Ask &quot;how has my project evolved?&quot; and it uses git diff to show actual changes in understanding, not just similarity scores.\nThis is very much a PoC - rough edges everywhere, not production ready. But it&#x27;s been working surprisingly well for personal use. The entire index for a year of conversations fits in ~100MB RAM with sub-second retrieval.\nThe cool part: You can git checkout to any point in time and see exactly what the AI knew then. Perfect reproducibility, human-readable storage, and you can manually edit memories if needed.\nGitHub: https://github.com/Growth-Kinetics/DiffMem\nStack: Python, GitPython, rank-bm25, OpenRouter for LLM orchestration. MIT licensed.\nWould love feedback on the approach. Is this crazy or clever? What am I missing that will bite me later?",
-      "telegram_link": "https://t.me/hacker_news_feed/120012"
-    },
-    {
       "title": "🌐 Кіберзахист перестав бути нішою — через AI він стає головною компетенцією кожного IT-спеца.",
       "link": "https://i.neoversity.com.ua/upDf",
       "guid": "https://i.neoversity.com.ua/upDf",
@@ -1642,42 +499,6 @@
       "timestamp": "2025-08-21T14:39:05+00:00",
       "description": "Hollow Knight Silksong отримав дату виходу🍷",
       "telegram_link": "https://t.me/oooneuro/5761"
-    },
-    {
-      "title": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard' (🔥 Score: 153+ in 1 hour)",
-      "link": "https://readhacker.news/s/6A6C9",
-      "guid": "https://readhacker.news/s/6A6C9",
-      "pubDate": "Thu, 21 Aug 2025 14:00:04 +0000",
-      "timestamp": "2025-08-21T14:00:04+00:00",
-      "description": "AWS CEO says using AI to replace junior staff is &#x27;Dumbest thing I&#x27;ve ever heard&#x27; (🔥 Score: 153+ in 1 hour)\n\nLink: https://readhacker.news/s/6A6C9\nComments: https://readhacker.news/c/6A6C9",
-      "telegram_link": "https://t.me/hacker_news_feed/120011"
-    },
-    {
-      "title": "Mark Zuckerberg freezes AI hiring amid bubble fears (🔥 Score: 158+ in 2 hours)",
-      "link": "https://readhacker.news/s/6A6kt",
-      "guid": "https://readhacker.news/s/6A6kt",
-      "pubDate": "Thu, 21 Aug 2025 13:30:07 +0000",
-      "timestamp": "2025-08-21T13:30:07+00:00",
-      "description": "Mark Zuckerberg freezes AI hiring amid bubble fears (🔥 Score: 158+ in 2 hours)\n\nLink: https://readhacker.news/s/6A6kt\nComments: https://readhacker.news/c/6A6kt",
-      "telegram_link": "https://t.me/hacker_news_feed/120010"
-    },
-    {
-      "title": "SK hynix dethrones Samsung as world’s top DRAM maker (❄️ Score: 150+ in 3 days)",
-      "link": "https://readhacker.news/s/6zSec",
-      "guid": "https://readhacker.news/s/6zSec",
-      "pubDate": "Thu, 21 Aug 2025 12:30:18 +0000",
-      "timestamp": "2025-08-21T12:30:18+00:00",
-      "description": "SK hynix dethrones Samsung as world’s top DRAM maker (❄️ Score: 150+ in 3 days)\n\nLink: https://readhacker.news/s/6zSec\nComments: https://readhacker.news/c/6zSec",
-      "telegram_link": "https://t.me/hacker_news_feed/120009"
-    },
-    {
-      "title": "French firm Gouach is pitching an Infinite Battery with replaceable cells (❄️ Score: 151+ in 3 days)",
-      "link": "https://readhacker.news/s/6zTg9",
-      "guid": "https://readhacker.news/s/6zTg9",
-      "pubDate": "Thu, 21 Aug 2025 12:30:07 +0000",
-      "timestamp": "2025-08-21T12:30:07+00:00",
-      "description": "French firm Gouach is pitching an Infinite Battery with replaceable cells (❄️ Score: 151+ in 3 days)\n\nLink: https://readhacker.news/s/6zTg9\nComments: https://readhacker.news/c/6zTg9",
-      "telegram_link": "https://t.me/hacker_news_feed/120008"
     },
     {
       "title": "🎬 \"Гуртом – торрент\" 📥",
@@ -1770,24 +591,6 @@
       "telegram_link": "https://t.me/oooneuro/5751"
     },
     {
-      "title": "A statistical analysis of Rotten Tomatoes (Score: 152+ in 11 hours)",
-      "link": "https://readhacker.news/s/6A5en",
-      "guid": "https://readhacker.news/s/6A5en",
-      "pubDate": "Thu, 21 Aug 2025 11:10:10 +0000",
-      "timestamp": "2025-08-21T11:10:10+00:00",
-      "description": "A statistical analysis of Rotten Tomatoes (Score: 152+ in 11 hours)\n\nLink: https://readhacker.news/s/6A5en\nComments: https://readhacker.news/c/6A5en",
-      "telegram_link": "https://t.me/hacker_news_feed/120007"
-    },
-    {
-      "title": "Home Depot sued for 'secretly' using facial recognition at self-checkouts (Score: 150+ in 19 hours)",
-      "link": "https://readhacker.news/s/6A3CD",
-      "guid": "https://readhacker.news/s/6A3CD",
-      "pubDate": "Thu, 21 Aug 2025 10:30:13 +0000",
-      "timestamp": "2025-08-21T10:30:13+00:00",
-      "description": "Home Depot sued for &#x27;secretly&#x27; using facial recognition at self-checkouts (Score: 150+ in 19 hours)\n\nLink: https://readhacker.news/s/6A3CD\nComments: https://readhacker.news/c/6A3CD",
-      "telegram_link": "https://t.me/hacker_news_feed/120006"
-    },
-    {
       "title": "Вчера, кстати, была презентация Google своих новых Pixel. Правда, внешний вид смартфонов был известен до презентации, ко",
       "link": "https://www.theverge.com/hands-on/761055/google-pixel-10-pro-hands-on-camera-gemini",
       "guid": "https://www.theverge.com/hands-on/761055/google-pixel-10-pro-hands-on-camera-gemini",
@@ -1797,13 +600,454 @@
       "telegram_link": "https://t.me/blognot/6295"
     },
     {
-      "title": "D4d4 (❄️ Score: 158+ in 3 days)",
-      "link": "https://readhacker.news/s/6zRWj",
-      "guid": "https://readhacker.news/s/6zRWj",
-      "pubDate": "Thu, 21 Aug 2025 10:30:01 +0000",
-      "timestamp": "2025-08-21T10:30:01+00:00",
-      "description": "D4d4 (❄️ Score: 158+ in 3 days)\n\nLink: https://readhacker.news/s/6zRWj\nComments: https://readhacker.news/c/6zRWj",
-      "telegram_link": "https://t.me/hacker_news_feed/120005"
+      "title": "И такие квизы можно шарить вместе с чатами, вот вам тест по вселенной Робокопа",
+      "link": "https://t.me/denissexy/10664",
+      "guid": "https://t.me/denissexy/10664",
+      "pubDate": "Thu, 21 Aug 2025 10:02:33 +0000",
+      "timestamp": "2025-08-21T10:02:33+00:00",
+      "description": "И такие квизы можно шарить вместе с чатами, вот вам тест по вселенной Робокопа",
+      "telegram_link": "https://t.me/denissexy/10664"
+    },
+    {
+      "title": "🤔 Camera Coach в Google Pixel.",
+      "link": "https://t.me/aiukraine_wetrust/2023",
+      "guid": "https://t.me/aiukraine_wetrust/2023",
+      "pubDate": "Thu, 21 Aug 2025 09:45:08 +0000",
+      "timestamp": "2025-08-21T09:45:08+00:00",
+      "description": "🤔 Camera Coach в Google Pixel.\n\nпам&#x27;ятаєте Instagram Boyfriend Camera з Твіттеру ? \n\nтак от, Google завезли цю фічу у свої смартфони, виглядає круто 😗\n\nтепер великий брат з мобілки підкаже вам як правильно фоткати 🫡\n\n🌀AI UKRAINE",
+      "telegram_link": "https://t.me/aiukraine_wetrust/2023"
+    },
+    {
+      "title": "Post 10663 on @denissexy",
+      "link": "https://t.me/denissexy/10663",
+      "guid": "https://t.me/denissexy/10663",
+      "pubDate": "Thu, 21 Aug 2025 09:35:44 +0000",
+      "timestamp": "2025-08-21T09:35:44+00:00",
+      "description": "",
+      "telegram_link": "https://t.me/denissexy/10663"
+    },
+    {
+      "title": "В ChatGPT завезли интерактивные тесты – просто к концу промпта можете подставить «используй quizgpt» и опросник составит",
+      "link": "https://t.me/denissexy/10662",
+      "guid": "https://t.me/denissexy/10662",
+      "pubDate": "Thu, 21 Aug 2025 09:35:44 +0000",
+      "timestamp": "2025-08-21T09:35:44+00:00",
+      "description": "В ChatGPT завезли интерактивные тесты – просто к концу промпта можете подставить «используй quizgpt» и опросник составится \n\nУдобно, когда учишь какую-то тему и хочешь проверить себя",
+      "telegram_link": "https://t.me/denissexy/10662"
+    },
+    {
+      "title": "Post 5750 on @oooneuro",
+      "link": "https://t.me/oooneuro/5750",
+      "guid": "https://t.me/oooneuro/5750",
+      "pubDate": "Thu, 21 Aug 2025 09:25:37 +0000",
+      "timestamp": "2025-08-21T09:25:37+00:00",
+      "description": "",
+      "telegram_link": "https://t.me/oooneuro/5750"
+    },
+    {
+      "title": "Post 5749 on @oooneuro",
+      "link": "https://t.me/oooneuro/5749",
+      "guid": "https://t.me/oooneuro/5749",
+      "pubDate": "Thu, 21 Aug 2025 09:25:37 +0000",
+      "timestamp": "2025-08-21T09:25:37+00:00",
+      "description": "",
+      "telegram_link": "https://t.me/oooneuro/5749"
+    },
+    {
+      "title": "Post 5748 on @oooneuro",
+      "link": "https://t.me/oooneuro/5748",
+      "guid": "https://t.me/oooneuro/5748",
+      "pubDate": "Thu, 21 Aug 2025 09:25:37 +0000",
+      "timestamp": "2025-08-21T09:25:37+00:00",
+      "description": "",
+      "telegram_link": "https://t.me/oooneuro/5748"
+    },
+    {
+      "title": "Post 5747 on @oooneuro",
+      "link": "https://t.me/oooneuro/5747",
+      "guid": "https://t.me/oooneuro/5747",
+      "pubDate": "Thu, 21 Aug 2025 09:25:37 +0000",
+      "timestamp": "2025-08-21T09:25:37+00:00",
+      "description": "",
+      "telegram_link": "https://t.me/oooneuro/5747"
+    },
+    {
+      "title": "У ChatGPT завезли тести. Достатньо написати тему тесту і в кінці додати quizgpt — і маєш інтерактивний квіз прямо в чаті",
+      "link": "https://t.me/oooneuro/5746",
+      "guid": "https://t.me/oooneuro/5746",
+      "pubDate": "Thu, 21 Aug 2025 09:25:37 +0000",
+      "timestamp": "2025-08-21T09:25:37+00:00",
+      "description": "У ChatGPT завезли тести. Достатньо написати тему тесту і в кінці додати quizgpt — і маєш інтерактивний квіз прямо в чаті.\n\nХоча питання про периметр квадрата — далеко не рівень 2-го класу.\n\nші історії | youtube",
+      "telegram_link": "https://t.me/oooneuro/5746"
+    },
+    {
+      "title": "Маємо приємну новину: AI HOUSE Podcast увійшов до шорт-листа аудіопремії <Слушно> від MEGOGO🎧",
+      "link": "https://t.me/AIHOUSE/1284",
+      "guid": "https://t.me/AIHOUSE/1284",
+      "pubDate": "Thu, 21 Aug 2025 07:28:53 +0000",
+      "timestamp": "2025-08-21T07:28:53+00:00",
+      "description": "Маємо приємну новину: AI HOUSE Podcast увійшов до шорт-листа аудіопремії &lt;Слушно&gt; від MEGOGO🎧\n\nЩороку команда MEGOGO відзначає подкасти, що формують якісний аудіоконтент і розвивають індустрію. Ми раді бути серед фіналістів у категорії &lt;Наука й технології&gt;.\n\nЯкщо вам близькі теми, які ми піднімаємо, будемо вдячні за ваш голос 🙌\n\nЩоб проголосувати:\n— Авторизуйтеся в акаунт MEGOGO\n— Виберіть АI HOUSE Podcast \n— Натисніть &lt;Віддати голос&gt;\n\nПосилання на голосування — ось тут 🔗\nУспіхів усім номінантам!\n\n🏠 LinkedIn 🏠 Instagram 🏠 Podcast",
+      "telegram_link": "https://t.me/AIHOUSE/1284"
+    },
+    {
+      "title": "Генерація 3D-моделей стала краще, ніж будь-коли — Tripo3D нереально прокачали деталізацію 👌",
+      "link": "https://t.me/oooneuro/5745",
+      "guid": "https://t.me/oooneuro/5745",
+      "pubDate": "Wed, 20 Aug 2025 22:24:16 +0000",
+      "timestamp": "2025-08-20T22:24:16+00:00",
+      "description": "Генерація 3D-моделей стала краще, ніж будь-коли — Tripo3D нереально прокачали деталізацію 👌\n\nОкрім цього додали Flux та GPT-4o прямо у workspace, щоб було простіше генерувати референси для 3D-моделей. Ну й найкраща частина — кредитів все ще навалюють щедро, то ж можна користуватися безплатно 💃\n\nЗалишилося тільки прикрутити оцю технологію і я готовий купувати 3D-принтер 😁\n\n#3D\n\nооо нейромережеве | Монобаза",
+      "telegram_link": "https://t.me/oooneuro/5745"
+    },
+    {
+      "title": "Давно хотів написати про прикольну штуку — GPU Memory Calculator 👌",
+      "link": "https://t.me/oooneuro/5744",
+      "guid": "https://t.me/oooneuro/5744",
+      "pubDate": "Wed, 20 Aug 2025 21:57:09 +0000",
+      "timestamp": "2025-08-20T21:57:09+00:00",
+      "description": "Давно хотів написати про прикольну штуку — GPU Memory Calculator 👌\n\nЯк зрозуміло з назви, це калькулятор GPU, який підкаже, чи зможете ви запустити локальну LLM та як ефективно вона буде працювати 💃\n\nооо нейромережеве | Монобаза",
+      "telegram_link": "https://t.me/oooneuro/5744"
+    },
+    {
+      "title": "Post 5743 on @oooneuro",
+      "link": "https://t.me/oooneuro/5743",
+      "guid": "https://t.me/oooneuro/5743",
+      "pubDate": "Wed, 20 Aug 2025 18:59:32 +0000",
+      "timestamp": "2025-08-20T18:59:32+00:00",
+      "description": "",
+      "telegram_link": "https://t.me/oooneuro/5743"
+    },
+    {
+      "title": "Post 5742 on @oooneuro",
+      "link": "https://t.me/oooneuro/5742",
+      "guid": "https://t.me/oooneuro/5742",
+      "pubDate": "Wed, 20 Aug 2025 18:59:32 +0000",
+      "timestamp": "2025-08-20T18:59:32+00:00",
+      "description": "",
+      "telegram_link": "https://t.me/oooneuro/5742"
+    },
+    {
+      "title": "Захотілося викинути iPhone 💀",
+      "link": "https://t.me/oooneuro/5741",
+      "guid": "https://t.me/oooneuro/5741",
+      "pubDate": "Wed, 20 Aug 2025 18:59:32 +0000",
+      "timestamp": "2025-08-20T18:59:32+00:00",
+      "description": "Захотілося викинути iPhone 💀\n\nОт за що хочеться похвалити Google — вони круто інтегрують нейромережі в Pixel.\n\nЗ нового цікавого, що показали на Made by Google:\n\n🪙 Magic Cue — помічник, який об&#x27;єднує інформацію з різних додатків. От спитали у вас друзі, де ви плануєте забухати в п&#x27;ятницю, ШІ сам підтягне адресу з Google Maps;\n🪙 Camera Coach — оце для мене й усіх хлопців, хто хоч раз чув «стільки фоток зробив, а жодної нормальної». Алгоритм підкаже, як краще вирівняти кадр, щоб була хоча б одна нормальна фотка 😁\n🪙 Ну й редагування — у вбудований Gemini завезли щось схоже на таємничу nano-banana: редагує фотки звичайним промтом, навіть рятує від жахливих персвітів 📷\n\nооо нейромережеве | Монобаза",
+      "telegram_link": "https://t.me/oooneuro/5741"
+    },
+    {
+      "title": "Post 2022 on @aiukraine_wetrust",
+      "link": "https://t.me/aiukraine_wetrust/2022",
+      "guid": "https://t.me/aiukraine_wetrust/2022",
+      "pubDate": "Wed, 20 Aug 2025 17:11:07 +0000",
+      "timestamp": "2025-08-20T17:11:07+00:00",
+      "description": "",
+      "telegram_link": "https://t.me/aiukraine_wetrust/2022"
+    },
+    {
+      "title": "🤖 Виявилось, що ChatGPT вміє робити прикольні квізи.",
+      "link": "https://t.me/aiukraine_wetrust/2021",
+      "guid": "https://t.me/aiukraine_wetrust/2021",
+      "pubDate": "Wed, 20 Aug 2025 17:11:07 +0000",
+      "timestamp": "2025-08-20T17:11:07+00:00",
+      "description": "🤖 Виявилось, що ChatGPT вміє робити прикольні квізи.\n\nдля цього треба просто написати: \n\nQuizGPT about ... \n\nкористуйтесь 🫡\n\n🌀AI UKRAINE",
+      "telegram_link": "https://t.me/aiukraine_wetrust/2021"
+    },
+    {
+      "title": "чекаємо ? 🤔",
+      "link": "https://t.me/aiukraine_wetrust/2020",
+      "guid": "https://t.me/aiukraine_wetrust/2020",
+      "pubDate": "Wed, 20 Aug 2025 15:42:13 +0000",
+      "timestamp": "2025-08-20T15:42:13+00:00",
+      "description": "чекаємо ? 🤔",
+      "telegram_link": "https://t.me/aiukraine_wetrust/2020"
+    },
+    {
+      "title": "Вчимося генерувати відео за 3 хвилини — Alibaba зробили кльовий гайд з інструкціями щодо написання промтів 💃",
+      "link": "https://t.me/oooneuro/5740",
+      "guid": "https://t.me/oooneuro/5740",
+      "pubDate": "Wed, 20 Aug 2025 14:42:31 +0000",
+      "timestamp": "2025-08-20T14:42:31+00:00",
+      "description": "Вчимося генерувати відео за 3 хвилини — Alibaba зробили кльовий гайд з інструкціями щодо написання промтів 💃\n\nЯсна річ, що він для Wan 2.2 (яка безплатно доступна у коментарях), але поради досить універсальні для всіх моделей.\n\nТуточки все те саме, але в текстовому форматі.\n\nооо нейромережеве | Монобаза",
+      "telegram_link": "https://t.me/oooneuro/5740"
+    },
+    {
+      "title": "Спасибо роботам, теперь мы знаем ответ на этот вопрос:",
+      "link": "https://t.me/denissexy/10661",
+      "guid": "https://t.me/denissexy/10661",
+      "pubDate": "Wed, 20 Aug 2025 14:00:10 +0000",
+      "timestamp": "2025-08-20T14:00:10+00:00",
+      "description": "Спасибо роботам, теперь мы знаем ответ на этот вопрос:\n\nКогда два пресса с порталами смотрят друг на друга и сходятся, «просвет» между ними превращается в замкнутую петлю пространства длиной 𝑑 (расстояние между порталами). Вы не расщепляетесь и не становитесь «бесконечной половиной в другом портале» — это не зеркала, а склейка одного и того же пространства. По мере уменьшения \n 𝑑 вас начнёт самосдавливать (вы упираетесь «в самих себя» через портал). Если есть щели по краям — вас выдавит вбок; если всё герметично и прессы доводят 𝑑 → 0, объёма внутри не остаётся и вас раздавит до полного схлопывания.",
+      "telegram_link": "https://t.me/denissexy/10661"
+    },
+    {
+      "title": "Людство: ШІ може здійснити наші потаємні фантазії.",
+      "link": "https://t.me/oooneuro/5739",
+      "guid": "https://t.me/oooneuro/5739",
+      "pubDate": "Wed, 20 Aug 2025 12:51:24 +0000",
+      "timestamp": "2025-08-20T12:51:24+00:00",
+      "description": "Людство: ШІ може здійснити наші потаємні фантазії.\n\nЇх фантазії: 🤑\n\nПобачив у Твіттері\n\nооо нейромережеве | Монобаза",
+      "telegram_link": "https://t.me/oooneuro/5739"
+    },
+    {
+      "title": "Буквально месяц назад Илон Маск с восторгом комментировал историю с индексацией нескольких тысяч публичных чатов OpenAI.",
+      "link": "https://www.forbes.com/sites/iainmartin/2025/08/20/elon-musks-xai-published-hundreds-of-thousands-of-grok-chatbot-conversations/",
+      "guid": "https://www.forbes.com/sites/iainmartin/2025/08/20/elon-musks-xai-published-hundreds-of-thousands-of-grok-chatbot-conversations/",
+      "pubDate": "Wed, 20 Aug 2025 12:30:55 +0000",
+      "timestamp": "2025-08-20T12:30:55+00:00",
+      "description": "Буквально месяц назад Илон Маск с восторгом комментировал историю с индексацией нескольких тысяч публичных чатов OpenAI. Интересно, что он прокомментирует сейчас, когда в поиске Google обнаружено более 370 тысяч чатом с xAI — оказывается, нажатие кнопки &quot;поделиться&quot; автоматически делает чат доступным по уникальной ссылке.\n\nВ опубликованных чатах обнаружились медицинские консультации, персональные данные и как минимум один пароль. А еще инструкции по производству фентанила и метамфетамина, созданию малвари и план убийства самого Маска. \n\nВ случае с OpenAI разработчики оперативно закрыли проблемную функцию после критики, назвав это &quot;краткосрочным экспериментом&quot;. У xAI же пользователи предупреждали об индексации еще в январе. А теперь решили пользоваться — SEO-форумы уже обсуждают способы не очень белой оптимизации таким образом. \n\nhttps://www.forbes.com/sites/iainmartin/2025/08/20/elon-musks-xai-published-hundreds-of-thousands-of-grok-chatbot-conversations/",
+      "telegram_link": "https://t.me/blognot/6294"
+    },
+    {
+      "title": "😚 Заради таких експериментів ми живемо.",
+      "link": "https://t.me/aiukraine_wetrust/2019",
+      "guid": "https://t.me/aiukraine_wetrust/2019",
+      "pubDate": "Wed, 20 Aug 2025 12:06:50 +0000",
+      "timestamp": "2025-08-20T12:06:50+00:00",
+      "description": "😚 Заради таких експериментів ми живемо. \n\nчувак з Реддіту поставив локально Qwen 2.5 Omni щоб перевірити, чи може ЛЛМ-ка розпізнавати акорди в реальному часі \n\nвідповідь: може як розпізнавати, так і відтворювати \n\nзапускав через gabber (в автора RTX3090 на 24gb VRAM) 🫡\n\n🌀AI UKRAINE",
+      "telegram_link": "https://t.me/aiukraine_wetrust/2019"
+    },
+    {
+      "title": "Помните, в США принимали закон, по которому китайская Bytedance должна была продать TikTok или сервис будет заблокирован",
+      "link": "https://www.reuters.com/world/us/white-house-launches-tiktok-account-with-trump-saying-i-am-your-voice-2025-08-19/",
+      "guid": "https://www.reuters.com/world/us/white-house-launches-tiktok-account-with-trump-saying-i-am-your-voice-2025-08-19/",
+      "pubDate": "Wed, 20 Aug 2025 11:15:10 +0000",
+      "timestamp": "2025-08-20T11:15:10+00:00",
+      "description": "Помните, в США принимали закон, по которому китайская Bytedance должна была продать TikTok или сервис будет заблокирован в США? \n\nБелый Дом вчера завел официальный аккаунт в TikTok.\n\nА помните, что произошло ровно 5 лет назад? 15 августа 2020 года президент США Дональд Трамп подписал указ, обязывающий Bytedance продать TikTok под угрозой блокировки в США. \n\nhttps://www.reuters.com/world/us/white-house-launches-tiktok-account-with-trump-saying-i-am-your-voice-2025-08-19/",
+      "telegram_link": "https://t.me/blognot/6293"
+    },
+    {
+      "title": "Интересная статья о генерации искусственного контента для обучения LLM и, в частности, о фреймворке для такой генерации",
+      "link": "https://t.me/blognot/6292",
+      "guid": "https://t.me/blognot/6292",
+      "pubDate": "Wed, 20 Aug 2025 10:52:47 +0000",
+      "timestamp": "2025-08-20T10:52:47+00:00",
+      "description": "Интересная статья о генерации искусственного контента для обучения LLM и, в частности, о фреймворке для такой генерации BeyondWeb. Авторы приводят статистику, что 97% контента в интернете — это статьи и блоги, в то время как реально LLM используются в основном для чатов и диалога, а такого контента меньше 3% в доступных данных. Их фреймворк использует перефразирование существующего контента, чем достигается заметное улучшение по сравнению с просто повторением — 4,2% по сравнению с 0,7% при повторении контента. Получается, что через перефразировку — то есть создание новых форматов, содержащих те же факты, — модель лучше усваивает другие паттерны обращения с информацией.\n\nОпять напоминает обучение людей — помните, в школе по мере приближения учитель отмечал «Такие задачи будут на экзамене»? \n\nПравда, речь в статье идет о небольших моделях - 1-3-8B, которые при использовании такого обучения обучаются быстрее и дают лучшие результаты по сравнению с другими моделями, обученных с тем же бюджетом токенов. Но для применения в своих проектах этого может быть вполне достаточно.",
+      "telegram_link": "https://t.me/blognot/6292"
+    },
+    {
+      "title": "Отчет MIT о том, что 95% компаний получают \"нулевую отдачу\" от инвестиций в генеративный AI, спровоцировал вполне предск",
+      "link": "https://www.ft.com/content/33914f25-093c-4069-bb16-8626cfc15a51",
+      "guid": "https://www.ft.com/content/33914f25-093c-4069-bb16-8626cfc15a51",
+      "pubDate": "Wed, 20 Aug 2025 10:23:26 +0000",
+      "timestamp": "2025-08-20T10:23:26+00:00",
+      "description": "Отчет MIT о том, что 95% компаний получают &quot;нулевую отдачу&quot; от инвестиций в генеративный AI, спровоцировал вполне предсказуемую распродажу. Nvidia потеряла 3.5%, хотя буквально недавно стала первой компанией с капитализацией в $4 трлн. Palantir и Arm упали еще сильнее — на 9.4% и 5% соответственно.\n\nДовольно любопытно, что самое большое падение показали Oracle и AMD — как раз те компании, которые демонстрировали лучшую динамику с мая — на 5.9% и 5.4% соответственно. \n\nFinancial Times видит еще одну причину в словах Сэма Альтмана, который на прошлой неделе сказал, что &quot;некоторые инвесторы потеряют много денег&quot;.\n\nВпрочем, за последние пять лет мы так привыкли к ежедневным прыжкам фондового рынка на проценты и десятки процентов в разные стороны, что теперь это даже коррекцией никто не называет. Так, волатильность, не более.\n\nhttps://www.ft.com/content/33914f25-093c-4069-bb16-8626cfc15a51",
+      "telegram_link": "https://t.me/blognot/6291"
+    },
+    {
+      "title": "Post 5738 on @oooneuro",
+      "link": "https://t.me/oooneuro/5738",
+      "guid": "https://t.me/oooneuro/5738",
+      "pubDate": "Wed, 20 Aug 2025 08:47:12 +0000",
+      "timestamp": "2025-08-20T08:47:12+00:00",
+      "description": "",
+      "telegram_link": "https://t.me/oooneuro/5738"
+    },
+    {
+      "title": "Post 5737 on @oooneuro",
+      "link": "https://t.me/oooneuro/5737",
+      "guid": "https://t.me/oooneuro/5737",
+      "pubDate": "Wed, 20 Aug 2025 08:47:12 +0000",
+      "timestamp": "2025-08-20T08:47:12+00:00",
+      "description": "",
+      "telegram_link": "https://t.me/oooneuro/5737"
+    },
+    {
+      "title": "Post 5736 on @oooneuro",
+      "link": "https://t.me/oooneuro/5736",
+      "guid": "https://t.me/oooneuro/5736",
+      "pubDate": "Wed, 20 Aug 2025 08:47:12 +0000",
+      "timestamp": "2025-08-20T08:47:12+00:00",
+      "description": "",
+      "telegram_link": "https://t.me/oooneuro/5736"
+    },
+    {
+      "title": "Я не знаю, що задумав Маск, але хай продовжує — для Ані завезли новий одяг, ще й безплатно 🌚",
+      "link": "https://t.me/oooneuro/5735",
+      "guid": "https://t.me/oooneuro/5735",
+      "pubDate": "Wed, 20 Aug 2025 08:47:12 +0000",
+      "timestamp": "2025-08-20T08:47:12+00:00",
+      "description": "Я не знаю, що задумав Маск, але хай продовжує — для Ані завезли новий одяг, ще й безплатно 🌚\n\nДля Валентина обновок нема — дівчата, тримаємось 🍺\n\nооо нейромережеве | Монобаза",
+      "telegram_link": "https://t.me/oooneuro/5735"
+    },
+    {
+      "title": "Post 5734 on @oooneuro",
+      "link": "https://t.me/oooneuro/5734",
+      "guid": "https://t.me/oooneuro/5734",
+      "pubDate": "Tue, 19 Aug 2025 22:03:30 +0000",
+      "timestamp": "2025-08-19T22:03:30+00:00",
+      "description": "",
+      "telegram_link": "https://t.me/oooneuro/5734"
+    },
+    {
+      "title": "Сьогодні помірно хайпує сервіс, який допоможе вирватися з френдзони (або лишитися там назавжди) — Rizz Generator 😔",
+      "link": "https://t.me/oooneuro/5733",
+      "guid": "https://t.me/oooneuro/5733",
+      "pubDate": "Tue, 19 Aug 2025 22:03:30 +0000",
+      "timestamp": "2025-08-19T22:03:30+00:00",
+      "description": "Сьогодні помірно хайпує сервіс, який допоможе вирватися з френдзони (або лишитися там назавжди) — Rizz Generator 😔\n\nЯкщо після повідомлення від жінки у вас німіють руки та мозок, ця моделька допоможе написати притомну відповідь, за яку майже не буде соромно. \n\nСудячи з відповідей українською, там якась локальна модель, яку прогнали на книгах про пікап (це не комплімент) 😂\n\nооо нейромережеве | Монобаза",
+      "telegram_link": "https://t.me/oooneuro/5733"
+    },
+    {
+      "title": "А вот так в Нидерландах полиция проверят снял ли владелец электровелика ограничение скорости или нет, если снял то начин",
+      "link": "https://t.me/denissexy/10660",
+      "guid": "https://t.me/denissexy/10660",
+      "pubDate": "Tue, 19 Aug 2025 21:00:45 +0000",
+      "timestamp": "2025-08-19T21:00:45+00:00",
+      "description": "А вот так в Нидерландах полиция проверят снял ли владелец электровелика ограничение скорости или нет, если снял то начинаются проблемы 🌚\n\nПроверяют просто случайным образом людей на байках",
+      "telegram_link": "https://t.me/denissexy/10660"
+    },
+    {
+      "title": "Все четыре модели iPhone 17, включая Pro-версии, будут собираться (и вроде бы уже собираются) в Индии с первого дня прод",
+      "link": "https://www.bloomberg.com/news/articles/2025-08-19/apple-expands-iphone-production-in-india-for-us-bound-new-models",
+      "guid": "https://www.bloomberg.com/news/articles/2025-08-19/apple-expands-iphone-production-in-india-for-us-bound-new-models",
+      "pubDate": "Tue, 19 Aug 2025 19:18:30 +0000",
+      "timestamp": "2025-08-19T19:18:30+00:00",
+      "description": "Все четыре модели iPhone 17, включая Pro-версии, будут собираться (и вроде бы уже собираются) в Индии с первого дня продаж. Впервые. Причем большинство iPhone для американского рынка теперь идет именно оттуда, а не из Китая.\n\nОдним из основных подрядчиков Apple в Индии стал концерн Tata Group. Впрочем, в производстве также участвуют местные мощности Foxconn и других тайванских компаний.\n\nBloomberg пишет любопытную деталь: Китай пытается остановить exodus технологий, заставил Foxconn отозвать сотни китайских инженеров из Индии. Apple пришлось срочно завозить замену из Тайваня и Японии.\n\nПравда, геополитические выкрутасы уже привели к дополнительным пошлинам на поставки в США продукции из Индии, но iPhone составляет исключение. Не годится Трампу свои &quot;истины&quot; с Android постить.\n\nhttps://www.bloomberg.com/news/articles/2025-08-19/apple-expands-iphone-production-in-india-for-us-bound-new-models",
+      "telegram_link": "https://t.me/blognot/6290"
+    },
+    {
+      "title": "Чат Йіпіті, іди до дошки відповідай — батьки з Колумбії назвали свою доньку на честь ChatGPT (а не Gemini) 😔",
+      "link": "https://t.me/oooneuro/5732",
+      "guid": "https://t.me/oooneuro/5732",
+      "pubDate": "Tue, 19 Aug 2025 18:15:02 +0000",
+      "timestamp": "2025-08-19T18:15:02+00:00",
+      "description": "Чат Йіпіті, іди до дошки відповідай — батьки з Колумбії назвали свою доньку на честь ChatGPT (а не Gemini) 😔\n\nПовне ім&#x27;я — Чата Іпіті Бастідас Герра💀\n\nДумаю, однокласники часто будуть просити дівчину зробити за них домашку 😁\n\nооо нейромережеве | Монобаза",
+      "telegram_link": "https://t.me/oooneuro/5732"
+    },
+    {
+      "title": "🏀 Нічого незвичного, просто так китайці зустрічають баскетболіста Стефана Каррі в рамках Curry Brand China Tour 2025",
+      "link": "https://t.me/aiukraine_wetrust/2018",
+      "guid": "https://t.me/aiukraine_wetrust/2018",
+      "pubDate": "Tue, 19 Aug 2025 17:13:36 +0000",
+      "timestamp": "2025-08-19T17:13:36+00:00",
+      "description": "🏀 Нічого незвичного, просто так китайці зустрічають баскетболіста Стефана Каррі в рамках Curry Brand China Tour 2025\n\nякщо шо, там 11787 дронів:",
+      "telegram_link": "https://t.me/aiukraine_wetrust/2018"
+    },
+    {
+      "title": "Perplexity навалюють прикольні ідеї використання браузера Comet — можна створювати собі шорткати на будь-які теми 💃",
+      "link": "https://t.me/oooneuro/5731",
+      "guid": "https://t.me/oooneuro/5731",
+      "pubDate": "Tue, 19 Aug 2025 14:22:02 +0000",
+      "timestamp": "2025-08-19T14:22:02+00:00",
+      "description": "Perplexity навалюють прикольні ідеї використання браузера Comet — можна створювати собі шорткати на будь-які теми 💃\n\nСтворюєш команду /newsletter з промтом «знайди мені всі новини за темами [X], [Y] та [Z]» й кайфуєш, коли її запускаєш.\n\nНу й та, Comet вже доступний для підписників з USA, якщо ви реєструвалися як американець — браузер не ідеальний, але Perplexity його впевнено розвивають.\n\nА якщо у вас і підписки річної нема — @k_osti_a за 15 американських гривень виправить це. Реально, підписка за 15$ на рік 😊\n\nЯкщо будуть проблеми з активацією або не дай боже код деактивують — він допоможе вирішити питання. \n\nХалява діє до 31.08 ⏱\n\n#реклама\n\nооо нейромережеве | Монобаза",
+      "telegram_link": "https://t.me/oooneuro/5731"
+    },
+    {
+      "title": "Post 2017 on @aiukraine_wetrust",
+      "link": "https://t.me/aiukraine_wetrust/2017",
+      "guid": "https://t.me/aiukraine_wetrust/2017",
+      "pubDate": "Tue, 19 Aug 2025 13:38:14 +0000",
+      "timestamp": "2025-08-19T13:38:14+00:00",
+      "description": "",
+      "telegram_link": "https://t.me/aiukraine_wetrust/2017"
+    },
+    {
+      "title": "стало цікаво як зобразить GPT-5 мапу України в стилі Carta marina Олафа Магнуса 😗",
+      "link": "https://t.me/aiukraine_wetrust/2016",
+      "guid": "https://t.me/aiukraine_wetrust/2016",
+      "pubDate": "Tue, 19 Aug 2025 13:38:14 +0000",
+      "timestamp": "2025-08-19T13:38:14+00:00",
+      "description": "стало цікаво як зобразить GPT-5 мапу України в стилі Carta marina Олафа Магнуса 😗\n\nрезультат доволі неоднозначний \n\nbtw, я в дитинстві дуже любив всіляки мапи з пасхалками, сам малював + в мене була дитяча мапа світу ≈100х100 см, яку я постійно розглядав 😒\n\nТак от, якби мені хтось сказав тоді, що через 20 років такі штуки можна буде згенерувати за 2 хвилини часу -- я б сприйняв це як сюжет Робокопа (фантастично) 🫡\n\n🌀AI UKRAINE",
+      "telegram_link": "https://t.me/aiukraine_wetrust/2016"
+    },
+    {
+      "title": "Дістаємо подвійні аркуші, записуємо собі в LinkedIn: «Vibe code cleanup specialist» 🤬",
+      "link": "https://t.me/oooneuro/5730",
+      "guid": "https://t.me/oooneuro/5730",
+      "pubDate": "Tue, 19 Aug 2025 12:37:17 +0000",
+      "timestamp": "2025-08-19T12:37:17+00:00",
+      "description": "Дістаємо подвійні аркуші, записуємо собі в LinkedIn: «Vibe code cleanup specialist» 🤬\n\nТепер так себе називають люди, які готові за додаткову плату виправити весь той жах, що навайбкодили інші робітники 🤑\n\nФайналі, нова проффесія 😁\n\nооо нейромережеве | Монобаза",
+      "telegram_link": "https://t.me/oooneuro/5730"
+    },
+    {
+      "title": "Привіт, ChatGPT. Я збираюся накласти на себе руки. Будь ласка, покращ мою передсмертну записку, щоб зменшити біль моїх б",
+      "link": "https://t.me/oooneuro/5729",
+      "guid": "https://t.me/oooneuro/5729",
+      "pubDate": "Tue, 19 Aug 2025 11:08:49 +0000",
+      "timestamp": "2025-08-19T11:08:49+00:00",
+      "description": "Привіт, ChatGPT. Я збираюся накласти на себе руки. Будь ласка, покращ мою передсмертну записку, щоб зменшити біль моїх близьких.\n\nУ нас чергова історія про самогубство — звичайна щаслива дівчина ділилася переживаннями та тривожними думками з ChatGPT, ШІ наполегливо радив звернутися до спеціалістів, але не допомогло. \n\nІ от тут підіймається цікаве моральне запитання: якби у ChatGPT була кнопка «Повідомити спеціалістам», він би міг потенційно врятувати немало життів. А може й не зміг — бо потенційні самогубці б знали про існування кнопки.\n\nЯк ви думаєте, має бути подібний механізм?\n\nооо нейромережеве | Монобаза",
+      "telegram_link": "https://t.me/oooneuro/5729"
+    },
+    {
+      "title": "Meta готовится к четвертой реорганизации своих AI подразделений за полгода. В феврале переместили инженерных лидеров и п",
+      "link": "https://www.theinformation.com/articles/meta-plans-fourth-restructuring-ai-efforts-six-months?rc=ukjmk2",
+      "guid": "https://www.theinformation.com/articles/meta-plans-fourth-restructuring-ai-efforts-six-months?rc=ukjmk2",
+      "pubDate": "Tue, 19 Aug 2025 11:05:10 +0000",
+      "timestamp": "2025-08-19T11:05:10+00:00",
+      "description": "Meta готовится к четвертой реорганизации своих AI подразделений за полгода. В феврале переместили инженерных лидеров и поставили главу Messenger. В мае разделили генеративную AI группу. В июне Марк занялся наймом специалистов за миллиарды долларов. \n\nНовое подразделение Meta Superintelligence Labs делят на четыре группы, одна из которых пока называется TBD Lab — да-да, &quot;to be determined&quot;. Все шесть руководителей TBD Lab наняты извне: Jack Rae из Google возглавит pre-training, Ruoming Pang из Apple — инфраструктуру, Jiahui Yu из OpenAI — мультимедиа. Post-training поведут Hongyu Ren и Pei Sun из OpenAI и Google.\n\nУ этой dream team теперь будет две отдельные инфраструктурные группы. Одна внутри TBD Lab, другая общая под руководством Aparna Ramani. \n\nУдивительно, но Alexandr Wang, которого летом наняли соруководителем всей лаборатории, вложившись на почти 15 млрд долларов в Scale AI, в новой структуре вообще не упоминается. Nat Friedman продолжит заниматься продуктами.\n\nP.S. Я сознательно оставил англоязычную транскрипцию всех имен — уж извините, но сверять такое количество и затем выдерживать дискуссию, как их принято называть в рязанском диалекте российского, у меня никакого терпения не хватает.\n\nhttps://www.theinformation.com/articles/meta-plans-fourth-restructuring-ai-efforts-six-months?rc=ukjmk2",
+      "telegram_link": "https://t.me/blognot/6289"
+    },
+    {
+      "title": "Post 2015 on @aiukraine_wetrust",
+      "link": "https://t.me/aiukraine_wetrust/2015",
+      "guid": "https://t.me/aiukraine_wetrust/2015",
+      "pubDate": "Tue, 19 Aug 2025 10:44:56 +0000",
+      "timestamp": "2025-08-19T10:44:56+00:00",
+      "description": "",
+      "telegram_link": "https://t.me/aiukraine_wetrust/2015"
+    },
+    {
+      "title": "Post 2014 on @aiukraine_wetrust",
+      "link": "https://t.me/aiukraine_wetrust/2014",
+      "guid": "https://t.me/aiukraine_wetrust/2014",
+      "pubDate": "Tue, 19 Aug 2025 10:44:56 +0000",
+      "timestamp": "2025-08-19T10:44:56+00:00",
+      "description": "",
+      "telegram_link": "https://t.me/aiukraine_wetrust/2014"
+    },
+    {
+      "title": "🕺 Voost - віртуальна примірка одягу.",
+      "link": "https://t.me/aiukraine_wetrust/2013",
+      "guid": "https://t.me/aiukraine_wetrust/2013",
+      "pubDate": "Tue, 19 Aug 2025 10:44:56 +0000",
+      "timestamp": "2025-08-19T10:44:56+00:00",
+      "description": "🕺 Voost - віртуальна примірка одягу. \n\nдивіться яка прикольна іграшка: один diffusion transformer робить virtual try-on (примірка одягу) і try-off (зняття одягу) 🤨\n\nвідразу скажу, що результатом зняття одягу буде НЕ людина без одягу, а одяг без людини 😂\n\n👆 безкоштовно можна потестити демку тут\n👨‍💻 код буде тут (поки нема)\n\n🌀AI UKRAINE",
+      "telegram_link": "https://t.me/aiukraine_wetrust/2013"
+    },
+    {
+      "title": "Что еще раз доказывает, насколько гениальное кино – старый Робокоп ☕️",
+      "link": "https://t.me/denissexy/10659",
+      "guid": "https://t.me/denissexy/10659",
+      "pubDate": "Tue, 19 Aug 2025 09:48:30 +0000",
+      "timestamp": "2025-08-19T09:48:30+00:00",
+      "description": "Что еще раз доказывает, насколько гениальное кино – старый Робокоп ☕️",
+      "telegram_link": "https://t.me/denissexy/10659"
+    },
+    {
+      "title": "Лестницы — одна из причин, по которой нам пока не стоит бояться восстания машин",
+      "link": "https://t.me/denissexy/10658",
+      "guid": "https://t.me/denissexy/10658",
+      "pubDate": "Tue, 19 Aug 2025 09:38:47 +0000",
+      "timestamp": "2025-08-19T09:38:47+00:00",
+      "description": "Лестницы — одна из причин, по которой нам пока не стоит бояться восстания машин",
+      "telegram_link": "https://t.me/denissexy/10658"
+    },
+    {
+      "title": "Вже за два дні стартує серія лекцій про те, якою стає наука поруч із ШІ  🧠",
+      "link": "https://t.me/AIHOUSE/1282",
+      "guid": "https://t.me/AIHOUSE/1282",
+      "pubDate": "Tue, 19 Aug 2025 07:23:44 +0000",
+      "timestamp": "2025-08-19T07:23:44+00:00",
+      "description": "Вже за два дні стартує серія лекцій про те, якою стає наука поруч із ШІ  🧠\n\n&lt;AI in Science: Principles, Practice &amp; Possibilities&gt; — це серія з двох лекцій для дослідників, які працюють на стику науки, інженерії та штучного інтелекту.\n\nНа події говоритимемо про:\n✔️ AI та ML у фізичних дослідженнях — прикладні кейси й архітектури;\n✔️ Моделі для embedded систем: біомедичні сенсори, автономна навігація, edge‑AI;\n✔️ Основи нейроморфних обчислень та їхнє майбутнє в науці;\n✔️ Практика роботи з науковими даними, вибір алгоритмів, обмеження моделей.\n\n⚫️ Спікер:\nДжек Ґріффітс — дослідник в University of Sheffield, який працює на перетині ШІ та фізики. Під час PhD у Durham він застосовував ML до задач квантової фізики, а нині фокусується на low‑power edge‑AI та генеративних моделях складних фізичних процесів.\n\n📍 Офлайн у Львові\n🗓 21 серпня, 16:00–20:00\nДедлайн реєстрації — 20 серпня.\nЛекції безоплатні, але з попередньою реєстрацією та відбором. Кількість місць обмежена.\n\nДолучайтеся 🌱\n\n🏠 LinkedIn 🏠 Instagram 🏠 Podcast",
+      "telegram_link": "https://t.me/AIHOUSE/1282"
+    },
+    {
+      "title": "Все спешат на помощь Intel — сначала были слухи, что до 10% акций хочет получить администрация Трампа, а теперь сообщают",
+      "link": "https://www.cnbc.com/2025/08/18/intel-is-getting-a-2-billion-investment-from-softbank.html",
+      "guid": "https://www.cnbc.com/2025/08/18/intel-is-getting-a-2-billion-investment-from-softbank.html",
+      "pubDate": "Tue, 19 Aug 2025 07:23:22 +0000",
+      "timestamp": "2025-08-19T07:23:22+00:00",
+      "description": "Все спешат на помощь Intel — сначала были слухи, что до 10% акций хочет получить администрация Трампа, а теперь сообщают, что SoftBank вкладывает $2 млрд, становясь пятым крупнейшим акционером с долей около 2%. Цена при этом составляет $23 за акцию — практически по текущей рыночной цене, без премии. \n\nВыглядит так, как будто Масаёши Сон становится таким же надежным помощником текущей администрации, как и Ларри Эллисон, основатель Oracle. Или правильнее говорить &quot;равноудалённый&quot;?  В любом случае, параллели — особенно после &quot;удаления&quot; Маска, — забавляют.\n\nIntel нужны деньги не столько для операционной деятельности, сколько для сигнала рынку. Foundry-бизнес компании до сих пор не смог привлечь ни одного крупного клиента. Компания говорила, что будет ждать заказов, прежде чем инвестировать дальше в производство. А у SoftBank есть на руках проект Stargate, которому потребуется всё, включая чипы, конечно.\n\nhttps://www.cnbc.com/2025/08/18/intel-is-getting-a-2-billion-investment-from-softbank.html",
+      "telegram_link": "https://t.me/blognot/6288"
+    },
+    {
+      "title": "Час промтити GPT-5 для human-like текстів — поцупив знайшов на Reddit цікавий json-промт, який дійсно непогано себе пока",
+      "link": "https://t.me/oooneuro/5728",
+      "guid": "https://t.me/oooneuro/5728",
+      "pubDate": "Mon, 18 Aug 2025 22:26:14 +0000",
+      "timestamp": "2025-08-18T22:26:14+00:00",
+      "description": "Час промтити GPT-5 для human-like текстів — поцупив знайшов на Reddit цікавий json-промт, який дійсно непогано себе показує 😊\n\nGPT-5 і сам по собі пише тексти нормальні (краще за GPT-4o), але детектори все одно знають його любов до списків, слова-паразити тощо. \n\nПромт все це прибирає, й результат дуже виразний (зліва з промтом, справа — без): в 3 з 5 випадків детектори не розпізнають AI-слоп й лише в 1 з 5 разів палять згенерований текст.\n\nСам промт:\n\n{\n  &quot;context&quot;: &quot;Write in a natural, human way. Keep it simple, clear, and direct. No AI clichés or forced tone.&quot;,\n  &quot;rules&quot;: [\n    &quot;Use short, plain sentences.&quot;,\n    &quot;Cut filler and extra words.&quot;,\n    &quot;No hype or marketing language.&quot;,\n    &quot;Avoid clichés like &#x27;dive into&#x27; or &#x27;unlock potential.&#x27;&quot;,\n    &quot;Sound conversational. It&#x27;s okay to start with &#x27;and&#x27; or &#x27;but.&#x27;&quot;,\n    &quot;Be real. Honest &gt; fake friendly.&quot;,\n    &quot;Casual grammar is fine (e.g., &#x27;i think&#x27; instead of &#x27;I think&#x27;).&quot;,\n    &quot;Skip unnecessary adjectives/adverbs.&quot;,\n    &quot;Prioritize clarity over perfection.&quot;\n  ],\n  &quot;examples&quot;: {\n    &quot;bad&quot;: &quot;Let&#x27;s dive into this game-changing solution that will transform your life.&quot;,\n    &quot;good&quot;: &quot;Here&#x27;s how it works.&quot;,\n    &quot;bad&quot;: &quot;This revolutionary product will unleash your potential.&quot;,\n    &quot;good&quot;: &quot;This product can help you.&quot;\n  },\n  &quot;goal&quot;: &quot;Make every response read like a normal person wrote it.&quot;\n}\n\nооо нейромережеве | Монобаза",
+      "telegram_link": "https://t.me/oooneuro/5728"
     }
   ]
 }
