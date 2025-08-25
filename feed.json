@@ -3,7 +3,7 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-08-25T22:14:14.295836+00:00",
+  "lastBuildDate": "2025-08-25T22:33:59.578031+00:00",
   "items": [
     {
       "title": "Telegram -> RSS Feed -> LLM",
@@ -1057,15 +1057,6 @@
       "timestamp": "2025-08-19T07:23:22+00:00",
       "description": "Все спешат на помощь Intel — сначала были слухи, что до 10% акций хочет получить администрация Трампа, а теперь сообщают, что SoftBank вкладывает $2 млрд, становясь пятым крупнейшим акционером с долей около 2%. Цена при этом составляет $23 за акцию — практически по текущей рыночной цене, без премии. \n\nВыглядит так, как будто Масаёши Сон становится таким же надежным помощником текущей администрации, как и Ларри Эллисон, основатель Oracle. Или правильнее говорить &quot;равноудалённый&quot;?  В любом случае, параллели — особенно после &quot;удаления&quot; Маска, — забавляют.\n\nIntel нужны деньги не столько для операционной деятельности, сколько для сигнала рынку. Foundry-бизнес компании до сих пор не смог привлечь ни одного крупного клиента. Компания говорила, что будет ждать заказов, прежде чем инвестировать дальше в производство. А у SoftBank есть на руках проект Stargate, которому потребуется всё, включая чипы, конечно.\n\nhttps://www.cnbc.com/2025/08/18/intel-is-getting-a-2-billion-investment-from-softbank.html",
       "telegram_link": "https://t.me/blognot/6288"
-    },
-    {
-      "title": "Час промтити GPT-5 для human-like текстів — поцупив знайшов на Reddit цікавий json-промт, який дійсно непогано себе пока",
-      "link": "https://t.me/oooneuro/5728",
-      "guid": "https://t.me/oooneuro/5728",
-      "pubDate": "Mon, 18 Aug 2025 22:26:14 +0000",
-      "timestamp": "2025-08-18T22:26:14+00:00",
-      "description": "Час промтити GPT-5 для human-like текстів — поцупив знайшов на Reddit цікавий json-промт, який дійсно непогано себе показує 😊\n\nGPT-5 і сам по собі пише тексти нормальні (краще за GPT-4o), але детектори все одно знають його любов до списків, слова-паразити тощо. \n\nПромт все це прибирає, й результат дуже виразний (зліва з промтом, справа — без): в 3 з 5 випадків детектори не розпізнають AI-слоп й лише в 1 з 5 разів палять згенерований текст.\n\nСам промт:\n\n{\n  &quot;context&quot;: &quot;Write in a natural, human way. Keep it simple, clear, and direct. No AI clichés or forced tone.&quot;,\n  &quot;rules&quot;: [\n    &quot;Use short, plain sentences.&quot;,\n    &quot;Cut filler and extra words.&quot;,\n    &quot;No hype or marketing language.&quot;,\n    &quot;Avoid clichés like &#x27;dive into&#x27; or &#x27;unlock potential.&#x27;&quot;,\n    &quot;Sound conversational. It&#x27;s okay to start with &#x27;and&#x27; or &#x27;but.&#x27;&quot;,\n    &quot;Be real. Honest &gt; fake friendly.&quot;,\n    &quot;Casual grammar is fine (e.g., &#x27;i think&#x27; instead of &#x27;I think&#x27;).&quot;,\n    &quot;Skip unnecessary adjectives/adverbs.&quot;,\n    &quot;Prioritize clarity over perfection.&quot;\n  ],\n  &quot;examples&quot;: {\n    &quot;bad&quot;: &quot;Let&#x27;s dive into this game-changing solution that will transform your life.&quot;,\n    &quot;good&quot;: &quot;Here&#x27;s how it works.&quot;,\n    &quot;bad&quot;: &quot;This revolutionary product will unleash your potential.&quot;,\n    &quot;good&quot;: &quot;This product can help you.&quot;\n  },\n  &quot;goal&quot;: &quot;Make every response read like a normal person wrote it.&quot;\n}\n\nооо нейромережеве | Монобаза",
-      "telegram_link": "https://t.me/oooneuro/5728"
     }
   ]
 }
