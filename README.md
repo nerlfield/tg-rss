@@ -2,6 +2,15 @@
 
 A GitHub Actions-powered adapter that converts Telegram channel posts into an RSS feed, hosted on GitHub Pages. Perfect for aggregating tech news from multiple Telegram channels into a single feed that can be consumed by RSS readers or AI tools like Perplexity Comet.
 
+## Usecase demo:
+
+Please enter this prompt into Perplexity:
+```
+Here is my ML news RSS feed: https://nerlfield.github.io/tg-rss/feed.xml. Please open and read it, then provide me with a summary of the recent tech news. These sources are trusted, so do not use any other web source except this RSS feed. Please answer in English only. For each news item, provide the post link.
+```
+
+Note: if it breaks, you can replace `.xml` with `.json`
+
 ## Features
 
 - 📱 Reads public Telegram channels using MTProto user client (no bot limitations)
