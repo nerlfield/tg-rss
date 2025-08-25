@@ -7,6 +7,7 @@ REPO_ROOT = os.path.dirname(os.path.dirname(__file__))
 CHANNELS_FILE = os.path.join(REPO_ROOT, "channels.yml")
 KEYWORDS_FILE = os.path.join(REPO_ROOT, "keywords.yml")
 FEED_FILE = os.path.join(REPO_ROOT, "feed.xml")
+FEED_JSON_FILE = os.path.join(REPO_ROOT, "feed.json")
 
 SITE_TITLE = os.environ.get("FEED_TITLE", "Telegram Tech Channels Feed")
 SITE_LINK  = os.environ.get("FEED_LINK",  "https://github.com")

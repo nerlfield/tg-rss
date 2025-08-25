@@ -7,9 +7,9 @@ A GitHub Actions-powered adapter that converts Telegram channel posts into an RS
 - 📱 Reads public Telegram channels using MTProto user client (no bot limitations)
 - 🔍 Optional keyword filtering to reduce noise
 - 🔄 Automatic updates every 15 minutes via GitHub Actions
-- 📰 Standard RSS 2.0 format output
+- 📰 Dual format output: RSS 2.0 and JSON (better for LLMs)
 - 🌐 Free hosting on GitHub Pages
-- 📊 Stateful tracking to avoid duplicate posts
+- ⏰ Time-based filtering (only posts from last N days)
 - 🔗 Preserves links from original posts
 
 ## Quick Start
@@ -117,13 +117,17 @@ Either:
 
 ## Usage
 
-Once deployed, your RSS feed will be available at:
+Once deployed, your feeds will be available at:
 
 ```
-https://<your-github-username>.github.io/tg-rss/feed.xml
+https://<your-github-username>.github.io/tg-rss/feed.xml   # RSS format
+https://<your-github-username>.github.io/tg-rss/feed.json  # JSON format (better for LLMs)
 ```
 
-You can use this URL in any RSS reader or tool that accepts RSS feeds.
+You can use these URLs in:
+- RSS readers (use feed.xml)
+- LLMs and AI tools (use feed.json - more compatible)
+- API consumers (use feed.json for easier parsing)
 
 ## Running Locally (Testing)
 
@@ -159,20 +163,23 @@ This will:
 1. Connect to Telegram using your session
 2. Fetch messages from channels in `channels.yml`
 3. Apply keyword filters from `keywords.yml` (if present)
-4. Generate `feed.xml` in the project root
-5. Update `state/last_ids.json` to track processed messages
+4. Generate both `feed.xml` and `feed.json` in the project root
 
-### View the Generated Feed
+### View the Generated Feeds
 
 ```bash
 # Check the generated RSS feed
 cat feed.xml
 
+# Check the JSON feed (better for debugging)
+cat feed.json | jq .
+
 # Or open in browser (macOS)
 open feed.xml
+open feed.json
 
 # Or with any text editor
-code feed.xml
+code feed.json
 ```
 
 ### Test with Different Configurations
@@ -183,11 +190,11 @@ mv keywords.yml keywords.yml.bak
 python scripts/fetch_and_build_feed.py
 
 # Test with specific channels
-echo "channels: ['@telegram', '@durov']" > channels.yml
+echo "channels: ['@telegram']" > channels.yml
 python scripts/fetch_and_build_feed.py
 
-# Reset state to re-fetch all messages
-echo "{}" > state/last_ids.json
+# Test with different time windows
+export FEED_DAYS=3  # Only last 3 days
 python scripts/fetch_and_build_feed.py
 ```
 
@@ -229,10 +236,10 @@ Common patterns:
 
 1. **GitHub Actions** runs on schedule (every 15 minutes by default)
 2. **Telethon** connects using your user session to read channel messages
-3. **State tracking** ensures only new messages are fetched
-4. **RSS builder** creates a valid RSS 2.0 feed
-5. **Git commit** updates feed.xml and state
-6. **GitHub Pages** automatically serves the updated feed
+3. **Time filtering** ensures only recent posts (last N days) are included
+4. **Feed builders** create both RSS 2.0 and JSON formats
+5. **Git commit** updates feed.xml and feed.json
+6. **GitHub Pages** automatically serves the updated feeds
 
 ## Limitations
 
@@ -275,24 +282,3 @@ Check that:
 - The post has text content (media-only posts need text/caption)
 - Posts are within the FEED_DAYS limit (default: 7 days)
 
-## Security Notes
-
-- Never commit your API credentials or session string to the repository
-- The session string provides full access to your Telegram account - keep it secure
-- Use a dedicated Telegram account if concerned about security
-- Regularly rotate your session string
-
-## Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-MIT
-
-## Acknowledgments
-
-Built with:
-- [Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python MTProto API Telegram client
-- [PyYAML](https://github.com/yaml/pyyaml) - YAML parser and emitter
-- GitHub Actions & GitHub Pages for free automation and hosting

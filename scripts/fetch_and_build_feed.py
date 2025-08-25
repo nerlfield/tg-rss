@@ -13,6 +13,7 @@ from config import (
     CHANNELS_FILE,
     KEYWORDS_FILE,
     FEED_FILE,
+    FEED_JSON_FILE,
     SITE_TITLE,
     SITE_LINK,
     SITE_DESC,
@@ -123,6 +124,34 @@ def build_rss(channel_items: List[Dict[str, Any]]) -> str:
     parts += ["</channel>", "</rss>"]
     return "\n".join(parts)
 
+def build_json_feed(channel_items: List[Dict[str, Any]]) -> str:
+    """Build a JSON feed format for better LLM compatibility"""
+    feed = {
+        "version": "1.0",
+        "title": SITE_TITLE,
+        "link": SITE_LINK,
+        "description": SITE_DESC,
+        "lastBuildDate": datetime.now(timezone.utc).isoformat(),
+        "items": []
+    }
+    
+    count = 0
+    for item in channel_items:
+        feed["items"].append({
+            "title": item["title"],
+            "link": item["link"],
+            "guid": item["guid"],
+            "pubDate": item["pubDate"],
+            "timestamp": item["pub_datetime"].isoformat() if "pub_datetime" in item else item["pubDate"],
+            "description": item["description"].replace("<br/>", "\n"),  # Convert HTML breaks back to newlines
+            "telegram_link": item["tg_link"]
+        })
+        count += 1
+        if count >= FEED_LIMIT:
+            break
+    
+    return json.dumps(feed, ensure_ascii=False, indent=2)
+
 async def fetch_all() -> None:
     channels = load_yaml(CHANNELS_FILE).get("channels", [])
     kw = load_yaml(KEYWORDS_FILE).get("keywords", [])
@@ -193,9 +222,17 @@ async def fetch_all() -> None:
     
     print(f"\nTotal posts collected: {len(items)}")
 
+    # Generate RSS feed
     rss = build_rss(items)
     with open(FEED_FILE, "w", encoding="utf-8") as f:
         f.write(rss)
+    
+    # Generate JSON feed for better LLM compatibility
+    json_feed = build_json_feed(items)
+    with open(FEED_JSON_FILE, "w", encoding="utf-8") as f:
+        f.write(json_feed)
+    
+    print(f"Generated feed.xml and feed.json with {len(items)} items")
 
 if __name__ == "__main__":
     import asyncio
