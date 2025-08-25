@@ -1,0 +1,47 @@
+name: Telegram → RSS
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # every 15 minutes
+  workflow_dispatch:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Generate feed.xml
+        env:
+          TELEGRAM_API_ID: ${{ secrets.TELEGRAM_API_ID }}
+          TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
+          TELEGRAM_STRING_SESSION: ${{ secrets.TELEGRAM_STRING_SESSION }}
+          FEED_TITLE: "Telegram Tech Channels Feed"
+          FEED_LINK: "https://t.me"
+          FEED_DESC: "Aggregated posts from Telegram channels for the last 7 days"
+          FEED_LIMIT: "200"
+          FEED_DAYS: "7"
+        run: |
+          python scripts/fetch_and_build_feed.py
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "${{ secrets.GIT_USER_NAME || 'github-actions' }}"
+          git config user.email "${{ secrets.GIT_USER_EMAIL || 'actions@users.noreply.github.com' }}"
+          git add feed.xml state/last_ids.json
+          git commit -m "Update feed $(date -u +'%Y-%m-%dT%H:%M:%SZ')" || echo "No changes to commit"
+          git push
+
+      # GitHub Pages auto-publishes from branch root (Settings → Pages)
