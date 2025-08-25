@@ -55,9 +55,19 @@ python scripts/generate_string_session.py
 
 This will prompt for your phone number and verification code, then output a session string. Save this string - you'll need it for the next step.
 
-### 5. Configure GitHub Secrets
+### 5. Configure GitHub Repository Settings
 
-Go to your repository's Settings → Secrets and variables → Actions, and add:
+#### Repository Permissions
+Go to your repository's Settings → Actions → General:
+1. Scroll down to "Workflow permissions"
+2. Select "Read and write permissions"
+3. Check "Allow GitHub Actions to create and approve pull requests" (optional)
+4. Click "Save"
+
+**Note:** If you forked this repository, make sure Actions are enabled in Settings → Actions → General.
+
+#### Configure Secrets
+Go to Settings → Secrets and variables → Actions, and add:
 
 - `TELEGRAM_API_ID` - Your Telegram API ID
 - `TELEGRAM_API_HASH` - Your Telegram API hash  
@@ -233,6 +243,22 @@ Common patterns:
 
 ## Troubleshooting
 
+### GitHub Actions Permission Error
+
+If you get "remote: Write access to repository not granted" error:
+
+**Option 1: Use workflow permissions (Recommended)**
+- Already added to the workflow file with `permissions: contents: write`
+
+**Option 2: Repository settings**
+1. Go to Settings → Actions → General
+2. Under "Workflow permissions", select "Read and write permissions"
+3. Save changes
+
+**Option 3: For forked repositories**
+- Make sure Actions are enabled in your fork
+- Check that the default branch is correct in the workflow file
+
 ### Session Expired
 
 If the Telegram session expires, generate a new one and update the `TELEGRAM_STRING_SESSION` secret.
@@ -247,6 +273,7 @@ Check that:
 - The channel is public or you've joined it
 - Keywords (if configured) match the post content
 - The post has text content (media-only posts need text/caption)
+- Posts are within the FEED_DAYS limit (default: 7 days)
 
 ## Security Notes
 
