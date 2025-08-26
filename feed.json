@@ -3,8 +3,89 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-08-26T19:24:11.787050+00:00",
+  "lastBuildDate": "2025-08-26T19:35:51.312932+00:00",
   "items": [
+    {
+      "title": "Post 10695 on @denissexy",
+      "link": "https://t.me/denissexy/10695",
+      "guid": "https://t.me/denissexy/10695",
+      "pubDate": "Tue, 26 Aug 2025 19:29:16 +0000",
+      "timestamp": "2025-08-26T19:29:16+00:00",
+      "description": "",
+      "telegram_link": "https://t.me/denissexy/10695"
+    },
+    {
+      "title": "Post 10694 on @denissexy",
+      "link": "https://t.me/denissexy/10694",
+      "guid": "https://t.me/denissexy/10694",
+      "pubDate": "Tue, 26 Aug 2025 19:29:16 +0000",
+      "timestamp": "2025-08-26T19:29:16+00:00",
+      "description": "",
+      "telegram_link": "https://t.me/denissexy/10694"
+    },
+    {
+      "title": "Post 10693 on @denissexy",
+      "link": "https://t.me/denissexy/10693",
+      "guid": "https://t.me/denissexy/10693",
+      "pubDate": "Tue, 26 Aug 2025 19:29:16 +0000",
+      "timestamp": "2025-08-26T19:29:16+00:00",
+      "description": "",
+      "telegram_link": "https://t.me/denissexy/10693"
+    },
+    {
+      "title": "Post 10692 on @denissexy",
+      "link": "https://t.me/denissexy/10692",
+      "guid": "https://t.me/denissexy/10692",
+      "pubDate": "Tue, 26 Aug 2025 19:29:15 +0000",
+      "timestamp": "2025-08-26T19:29:15+00:00",
+      "description": "",
+      "telegram_link": "https://t.me/denissexy/10692"
+    },
+    {
+      "title": "Post 10691 on @denissexy",
+      "link": "https://t.me/denissexy/10691",
+      "guid": "https://t.me/denissexy/10691",
+      "pubDate": "Tue, 26 Aug 2025 19:29:15 +0000",
+      "timestamp": "2025-08-26T19:29:15+00:00",
+      "description": "",
+      "telegram_link": "https://t.me/denissexy/10691"
+    },
+    {
+      "title": "Post 10690 on @denissexy",
+      "link": "https://t.me/denissexy/10690",
+      "guid": "https://t.me/denissexy/10690",
+      "pubDate": "Tue, 26 Aug 2025 19:29:15 +0000",
+      "timestamp": "2025-08-26T19:29:15+00:00",
+      "description": "",
+      "telegram_link": "https://t.me/denissexy/10690"
+    },
+    {
+      "title": "Post 10689 on @denissexy",
+      "link": "https://t.me/denissexy/10689",
+      "guid": "https://t.me/denissexy/10689",
+      "pubDate": "Tue, 26 Aug 2025 19:29:15 +0000",
+      "timestamp": "2025-08-26T19:29:15+00:00",
+      "description": "",
+      "telegram_link": "https://t.me/denissexy/10689"
+    },
+    {
+      "title": "Post 10688 on @denissexy",
+      "link": "https://t.me/denissexy/10688",
+      "guid": "https://t.me/denissexy/10688",
+      "pubDate": "Tue, 26 Aug 2025 19:29:15 +0000",
+      "timestamp": "2025-08-26T19:29:15+00:00",
+      "description": "",
+      "telegram_link": "https://t.me/denissexy/10688"
+    },
+    {
+      "title": "Игрался с Gemini 2.5 Flash Image (оно же nano-banana) и нашел забавный промпт:",
+      "link": "https://t.me/denissexy/10687",
+      "guid": "https://t.me/denissexy/10687",
+      "pubDate": "Tue, 26 Aug 2025 19:29:15 +0000",
+      "timestamp": "2025-08-26T19:29:15+00:00",
+      "description": "Игрался с Gemini 2.5 Flash Image (оно же nano-banana) и нашел забавный промпт:\n\ncurrent graphic settings: low\nChange it to: ultra rtx\n\nЭта фигня добавляет графику любому старью или мему, и всегда интересно что получится",
+      "telegram_link": "https://t.me/denissexy/10687"
+    },
     {
       "title": "Anthropic урегулировала коллективный иск авторов до суда, который был запланирован только на декабрь в Сан-Франциско.",
       "link": "https://news.bloomberglaw.com/class-action/anthropic-settles-major-ai-copyright-suit-brought-by-authors",
