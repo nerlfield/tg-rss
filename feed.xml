@@ -4,8 +4,15 @@
 <title>Telegram Tech Channels Feed</title>
 <link>https://t.me</link>
 <description>Aggregated posts from Telegram channels for the last 7 days</description>
-<lastBuildDate>Tue, 26 Aug 2025 15:15:41 +0000</lastBuildDate>
+<lastBuildDate>Tue, 26 Aug 2025 15:39:29 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Кстати, те две картинки я фотошопил как раз с новой гугловской моделью для редактирования картинок текстом</title>
+<link>http://aistudio.google.com/prompts/new_chat</link>
+<guid isPermaLink="true">http://aistudio.google.com/prompts/new_chat</guid>
+<pubDate>Tue, 26 Aug 2025 15:27:40 +0000</pubDate>
+<description><![CDATA[Кстати, те две картинки я фотошопил как раз с новой гугловской моделью для редактирования картинок текстом<br/><br/>Просто загрузил фотографию шляпы и второе фото, и попросил на всех персонажей ее натянуть<br/><br/>Можете поиграться в нормальный текстовый фотошоп, работает лучше чем в ChatGPT:<br/>http://aistudio.google.com/prompts/new_chat<br/><br/>Выбирать:<br/>Gemini 2.5 Flash Image<br/><br/>Source: <a href="https://t.me/denissexy/10684">Telegram</a>]]></description>
+</item>
 <item>
 <title>Google нарешті це зробив — таємнича модель nano-banana ВИЙШЛА в AI Studio 👌</title>
 <link>https://t.me/oooneuro/5780</link>
