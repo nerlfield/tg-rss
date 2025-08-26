@@ -4,7 +4,7 @@
 <title>Telegram Tech Channels Feed</title>
 <link>https://t.me</link>
 <description>Aggregated posts from Telegram channels for the last 7 days</description>
-<lastBuildDate>Tue, 26 Aug 2025 10:43:53 +0000</lastBuildDate>
+<lastBuildDate>Tue, 26 Aug 2025 10:53:18 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Чат, це реально? 😐</title>
@@ -831,27 +831,6 @@
 <guid isPermaLink="true">https://www.theinformation.com/articles/meta-plans-fourth-restructuring-ai-efforts-six-months?rc=ukjmk2</guid>
 <pubDate>Tue, 19 Aug 2025 11:05:10 +0000</pubDate>
 <description><![CDATA[Meta готовится к четвертой реорганизации своих AI подразделений за полгода. В феврале переместили инженерных лидеров и поставили главу Messenger. В мае разделили генеративную AI группу. В июне Марк занялся наймом специалистов за миллиарды долларов. <br/><br/>Новое подразделение Meta Superintelligence Labs делят на четыре группы, одна из которых пока называется TBD Lab — да-да, &quot;to be determined&quot;. Все шесть руководителей TBD Lab наняты извне: Jack Rae из Google возглавит pre-training, Ruoming Pang из Apple — инфраструктуру, Jiahui Yu из OpenAI — мультимедиа. Post-training поведут Hongyu Ren и Pei Sun из OpenAI и Google.<br/><br/>У этой dream team теперь будет две отдельные инфраструктурные группы. Одна внутри TBD Lab, другая общая под руководством Aparna Ramani. <br/><br/>Удивительно, но Alexandr Wang, которого летом наняли соруководителем всей лаборатории, вложившись на почти 15 млрд долларов в Scale AI, в новой структуре вообще не упоминается. Nat Friedman продолжит заниматься продуктами.<br/><br/>P.S. Я сознательно оставил англоязычную транскрипцию всех имен — уж извините, но сверять такое количество и затем выдерживать дискуссию, как их принято называть в рязанском диалекте российского, у меня никакого терпения не хватает.<br/><br/>https://www.theinformation.com/articles/meta-plans-fourth-restructuring-ai-efforts-six-months?rc=ukjmk2<br/><br/>Source: <a href="https://t.me/blognot/6289">Telegram</a>]]></description>
-</item>
-<item>
-<title>Post 2015 on @aiukraine_wetrust</title>
-<link>https://t.me/aiukraine_wetrust/2015</link>
-<guid isPermaLink="true">https://t.me/aiukraine_wetrust/2015</guid>
-<pubDate>Tue, 19 Aug 2025 10:44:56 +0000</pubDate>
-<description><![CDATA[<br/><br/>Source: <a href="https://t.me/aiukraine_wetrust/2015">Telegram</a>]]></description>
-</item>
-<item>
-<title>Post 2014 on @aiukraine_wetrust</title>
-<link>https://t.me/aiukraine_wetrust/2014</link>
-<guid isPermaLink="true">https://t.me/aiukraine_wetrust/2014</guid>
-<pubDate>Tue, 19 Aug 2025 10:44:56 +0000</pubDate>
-<description><![CDATA[<br/><br/>Source: <a href="https://t.me/aiukraine_wetrust/2014">Telegram</a>]]></description>
-</item>
-<item>
-<title>🕺 Voost - віртуальна примірка одягу.</title>
-<link>https://t.me/aiukraine_wetrust/2013</link>
-<guid isPermaLink="true">https://t.me/aiukraine_wetrust/2013</guid>
-<pubDate>Tue, 19 Aug 2025 10:44:56 +0000</pubDate>
-<description><![CDATA[🕺 Voost - віртуальна примірка одягу. <br/><br/>дивіться яка прикольна іграшка: один diffusion transformer робить virtual try-on (примірка одягу) і try-off (зняття одягу) 🤨<br/><br/>відразу скажу, що результатом зняття одягу буде НЕ людина без одягу, а одяг без людини 😂<br/><br/>👆 безкоштовно можна потестити демку тут<br/>👨‍💻 код буде тут (поки нема)<br/><br/>🌀AI UKRAINE<br/><br/>Source: <a href="https://t.me/aiukraine_wetrust/2013">Telegram</a>]]></description>
 </item>
 </channel>
 </rss>
