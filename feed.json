@@ -3,7 +3,7 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-08-27T15:39:17.194242+00:00",
+  "lastBuildDate": "2025-08-27T15:48:57.272402+00:00",
   "items": [
     {
       "title": "ESET виявила перший AI-вірус 🚨",
@@ -1237,15 +1237,6 @@
       "timestamp": "2025-08-20T17:11:07+00:00",
       "description": "🤖 Виявилось, що ChatGPT вміє робити прикольні квізи.\n\nдля цього треба просто написати: \n\nQuizGPT about ... \n\nкористуйтесь 🫡\n\n🌀AI UKRAINE",
       "telegram_link": "https://t.me/aiukraine_wetrust/2021"
-    },
-    {
-      "title": "чекаємо ? 🤔",
-      "link": "https://t.me/aiukraine_wetrust/2020",
-      "guid": "https://t.me/aiukraine_wetrust/2020",
-      "pubDate": "Wed, 20 Aug 2025 15:42:13 +0000",
-      "timestamp": "2025-08-20T15:42:13+00:00",
-      "description": "чекаємо ? 🤔",
-      "telegram_link": "https://t.me/aiukraine_wetrust/2020"
     }
   ]
 }
