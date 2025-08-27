@@ -4,8 +4,15 @@
 <title>Telegram Tech Channels Feed</title>
 <link>https://t.me</link>
 <description>Aggregated posts from Telegram channels for the last 7 days</description>
-<lastBuildDate>Wed, 27 Aug 2025 20:49:31 +0000</lastBuildDate>
+<lastBuildDate>Wed, 27 Aug 2025 21:13:28 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Anthropic запускает Claude для Chrome в режиме ограниченного пилота с 1000 пользователей Max плана. Пока это расширение</title>
+<link>https://www.anthropic.com/news/claude-for-chrome</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/claude-for-chrome</guid>
+<pubDate>Wed, 27 Aug 2025 20:56:31 +0000</pubDate>
+<description><![CDATA[Anthropic запускает Claude для Chrome в режиме ограниченного пилота с 1000 пользователей Max плана. Пока это расширение для браузера, для желающих есть лист ожидания — если что, я записался.<br/><br/>Большим вопросом в части использования AI в браузере компания видит безопасность (она везде её так видит, если что, миссия обязывает). Но в данном случае опасения не излишни — пуская AI использовать браузер, вы так или иначе доверяете ему полный контроль над вашими данными, ведь как иначе AI сможет забронировать и оплатить авиабилеты, например?<br/><br/>Anthropic сразу честно признаёт: без защитных мер каждая четвёртая попытка prompt injection атаки оказывалась успешной — 23.6%. С новыми защитами удалось снизить до 11.2%.<br/><br/>Поэтому на данный момент AI не будет использовать сайты из категории высокого риска — в первую очередь, это финансовые сервисы и Adult content. В остальном у пользователей будет возможность заблокировать или разрешить использование определенных сайтов, а перед рисковыми операциями AI будет дополнительно просить подтверждение. <br/><br/>https://www.anthropic.com/news/claude-for-chrome<br/><br/>Source: <a href="https://t.me/blognot/6307">Telegram</a>]]></description>
+</item>
 <item>
 <title>6 месяцев назад, CEO антропика говорил, что 90% кода будет писаться LLM уже через 6 месяцев</title>
 <link>https://t.me/denissexy/10702</link>
