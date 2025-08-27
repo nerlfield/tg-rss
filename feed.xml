@@ -4,7 +4,7 @@
 <title>Telegram Tech Channels Feed</title>
 <link>https://t.me</link>
 <description>Aggregated posts from Telegram channels for the last 7 days</description>
-<lastBuildDate>Wed, 27 Aug 2025 10:49:11 +0000</lastBuildDate>
+<lastBuildDate>Wed, 27 Aug 2025 11:12:33 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>#промo</title>
@@ -936,13 +936,6 @@
 <guid isPermaLink="true">https://www.reuters.com/world/us/white-house-launches-tiktok-account-with-trump-saying-i-am-your-voice-2025-08-19/</guid>
 <pubDate>Wed, 20 Aug 2025 11:15:10 +0000</pubDate>
 <description><![CDATA[Помните, в США принимали закон, по которому китайская Bytedance должна была продать TikTok или сервис будет заблокирован в США? <br/><br/>Белый Дом вчера завел официальный аккаунт в TikTok.<br/><br/>А помните, что произошло ровно 5 лет назад? 15 августа 2020 года президент США Дональд Трамп подписал указ, обязывающий Bytedance продать TikTok под угрозой блокировки в США. <br/><br/>https://www.reuters.com/world/us/white-house-launches-tiktok-account-with-trump-saying-i-am-your-voice-2025-08-19/<br/><br/>Source: <a href="https://t.me/blognot/6293">Telegram</a>]]></description>
-</item>
-<item>
-<title>Интересная статья о генерации искусственного контента для обучения LLM и, в частности, о фреймворке для такой генерации</title>
-<link>https://t.me/blognot/6292</link>
-<guid isPermaLink="true">https://t.me/blognot/6292</guid>
-<pubDate>Wed, 20 Aug 2025 10:52:47 +0000</pubDate>
-<description><![CDATA[Интересная статья о генерации искусственного контента для обучения LLM и, в частности, о фреймворке для такой генерации BeyondWeb. Авторы приводят статистику, что 97% контента в интернете — это статьи и блоги, в то время как реально LLM используются в основном для чатов и диалога, а такого контента меньше 3% в доступных данных. Их фреймворк использует перефразирование существующего контента, чем достигается заметное улучшение по сравнению с просто повторением — 4,2% по сравнению с 0,7% при повторении контента. Получается, что через перефразировку — то есть создание новых форматов, содержащих те же факты, — модель лучше усваивает другие паттерны обращения с информацией.<br/><br/>Опять напоминает обучение людей — помните, в школе по мере приближения учитель отмечал «Такие задачи будут на экзамене»? <br/><br/>Правда, речь в статье идет о небольших моделях - 1-3-8B, которые при использовании такого обучения обучаются быстрее и дают лучшие результаты по сравнению с другими моделями, обученных с тем же бюджетом токенов. Но для применения в своих проектах этого может быть вполне достаточно.<br/><br/>Source: <a href="https://t.me/blognot/6292">Telegram</a>]]></description>
 </item>
 </channel>
 </rss>
