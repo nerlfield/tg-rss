@@ -4,7 +4,7 @@
 <title>Telegram Tech Channels Feed</title>
 <link>https://t.me</link>
 <description>Aggregated posts from Telegram channels for the last 7 days</description>
-<lastBuildDate>Thu, 28 Aug 2025 09:49:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 28 Aug 2025 10:15:24 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Post 2052 on @aiukraine_wetrust</title>
@@ -908,13 +908,6 @@
 <guid isPermaLink="true">https://www.theverge.com/hands-on/761055/google-pixel-10-pro-hands-on-camera-gemini</guid>
 <pubDate>Thu, 21 Aug 2025 10:30:01 +0000</pubDate>
 <description><![CDATA[Вчера, кстати, была презентация Google своих новых Pixel. Правда, внешний вид смартфонов был известен до презентации, которую вел Джимми Фэллон. Стиль презентации, прошедшей в Бруклине, заставляет подумать, что Google научился делать небольшое шоу из своих презентаций. <br/><br/>Одновременно представлены четыре модели — Pixel 10, Pixel 10 Pro, Pixel 10 Pro XL и складывающийся Pixel 10 Pro Fold. Все они используют собственный микропроцессор Tensor G5, изготовленный по техпроцессу 3nm на заводах TSMC. Результат по сравнению с Tensor G4 — 34% прироста производительности CPU и 60% для on-device AI. Процессор всё же уступает по чистой производительности Snapdragon 8 Elite, который используется во флагманах Samsung Galaxy, но Google давно сознательно отказался от топовых показателей в пользу оптимизации на реальных задачах.<br/><br/>Google местами откровенно копирует Apple — все модели снабжены беспроводной зарядкой Qi2 с магнитами (они назвали это Pixelsnap и это полностью совместимо с MagSafe), модели eSIM-only в США, даже добавили журнальное приложение с AI-эмодзи для ваших записей (кстати, кто-то пользуется Journal на iOS?). А Magic Cue выглядит как реинкарнация Google Now — система проактивно предлагает текст для вставки на основе контекста.<br/><br/>Как и в предыдущих моделях, много хорошего сделали в камере — например, в приложении Camera появился AI, который улучшает изображение при цифровом зуме выше 30 крат. Старшие модели получили улучшенный сенсор, причем даже в ультраширокой камере, правда, младшей пришлось обойтись сенсором от модели Pixel 9A. Зато ей добавили телеобъектив. <br/><br/>Одновременно показали новые часы Pixel Watch 4 и беспроводные наушники Pixel Buds 2a с системой активного шумоподавления. <br/><br/>Смартфоны появятся в продаже 28 августа, часы и наушники — в октябре.<br/><br/>https://www.theverge.com/hands-on/761055/google-pixel-10-pro-hands-on-camera-gemini<br/><br/>Source: <a href="https://t.me/blognot/6295">Telegram</a>]]></description>
-</item>
-<item>
-<title>И такие квизы можно шарить вместе с чатами, вот вам тест по вселенной Робокопа</title>
-<link>https://t.me/denissexy/10664</link>
-<guid isPermaLink="true">https://t.me/denissexy/10664</guid>
-<pubDate>Thu, 21 Aug 2025 10:02:33 +0000</pubDate>
-<description><![CDATA[И такие квизы можно шарить вместе с чатами, вот вам тест по вселенной Робокопа<br/><br/>Source: <a href="https://t.me/denissexy/10664">Telegram</a>]]></description>
 </item>
 </channel>
 </rss>
