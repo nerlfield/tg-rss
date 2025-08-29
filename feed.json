@@ -3,8 +3,26 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-08-29T09:15:45.634454+00:00",
+  "lastBuildDate": "2025-08-29T09:38:58.401818+00:00",
   "items": [
+    {
+      "title": "Post 5802 on @oooneuro",
+      "link": "https://t.me/oooneuro/5802",
+      "guid": "https://t.me/oooneuro/5802",
+      "pubDate": "Fri, 29 Aug 2025 09:31:13 +0000",
+      "timestamp": "2025-08-29T09:31:13+00:00",
+      "description": "",
+      "telegram_link": "https://t.me/oooneuro/5802"
+    },
+    {
+      "title": "Реддітори придумали геніальний, але не дуже законний спосіб отримати тиждень відпустки 😨",
+      "link": "https://t.me/oooneuro/5801",
+      "guid": "https://t.me/oooneuro/5801",
+      "pubDate": "Fri, 29 Aug 2025 09:31:13 +0000",
+      "timestamp": "2025-08-29T09:31:13+00:00",
+      "description": "Реддітори придумали геніальний, але не дуже законний спосіб отримати тиждень відпустки 😨\n\nАвтор ідеї використовував ChatGPT, але я пішов далі і зробив у Gemini 😄\n\nооо донат на збір (лишилося 88 860)",
+      "telegram_link": "https://t.me/oooneuro/5801"
+    },
     {
       "title": "Post 2060 on @aiukraine_wetrust",
       "link": "https://t.me/aiukraine_wetrust/2060",
