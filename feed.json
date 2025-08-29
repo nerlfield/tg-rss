@@ -3,8 +3,17 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-08-29T11:48:57.319868+00:00",
+  "lastBuildDate": "2025-08-29T12:28:40.595242+00:00",
   "items": [
+    {
+      "title": "xAI представила grok-code-fast-1 — «скоростную и экономичную» модель для агентского кодинга, временно бесплатную, с запу",
+      "link": "https://www.reuters.com/business/musks-xai-forays-into-agentic-coding-with-new-model-2025-08-28/",
+      "guid": "https://www.reuters.com/business/musks-xai-forays-into-agentic-coding-with-new-model-2025-08-28/",
+      "pubDate": "Fri, 29 Aug 2025 11:52:56 +0000",
+      "timestamp": "2025-08-29T11:52:56+00:00",
+      "description": "xAI представила grok-code-fast-1 — «скоростную и экономичную» модель для агентского кодинга, временно бесплатную, с запуском у партнеров вроде GitHub Copilot, Cursor и Windsurf.\n\nНеобычно, что xAI хочет встраиваться в уже доминирующий рабочий процесс, вроде Copilot, а не тянуть разработчиков в новый. Во‑вторых, после того, как закидать железом и превзойти ценой не получилось, компания делает акцент на «компактном форм‑факторе» и экономичности — говорит про стоимость инференса и упор на типовые задачи, где важны скорость и цена. \n\nКстати, в Zed уже тоже есть, надо попробовать.\n\nНе покидает ощущение, что запускались тайком от Маска. Хотя он ретвитнул сообщение о запуске, но где восторги, эмоджи и всё, к чему мы так привыкли?\n\nhttps://www.reuters.com/business/musks-xai-forays-into-agentic-coding-with-new-model-2025-08-28/",
+      "telegram_link": "https://t.me/blognot/6310"
+    },
     {
       "title": "Нашел видео на пересечении Мифа о пещере Платона и мема RTX Off ☕️:",
       "link": "https://youtu.be/jRZmrPFhxmI",
