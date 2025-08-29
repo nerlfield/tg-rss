@@ -3,8 +3,53 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-08-29T17:49:51.956353+00:00",
+  "lastBuildDate": "2025-08-29T18:19:54.071694+00:00",
   "items": [
+    {
+      "title": "Post 10715 on @denissexy",
+      "link": "https://t.me/denissexy/10715",
+      "guid": "https://t.me/denissexy/10715",
+      "pubDate": "Fri, 29 Aug 2025 18:01:01 +0000",
+      "timestamp": "2025-08-29T18:01:01+00:00",
+      "description": "",
+      "telegram_link": "https://t.me/denissexy/10715"
+    },
+    {
+      "title": "Post 10714 on @denissexy",
+      "link": "https://t.me/denissexy/10714",
+      "guid": "https://t.me/denissexy/10714",
+      "pubDate": "Fri, 29 Aug 2025 18:01:01 +0000",
+      "timestamp": "2025-08-29T18:01:01+00:00",
+      "description": "",
+      "telegram_link": "https://t.me/denissexy/10714"
+    },
+    {
+      "title": "Post 10713 on @denissexy",
+      "link": "https://t.me/denissexy/10713",
+      "guid": "https://t.me/denissexy/10713",
+      "pubDate": "Fri, 29 Aug 2025 18:01:01 +0000",
+      "timestamp": "2025-08-29T18:01:01+00:00",
+      "description": "",
+      "telegram_link": "https://t.me/denissexy/10713"
+    },
+    {
+      "title": "Post 10712 on @denissexy",
+      "link": "https://t.me/denissexy/10712",
+      "guid": "https://t.me/denissexy/10712",
+      "pubDate": "Fri, 29 Aug 2025 18:01:01 +0000",
+      "timestamp": "2025-08-29T18:01:01+00:00",
+      "description": "",
+      "telegram_link": "https://t.me/denissexy/10712"
+    },
+    {
+      "title": "Сделал мини-апп на nano-banana:",
+      "link": "https://t.me/denissexy/10711",
+      "guid": "https://t.me/denissexy/10711",
+      "pubDate": "Fri, 29 Aug 2025 18:01:01 +0000",
+      "timestamp": "2025-08-29T18:01:01+00:00",
+      "description": "Сделал мини-апп на nano-banana:\n1) Скармливаете ей карту местности (любой)\n2) Выбираете направление камеры и нажимаете Generate\n3) Она пытается сделать вам вид в стиле Google Street View\n\nТак и путешествуете по любимым мирам или историческим картам\n\nРаботает бесплатно, играться тут (нужен обычный доступ в Google AI Studio)",
+      "telegram_link": "https://t.me/denissexy/10711"
+    },
     {
       "title": "Post 2064 on @aiukraine_wetrust",
       "link": "https://t.me/aiukraine_wetrust/2064",
