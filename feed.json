@@ -3,7 +3,7 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-08-29T22:48:58.251257+00:00",
+  "lastBuildDate": "2025-08-29T23:13:10.973386+00:00",
   "items": [
     {
       "title": "Ой, до речі, з днем повстання Скайнету вас (він був учора) ☕️",
@@ -1372,15 +1372,6 @@
       "timestamp": "2025-08-23T12:16:04+00:00",
       "description": "4.9 = x + 4.11\n\nУвы, X = -0.21 ✅\n\nГлавное, что GPT5 уверенно добавляет ✅ к ответу\nPHD уровень, говорили они",
       "telegram_link": "https://t.me/mishin_learning/1827"
-    },
-    {
-      "title": "Meta заплатит Google более $10 млрд за услуги Google Cloud в течение 6 лет. Впрочем, для Google это уже не первая такая",
-      "link": "https://www.theinformation.com/articles/meta-signs-10-billion-plus-cloud-deal-google?rc=ukjmk2",
-      "guid": "https://www.theinformation.com/articles/meta-signs-10-billion-plus-cloud-deal-google?rc=ukjmk2",
-      "pubDate": "Fri, 22 Aug 2025 23:07:55 +0000",
-      "timestamp": "2025-08-22T23:07:55+00:00",
-      "description": "Meta заплатит Google более $10 млрд за услуги Google Cloud в течение 6 лет. Впрочем, для Google это уже не первая такая сделка. OpenAI подписала соглашение с Google Cloud, Apple хранит данные iCloud у Google. Вроде и конкуренты, но зачем же стулья ломать?\n\nЗакерберг в июле обещал потратить &quot;сотни миллиардов долларов&quot; на расширение вычислительных мощностей для AI-амбиций компании. Meta продолжает строить собственные дата-центры (буквально на этой неделе объявили о новом за $1 млрд в Миссури), но одновременно арендует мощности у всех подряд — AWS, Azure, Oracle, CoreWeave, теперь вот Google.\n\nhttps://www.theinformation.com/articles/meta-signs-10-billion-plus-cloud-deal-google?rc=ukjmk2",
-      "telegram_link": "https://t.me/blognot/6298"
     }
   ]
 }
