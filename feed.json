@@ -3,8 +3,17 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-08-30T11:48:28.768484+00:00",
+  "lastBuildDate": "2025-08-30T12:25:54.360214+00:00",
   "items": [
+    {
+      "title": "Який турботливий песик, прибирає вдома, поки власника нема 😊",
+      "link": "https://t.me/oooneuro/5812",
+      "guid": "https://t.me/oooneuro/5812",
+      "pubDate": "Sat, 30 Aug 2025 12:11:30 +0000",
+      "timestamp": "2025-08-30T12:11:30+00:00",
+      "description": "Який турботливий песик, прибирає вдома, поки власника нема 😊\n\nооо донат на збір (лишилося 85 340)",
+      "telegram_link": "https://t.me/oooneuro/5812"
+    },
     {
       "title": "Ой, до речі, з днем повстання Скайнету вас (він був учора) ☕️",
       "link": "https://t.me/oooneuro/5811",
@@ -1336,42 +1345,6 @@
       "timestamp": "2025-08-23T12:59:30+00:00",
       "description": "Оце халява — на вихідні Veo 3 зробили безплатним для всіх користувачів, навіть без підписки 👌\n\nАле з нюансом: у вас усього три генерації 😢\n\nооо нейромережеве | Монобаза",
       "telegram_link": "https://t.me/oooneuro/5770"
-    },
-    {
-      "title": "Post 1830 on @mishin_learning",
-      "link": "https://t.me/mishin_learning/1830",
-      "guid": "https://t.me/mishin_learning/1830",
-      "pubDate": "Sat, 23 Aug 2025 12:16:04 +0000",
-      "timestamp": "2025-08-23T12:16:04+00:00",
-      "description": "",
-      "telegram_link": "https://t.me/mishin_learning/1830"
-    },
-    {
-      "title": "Post 1829 on @mishin_learning",
-      "link": "https://t.me/mishin_learning/1829",
-      "guid": "https://t.me/mishin_learning/1829",
-      "pubDate": "Sat, 23 Aug 2025 12:16:04 +0000",
-      "timestamp": "2025-08-23T12:16:04+00:00",
-      "description": "",
-      "telegram_link": "https://t.me/mishin_learning/1829"
-    },
-    {
-      "title": "Post 1828 on @mishin_learning",
-      "link": "https://t.me/mishin_learning/1828",
-      "guid": "https://t.me/mishin_learning/1828",
-      "pubDate": "Sat, 23 Aug 2025 12:16:04 +0000",
-      "timestamp": "2025-08-23T12:16:04+00:00",
-      "description": "",
-      "telegram_link": "https://t.me/mishin_learning/1828"
-    },
-    {
-      "title": "4.9 = x + 4.11",
-      "link": "https://t.me/mishin_learning/1827",
-      "guid": "https://t.me/mishin_learning/1827",
-      "pubDate": "Sat, 23 Aug 2025 12:16:04 +0000",
-      "timestamp": "2025-08-23T12:16:04+00:00",
-      "description": "4.9 = x + 4.11\n\nУвы, X = -0.21 ✅\n\nГлавное, что GPT5 уверенно добавляет ✅ к ответу\nPHD уровень, говорили они",
-      "telegram_link": "https://t.me/mishin_learning/1827"
     }
   ]
 }
