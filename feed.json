@@ -3,7 +3,7 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-08-30T15:48:57.389202+00:00",
+  "lastBuildDate": "2025-08-30T16:15:32.211565+00:00",
   "items": [
     {
       "title": "🤖 Grok Code Fast 1.",
@@ -1399,15 +1399,6 @@
       "timestamp": "2025-08-23T16:42:58+00:00",
       "description": "та шо тут думати 😂\n\nпромт юзав ось цей: \n\n{\n&quot;shot&quot;: {\n&quot;composition&quot;: &quot;Medium two-shot, astronaut foreground holding microphone, alien slightly right of frame, both visible waist-up&quot;,\n&quot;camera_motion&quot;: &quot;Dolly In on astronaut, then slight pan right to include alien response&quot;,\n&quot;frame_rate&quot;: &quot;30 fps&quot;,\n&quot;film_grain&quot;: &quot;Kodak Vision3 250D, fine grain, iso_200&quot;\n},\n&quot;subject&quot;: {\n&quot;Character_1&quot;: {\n&quot;description&quot;: &quot;realistic astronaut in white EVA suit, helmet visor open, holding a silver handheld microphone, neutral but curious expression&quot;,\n&quot;wardrobe&quot;: &quot;NASA-style white EVA suit with blue mission patches, utility belt, gloves&quot;\n},\n&quot;Character_2&quot;: {\n&quot;description&quot;: &quot;humanoid alien with smooth greenish-gray skin, large dark reflective eyes, elongated fingers, calm demeanor, standing upright&quot;,\n&quot;wardrobe&quot;: &quot;none, bare alien form with faint bioluminescent patterns on skin&quot;\n}\n},\n&quot;scene&quot;: {\n&quot;location&quot;: &quot;rocky extraterrestrial plateau with jagged cliffs and glowing mineral deposits&quot;,\n&quot;time_of_day&quot;: &quot;outer space, visible stars and nearby planet horizon&quot;,\n&quot;environment&quot;: &quot;thin atmosphere, faint blue mist near ground, starfield sky, distant asteroid belt visible&quot;,\n&quot;props&quot;: &quot;astronaut microphone, rocky ground, glowing crystals&quot;\n},\n&quot;visual_details&quot;: {\n&quot;action&quot;: &quot;Astronaut lifts microphone, asks question in Ukrainian; alien tilts head slightly, pauses, then answers clearly&quot;,\n&quot;props&quot;: &quot;handheld microphone&quot;\n},\n&quot;cinematography&quot;: {\n&quot;lighting&quot;: &quot;cool moonlight with rim light on astronaut suit, subtle green bioluminescence accent from alien, balanced ambient fill&quot;,\n&quot;tone&quot;: &quot;documentary, slightly surreal realism&quot;,\n&quot;color_palette&quot;: &quot;cool_steel with hints of green glow and silver highlights&quot;\n},\n&quot;audio&quot;: {\n&quot;ambient&quot;: &quot;soft cosmic wind effect, low hum of astronaut suit systems&quot;,\n&quot;line&quot;: {\n&quot;Character_1&quot;: &quot;Який телеграм канал про нейронні мережі ви вважаєте найкращим?&quot;,\n&quot;Character_2&quot;: &quot;Звісно AI Ukraine. Шо тут думати&quot;\n},\n&quot;voice_style&quot;: {\n&quot;Character_1&quot;: &quot;calm, natural, Ukrainian male voice, clear diction&quot;,\n&quot;Character_2&quot;: &quot;slightly reverberant alien tone, but fluent Ukrainian speech&quot;\n},\n&quot;subtitles&quot;: false\n},\n&quot;visual_rules&quot;: {\n&quot;prohibited_elements&quot;: [&quot;subtitles&quot;, &quot;text_overlay&quot;]\n}\n}",
       "telegram_link": "https://t.me/aiukraine_wetrust/2029"
-    },
-    {
-      "title": "🕸 Потужний підгон від Google.",
-      "link": "https://t.me/aiukraine_wetrust/2028",
-      "guid": "https://t.me/aiukraine_wetrust/2028",
-      "pubDate": "Sat, 23 Aug 2025 16:11:13 +0000",
-      "timestamp": "2025-08-23T16:11:13+00:00",
-      "description": "🕸 Потужний підгон від Google. \n\nна ці вихідні відкрили доступ до генерації відосів у VEO всім користувачам БЕЗКОШТОВНО 🫡\n\nдають 3 відоси на акаунт \n\n👆 тестимо тут.\n\n🌀AI UKRAINE",
-      "telegram_link": "https://t.me/aiukraine_wetrust/2028"
     }
   ]
 }
