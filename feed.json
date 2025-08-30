@@ -3,8 +3,71 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-08-30T13:22:38.794611+00:00",
+  "lastBuildDate": "2025-08-30T13:37:26.583441+00:00",
   "items": [
+    {
+      "title": "Post 10724 on @denissexy",
+      "link": "https://t.me/denissexy/10724",
+      "guid": "https://t.me/denissexy/10724",
+      "pubDate": "Sat, 30 Aug 2025 13:35:25 +0000",
+      "timestamp": "2025-08-30T13:35:25+00:00",
+      "description": "",
+      "telegram_link": "https://t.me/denissexy/10724"
+    },
+    {
+      "title": "Post 10723 on @denissexy",
+      "link": "https://t.me/denissexy/10723",
+      "guid": "https://t.me/denissexy/10723",
+      "pubDate": "Sat, 30 Aug 2025 13:35:25 +0000",
+      "timestamp": "2025-08-30T13:35:25+00:00",
+      "description": "",
+      "telegram_link": "https://t.me/denissexy/10723"
+    },
+    {
+      "title": "Post 10722 on @denissexy",
+      "link": "https://t.me/denissexy/10722",
+      "guid": "https://t.me/denissexy/10722",
+      "pubDate": "Sat, 30 Aug 2025 13:35:25 +0000",
+      "timestamp": "2025-08-30T13:35:25+00:00",
+      "description": "",
+      "telegram_link": "https://t.me/denissexy/10722"
+    },
+    {
+      "title": "Post 10721 on @denissexy",
+      "link": "https://t.me/denissexy/10721",
+      "guid": "https://t.me/denissexy/10721",
+      "pubDate": "Sat, 30 Aug 2025 13:35:25 +0000",
+      "timestamp": "2025-08-30T13:35:25+00:00",
+      "description": "",
+      "telegram_link": "https://t.me/denissexy/10721"
+    },
+    {
+      "title": "Post 10720 on @denissexy",
+      "link": "https://t.me/denissexy/10720",
+      "guid": "https://t.me/denissexy/10720",
+      "pubDate": "Sat, 30 Aug 2025 13:35:25 +0000",
+      "timestamp": "2025-08-30T13:35:25+00:00",
+      "description": "",
+      "telegram_link": "https://t.me/denissexy/10720"
+    },
+    {
+      "title": "Post 10719 on @denissexy",
+      "link": "https://t.me/denissexy/10719",
+      "guid": "https://t.me/denissexy/10719",
+      "pubDate": "Sat, 30 Aug 2025 13:35:25 +0000",
+      "timestamp": "2025-08-30T13:35:25+00:00",
+      "description": "",
+      "telegram_link": "https://t.me/denissexy/10719"
+    },
+    {
+      "title": "А еще я не знаю зачем, но сделал забавный nana-banana промпт который симулирует аэродинамику обтекания воздуха вокруг об",
+      "link": "https://t.me/denissexy/10718",
+      "guid": "https://t.me/denissexy/10718",
+      "pubDate": "Sat, 30 Aug 2025 13:35:25 +0000",
+      "timestamp": "2025-08-30T13:35:25+00:00",
+      "description": "А еще я не знаю зачем, но сделал забавный nana-banana промпт который симулирует аэродинамику обтекания воздуха вокруг объектов \n\nБез понятия кому это пригодится, но вот он:\n\nKeep the main subject and camera exactly. Convert the scene to a scientific CFD wind-tunnel visualization.\nWind: left → right. SUBJECT MUST FACE LEFT (into the wind); if not, rotate/flip to face left.\nREPLACE ALL subject materials with a smooth rainbow false-color gradient (blue→green→yellow→red) to mimic velocity contours; 100% coverage—no original texture visible.\nOverlay a dense QUIVER ARROW FIELD across the entire frame, over both ground and subject: thin, high-contrast arrows with clear arrowheads, base flow left→right; arrows bend around the subject; arrow length scales with local speed; spacing ~5–10 px so arrows are unmistakable. Add several long streamlines with arrowheads that curve around the body.\nGround plane: simple flat surface with orange→yellow gradient plus thin, parallel hatch lines; subtle contact shadow under the subject; bright/white background; crisp edges.\nAesthetic: scientific render (ParaView/Tecplot style), sharp anti-aliased lines, not cartoonish, no labels/numbers/axes/logos, no extra objects.\nMANDATORY: upwind-facing subject, full gradient coverage, and clearly visible arrowheads over subject and ground.\n\nP.S. Главное температуру в AI Studio сделайте 0",
+      "telegram_link": "https://t.me/denissexy/10718"
+    },
     {
       "title": "Любопытный проект, AI Village:",
       "link": "https://theaidigest.org/village",
