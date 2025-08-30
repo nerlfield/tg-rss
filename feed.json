@@ -3,8 +3,17 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-08-30T17:48:52.024339+00:00",
+  "lastBuildDate": "2025-08-30T18:17:59.390100+00:00",
   "items": [
+    {
+      "title": "Зачем это нужно в целом:",
+      "link": "https://t.me/denissexy/10726",
+      "guid": "https://t.me/denissexy/10726",
+      "pubDate": "Sat, 30 Aug 2025 17:56:12 +0000",
+      "timestamp": "2025-08-30T17:56:12+00:00",
+      "description": "Зачем это нужно в целом: \n\nЕсли эти фреймы подавать как первый и последний кадр в img2vid модели, то можно делать неплохие переходы камер и тп",
+      "telegram_link": "https://t.me/denissexy/10726"
+    },
     {
       "title": "Сделал еще один nano-banana апп, загружаете фото и получаете 3 новых вида с камеры:",
       "link": "https://t.me/denissexy/10725",
