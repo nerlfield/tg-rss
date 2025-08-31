@@ -3,8 +3,17 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-08-31T11:35:43.202842+00:00",
+  "lastBuildDate": "2025-08-31T11:48:58.533229+00:00",
   "items": [
+    {
+      "title": "edited by Nano Banana 🍌",
+      "link": "https://t.me/nerlfield/152",
+      "guid": "https://t.me/nerlfield/152",
+      "pubDate": "Sun, 31 Aug 2025 11:44:13 +0000",
+      "timestamp": "2025-08-31T11:44:13+00:00",
+      "description": "edited by Nano Banana 🍌",
+      "telegram_link": "https://t.me/nerlfield/152"
+    },
     {
       "title": "Історичні кадри: робот у прямому ефірі залишає бариста без роботи 😖",
       "link": "https://t.me/oooneuro/5815",
