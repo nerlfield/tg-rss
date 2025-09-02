@@ -3,7 +3,7 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-09-02T17:49:06.643403+00:00",
+  "lastBuildDate": "2025-09-02T18:18:17.773422+00:00",
   "items": [
     {
       "title": "✍️ Обнови в #Telegram.",
@@ -1282,24 +1282,6 @@
       "timestamp": "2025-08-26T19:29:15+00:00",
       "description": "Игрался с Gemini 2.5 Flash Image (оно же nano-banana) и нашел забавный промпт:\n\ncurrent graphic settings: low\nChange it to: ultra rtx\n\nЭта фигня добавляет графику любому старью или мему, и всегда интересно что получится",
       "telegram_link": "https://t.me/denissexy/10687"
-    },
-    {
-      "title": "Anthropic урегулировала коллективный иск авторов до суда, который был запланирован только на декабрь в Сан-Франциско.",
-      "link": "https://news.bloomberglaw.com/class-action/anthropic-settles-major-ai-copyright-suit-brought-by-authors",
-      "guid": "https://news.bloomberglaw.com/class-action/anthropic-settles-major-ai-copyright-suit-brought-by-authors",
-      "pubDate": "Tue, 26 Aug 2025 18:13:09 +0000",
-      "timestamp": "2025-08-26T18:13:09+00:00",
-      "description": "Anthropic урегулировала коллективный иск авторов до суда, который был запланирован только на декабрь в Сан-Франциско.\n\nАдвокат истцов Джастин Нельсон называет соглашение &quot;историческим&quot;. Детали обещают раскрыть через несколько недель, но binding term sheet подписали еще 25 августа — переговоры шли месяцами в тайне.\n\nЕсли условия соглашения окажутся щедрыми для авторов, это может спровоцировать лавину новых исков против всех AI-компаний. Впрочем, у большинства из них хотя бы нет настолько токсичного момента с пиратскими базами — собственно, судья принял к рассмотрению иск в основном благодаря доказательствам, что Anthropic использовал не только классический скрейпинг, но и использовал две пиратские базы с книгами.\n\nhttps://news.bloomberglaw.com/class-action/anthropic-settles-major-ai-copyright-suit-brought-by-authors",
-      "telegram_link": "https://t.me/blognot/6306"
-    },
-    {
-      "title": "Все, теперь можно начинать сезон прогнозов — поскольку стала известна дата презентации Apple, пора строить теории относи",
-      "link": "https://www.macrumors.com/2025/08/26/apple-september-2025-event/",
-      "guid": "https://www.macrumors.com/2025/08/26/apple-september-2025-event/",
-      "pubDate": "Tue, 26 Aug 2025 17:50:36 +0000",
-      "timestamp": "2025-08-26T17:50:36+00:00",
-      "description": "Все, теперь можно начинать сезон прогнозов — поскольку стала известна дата презентации Apple, пора строить теории относительно того, что там покажет компания, пообещавшая &quot;Awe Dropping&quot;. \n\nСкорее всего, покажут iPhone 17 Air, который получит собственный модем Apple C1 и заменит провальный Plus.\n\nPro-модели, вероятно, получат алюминиевые рамы вместо титановых, что подадут как более прочную конструкцию.\n\nИ да, впервые за три года обновят все Apple Watch разом. Гм, моя Ultra уже стала регулярно глючить и жрать батарею как не в себя. Так что пора.\n\nhttps://www.macrumors.com/2025/08/26/apple-september-2025-event/",
-      "telegram_link": "https://t.me/blognot/6305"
     }
   ]
 }
