@@ -3,7 +3,7 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-09-02T17:40:30.613747+00:00",
+  "lastBuildDate": "2025-09-02T17:49:06.643403+00:00",
   "items": [
     {
       "title": "✍️ Обнови в #Telegram.",
@@ -1300,33 +1300,6 @@
       "timestamp": "2025-08-26T17:50:36+00:00",
       "description": "Все, теперь можно начинать сезон прогнозов — поскольку стала известна дата презентации Apple, пора строить теории относительно того, что там покажет компания, пообещавшая &quot;Awe Dropping&quot;. \n\nСкорее всего, покажут iPhone 17 Air, который получит собственный модем Apple C1 и заменит провальный Plus.\n\nPro-модели, вероятно, получат алюминиевые рамы вместо титановых, что подадут как более прочную конструкцию.\n\nИ да, впервые за три года обновят все Apple Watch разом. Гм, моя Ultra уже стала регулярно глючить и жрать батарею как не в себя. Так что пора.\n\nhttps://www.macrumors.com/2025/08/26/apple-september-2025-event/",
       "telegram_link": "https://t.me/blognot/6305"
-    },
-    {
-      "title": "Post 2039 on @aiukraine_wetrust",
-      "link": "https://t.me/aiukraine_wetrust/2039",
-      "guid": "https://t.me/aiukraine_wetrust/2039",
-      "pubDate": "Tue, 26 Aug 2025 17:41:27 +0000",
-      "timestamp": "2025-08-26T17:41:27+00:00",
-      "description": "",
-      "telegram_link": "https://t.me/aiukraine_wetrust/2039"
-    },
-    {
-      "title": "Post 2038 on @aiukraine_wetrust",
-      "link": "https://t.me/aiukraine_wetrust/2038",
-      "guid": "https://t.me/aiukraine_wetrust/2038",
-      "pubDate": "Tue, 26 Aug 2025 17:41:27 +0000",
-      "timestamp": "2025-08-26T17:41:27+00:00",
-      "description": "",
-      "telegram_link": "https://t.me/aiukraine_wetrust/2038"
-    },
-    {
-      "title": "ну тепер ясно",
-      "link": "https://t.me/aiukraine_wetrust/2037",
-      "guid": "https://t.me/aiukraine_wetrust/2037",
-      "pubDate": "Tue, 26 Aug 2025 17:41:27 +0000",
-      "timestamp": "2025-08-26T17:41:27+00:00",
-      "description": "ну тепер ясно\n\nдякую, Гугл 🤔\n\n🌀AI UKRAINE",
-      "telegram_link": "https://t.me/aiukraine_wetrust/2037"
     }
   ]
 }
