@@ -3,8 +3,17 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-09-03T01:03:55.958627+00:00",
+  "lastBuildDate": "2025-09-03T02:34:15.574076+00:00",
   "items": [
+    {
+      "title": "Вебинар от OpenAI: Reinforcement Fine-Tuning",
+      "link": "https://youtu.be/YWLOo_fc5oA?si=j4ORrbA82UjGh8j5",
+      "guid": "https://youtu.be/YWLOo_fc5oA?si=j4ORrbA82UjGh8j5",
+      "pubDate": "Wed, 03 Sep 2025 01:07:38 +0000",
+      "timestamp": "2025-09-03T01:07:38+00:00",
+      "description": "Вебинар от OpenAI: Reinforcement Fine-Tuning \n\nhttps://youtu.be/YWLOo_fc5oA?si=j4ORrbA82UjGh8j5",
+      "telegram_link": "https://t.me/mishin_learning/1832"
+    },
     {
       "title": "Опа, мій улюблений агент GenSpark тепер вміє МОНТУВАТИ відео 😮",
       "link": "https://t.me/oooneuro/5831",
