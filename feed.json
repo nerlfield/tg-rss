@@ -3,7 +3,7 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-09-04T16:18:05.019444+00:00",
+  "lastBuildDate": "2025-09-04T16:44:36.136366+00:00",
   "items": [
     {
       "title": "Цьогоріч воркшоп UNLP став частиною конференції ACL 2025 — найбільшої та найавторитетнішої події у світі комп’ютерної лі",
@@ -1030,15 +1030,6 @@
       "timestamp": "2025-08-28T17:01:05+00:00",
       "description": "Смотрим стрим OpenAI по риалтайм API - это фигня с которой вы говорите в чатгпт:\nhttps://www.youtube.com/live/nfBbmtMJhX0",
       "telegram_link": "https://t.me/denissexy/10704"
-    },
-    {
-      "title": "Навіть песик купається, а ти ні 😢",
-      "link": "https://t.me/oooneuro/5797",
-      "guid": "https://t.me/oooneuro/5797",
-      "pubDate": "Thu, 28 Aug 2025 16:35:22 +0000",
-      "timestamp": "2025-08-28T16:35:22+00:00",
-      "description": "Навіть песик купається, а ти ні 😢\n\nооо донат на збір (лишилося 88 960)",
-      "telegram_link": "https://t.me/oooneuro/5797"
     }
   ]
 }
