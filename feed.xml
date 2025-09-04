@@ -4,8 +4,15 @@
 <title>Telegram Tech Channels Feed</title>
 <link>https://t.me</link>
 <description>Aggregated posts from Telegram channels for the last 7 days</description>
-<lastBuildDate>Thu, 04 Sep 2025 19:23:26 +0000</lastBuildDate>
+<lastBuildDate>Thu, 04 Sep 2025 19:35:33 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Швейцария включается в глобальную AI-гонку. Apertus — национальная LLM от публичных институтов EPFL, ETH Zurich и суперк</title>
+<link>https://www.swissinfo.ch/eng/swiss-ai/switzerland-launches-transparent-chatgpt-alternative/89929269</link>
+<guid isPermaLink="true">https://www.swissinfo.ch/eng/swiss-ai/switzerland-launches-transparent-chatgpt-alternative/89929269</guid>
+<pubDate>Thu, 04 Sep 2025 19:28:54 +0000</pubDate>
+<description><![CDATA[Швейцария включается в глобальную AI-гонку. Apertus — национальная LLM от публичных институтов EPFL, ETH Zurich и суперкомпьютерного центра CSCS — позиционируется как &quot;публичная инфраструктура&quot;, наравне с дорогами и электричеством. <br/><br/>Технически это модель уровня Llama 3, две версии на 8 и 70 млрд параметров, обученные на 15 триллионах токенов. Но интереснее другое: 40% данных не на английском, включая швейцарский немецкий и романшский (четвертый язык Швейцарии, насчитывающий примерно 45 тысяч носителей, и являющийся одним из ближайших наследников вульгарной латыни Древнего Рима). Swiss Bankers Association уже говорят о &quot;большом долгосрочном потенциале&quot; — модель соответствует строгим швейцарским законам о банковской тайне, причем весь контент для обучающей выборки был собран в полном соответствии со швейцарским законодательством. <br/><br/>Доступ через Swisscom и Hugging Face есть, полная документация открыта. Декларируется полная открытость, то есть доступен должен быть также датасет. <br/><br/>https://www.swissinfo.ch/eng/swiss-ai/switzerland-launches-transparent-chatgpt-alternative/89929269<br/><br/>Source: <a href="https://t.me/blognot/6321">Telegram</a>]]></description>
+</item>
 <item>
 <title>Мне сразу несколько человек сегодня прислали эту новость, так что я в итоге решил написать — Atlassian покупает The Brow</title>
 <link>https://www.cnbc.com/2025/09/04/atlassian-the-browser-company-deal.html</link>
