@@ -3,8 +3,17 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-09-04T18:54:25.013337+00:00",
+  "lastBuildDate": "2025-09-04T19:11:20.764053+00:00",
   "items": [
+    {
+      "title": "Мне сразу несколько человек сегодня прислали эту новость, так что я в итоге решил написать — Atlassian покупает The Brow",
+      "link": "https://www.cnbc.com/2025/09/04/atlassian-the-browser-company-deal.html",
+      "guid": "https://www.cnbc.com/2025/09/04/atlassian-the-browser-company-deal.html",
+      "pubDate": "Thu, 04 Sep 2025 19:03:13 +0000",
+      "timestamp": "2025-09-04T19:03:13+00:00",
+      "description": "Мне сразу несколько человек сегодня прислали эту новость, так что я в итоге решил написать — Atlassian покупает The Browser Co. за 610 млн долларов наличными. \n\nОценка стартапа год назад составляла 500 млн долларов. Для проекта в области AI это можно считать отсутствием прогресса, но стоит учесть, что за это время компания убила предыдущую разработку — Ark, — и запустила новый браузер Dia. The Information сообщал, что с Browser Co. вели переговоры Perplexity и OpenAI. \n\nAtlassian хочет объединить &quot;SaaS-опыт Arc, AI и элегантность Dia и enterprise-экспертизу&quot;. Если учесть, что Atlassian — компания, работающая с корпоративными решениями, то можно предположить интерес к агентским решениям на основе купленных разработок. \n\nЗабавно, что Atlassian Ventures был среди предыдущих инвесторов The Browser Co.\n\nhttps://www.cnbc.com/2025/09/04/atlassian-the-browser-company-deal.html",
+      "telegram_link": "https://t.me/blognot/6320"
+    },
     {
       "title": "Цьогоріч воркшоп UNLP став частиною конференції ACL 2025 — найбільшої та найавторитетнішої події у світі комп’ютерної лі",
       "link": "https://t.me/AIHOUSE/1295",
