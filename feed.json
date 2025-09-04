@@ -3,8 +3,17 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-09-04T20:31:31.293227+00:00",
+  "lastBuildDate": "2025-09-04T20:48:50.415008+00:00",
   "items": [
+    {
+      "title": "А еще в чатгпт завезли ветки разговоров, можно нажать эту кнопку и создастся новый чат со всей историей диалога, который",
+      "link": "https://t.me/denissexy/10733",
+      "guid": "https://t.me/denissexy/10733",
+      "pubDate": "Thu, 04 Sep 2025 20:40:39 +0000",
+      "timestamp": "2025-09-04T20:40:39+00:00",
+      "description": "А еще в чатгпт завезли ветки разговоров, можно нажать эту кнопку и создастся новый чат со всей историей диалога, который в боковой панели будет виден как новый чат - уже выкатили",
+      "telegram_link": "https://t.me/denissexy/10733"
+    },
     {
       "title": "Post 2086 on @aiukraine_wetrust",
       "link": "https://t.me/aiukraine_wetrust/2086",
