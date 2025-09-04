@@ -3,8 +3,17 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-09-04T19:35:33.006252+00:00",
+  "lastBuildDate": "2025-09-04T19:49:05.211666+00:00",
   "items": [
+    {
+      "title": "Меня немного запарило каждый раз в агента ChatGPT вбивать сложные инструкции или хранить промпты в заметках, поэтому сде",
+      "link": "https://shir-man.com/agent-presets/",
+      "guid": "https://shir-man.com/agent-presets/",
+      "pubDate": "Thu, 04 Sep 2025 19:38:09 +0000",
+      "timestamp": "2025-09-04T19:38:09+00:00",
+      "description": "Меня немного запарило каждый раз в агента ChatGPT вбивать сложные инструкции или хранить промпты в заметках, поэтому сделал небольшой тул который хранит промпт в ссылке и уже перейдя по этой ссылке, агент исполняет инструкции:\nhttps://shir-man.com/agent-presets/\n\nПолезно, если у вас есть какие-то сложные или повторяющиеся задачи для агента \n\nВсе хранится у вас в браузере и в самих ссылках, поэтому они такие длинные, на сервере ничего не хранится – но пароли лучше туда не добавлять ☕️ \n\nИ добавил пару примеров как я читаю AI новости подборками – можете их подредактировать под себя нажав на карандашик\n\nP.S. ну и в будущем можно будет легко между Computer Use агентами прыгать, скоро везде появятся\n\nP.P.S. А еще так коллегам можно шарить готовые workflow",
+      "telegram_link": "https://t.me/denissexy/10732"
+    },
     {
       "title": "Швейцария включается в глобальную AI-гонку. Apertus — национальная LLM от публичных институтов EPFL, ETH Zurich и суперк",
       "link": "https://www.swissinfo.ch/eng/swiss-ai/switzerland-launches-transparent-chatgpt-alternative/89929269",

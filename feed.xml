@@ -4,8 +4,15 @@
 <title>Telegram Tech Channels Feed</title>
 <link>https://t.me</link>
 <description>Aggregated posts from Telegram channels for the last 7 days</description>
-<lastBuildDate>Thu, 04 Sep 2025 19:35:33 +0000</lastBuildDate>
+<lastBuildDate>Thu, 04 Sep 2025 19:49:05 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Меня немного запарило каждый раз в агента ChatGPT вбивать сложные инструкции или хранить промпты в заметках, поэтому сде</title>
+<link>https://shir-man.com/agent-presets/</link>
+<guid isPermaLink="true">https://shir-man.com/agent-presets/</guid>
+<pubDate>Thu, 04 Sep 2025 19:38:09 +0000</pubDate>
+<description><![CDATA[Меня немного запарило каждый раз в агента ChatGPT вбивать сложные инструкции или хранить промпты в заметках, поэтому сделал небольшой тул который хранит промпт в ссылке и уже перейдя по этой ссылке, агент исполняет инструкции:<br/>https://shir-man.com/agent-presets/<br/><br/>Полезно, если у вас есть какие-то сложные или повторяющиеся задачи для агента <br/><br/>Все хранится у вас в браузере и в самих ссылках, поэтому они такие длинные, на сервере ничего не хранится – но пароли лучше туда не добавлять ☕️ <br/><br/>И добавил пару примеров как я читаю AI новости подборками – можете их подредактировать под себя нажав на карандашик<br/><br/>P.S. ну и в будущем можно будет легко между Computer Use агентами прыгать, скоро везде появятся<br/><br/>P.P.S. А еще так коллегам можно шарить готовые workflow<br/><br/>Source: <a href="https://t.me/denissexy/10732">Telegram</a>]]></description>
+</item>
 <item>
 <title>Швейцария включается в глобальную AI-гонку. Apertus — национальная LLM от публичных институтов EPFL, ETH Zurich и суперк</title>
 <link>https://www.swissinfo.ch/eng/swiss-ai/switzerland-launches-transparent-chatgpt-alternative/89929269</link>
