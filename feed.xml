@@ -4,7 +4,7 @@
 <title>Telegram Tech Channels Feed</title>
 <link>https://t.me</link>
 <description>Aggregated posts from Telegram channels for the last 7 days</description>
-<lastBuildDate>Fri, 05 Sep 2025 17:49:22 +0000</lastBuildDate>
+<lastBuildDate>Fri, 05 Sep 2025 18:18:48 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>🤖 Не знаю коли це сталось, але в ChatGPT завезли фічу Branch in new chat -- тепер як на GitHub ви можете відбранчуватись</title>
@@ -684,41 +684,6 @@
 <guid isPermaLink="true">https://www.wsj.com/articles/taco-bell-rethinks-future-of-voice-ai-at-the-drive-through-72990b5a?st=ow4hFs&amp;reflink=desktopwebshare_permalink</guid>
 <pubDate>Fri, 29 Aug 2025 19:41:51 +0000</pubDate>
 <description><![CDATA[По информации WSJ, Taco Bell развернул голосовой AI на более чем 500 точках и выяснил, что часть клиентов раздражают глюки и задержки, а часть просто не готова говорить с машиной. Директор по цифровым технологиям Taco Bell признает смешанный опыт и теперь допускает, что AI не должен работать повсеместно: в самых загруженных ресторанах, похоже, лучше справится человек.<br/><br/>А детали оказались неочевидными. Система в таком массовом заведении, оказывается, должна уметь выдерживать троллинг вроде «18 тысяч стаканов воды» (но различать, если звонит Стив Джобс с презентации, видимо) и вовремя отдавать разговор сотруднику. Ресторанам будут давать рекомендации по времени и нагрузке: когда включать голосовой AI, а когда внимательно мониторить и перехватывать. Для калибровки уже есть массив из более чем двух миллионов заказов.<br/><br/>Вообще, любому продакт-менеджеру хорошо известно, что тестировать можно сколько угодно, но как именно будут использовать продукт живые пользователи, никому не известно вплоть до запуска. Вот у меня буквально сегодня в одном проекте появился ограниченный контингент реальных людей и уже видно, какая (пока небольшая) часть усилий потрачена зря или, по крайней мере, можно было не тратить её сейчас.<br/><br/>https://www.wsj.com/articles/taco-bell-rethinks-future-of-voice-ai-at-the-drive-through-72990b5a?st=ow4hFs&amp;reflink=desktopwebshare_permalink<br/><br/>Source: <a href="https://t.me/blognot/6311">Telegram</a>]]></description>
-</item>
-<item>
-<title>Post 10715 on @denissexy</title>
-<link>https://t.me/denissexy/10715</link>
-<guid isPermaLink="true">https://t.me/denissexy/10715</guid>
-<pubDate>Fri, 29 Aug 2025 18:01:01 +0000</pubDate>
-<description><![CDATA[<br/><br/>Source: <a href="https://t.me/denissexy/10715">Telegram</a>]]></description>
-</item>
-<item>
-<title>Post 10714 on @denissexy</title>
-<link>https://t.me/denissexy/10714</link>
-<guid isPermaLink="true">https://t.me/denissexy/10714</guid>
-<pubDate>Fri, 29 Aug 2025 18:01:01 +0000</pubDate>
-<description><![CDATA[<br/><br/>Source: <a href="https://t.me/denissexy/10714">Telegram</a>]]></description>
-</item>
-<item>
-<title>Post 10713 on @denissexy</title>
-<link>https://t.me/denissexy/10713</link>
-<guid isPermaLink="true">https://t.me/denissexy/10713</guid>
-<pubDate>Fri, 29 Aug 2025 18:01:01 +0000</pubDate>
-<description><![CDATA[<br/><br/>Source: <a href="https://t.me/denissexy/10713">Telegram</a>]]></description>
-</item>
-<item>
-<title>Post 10712 on @denissexy</title>
-<link>https://t.me/denissexy/10712</link>
-<guid isPermaLink="true">https://t.me/denissexy/10712</guid>
-<pubDate>Fri, 29 Aug 2025 18:01:01 +0000</pubDate>
-<description><![CDATA[<br/><br/>Source: <a href="https://t.me/denissexy/10712">Telegram</a>]]></description>
-</item>
-<item>
-<title>Сделал мини-апп на nano-banana:</title>
-<link>https://t.me/denissexy/10711</link>
-<guid isPermaLink="true">https://t.me/denissexy/10711</guid>
-<pubDate>Fri, 29 Aug 2025 18:01:01 +0000</pubDate>
-<description><![CDATA[Сделал мини-апп на nano-banana:<br/>1) Скармливаете ей карту местности (любой)<br/>2) Выбираете направление камеры и нажимаете Generate<br/>3) Она пытается сделать вам вид в стиле Google Street View<br/><br/>Так и путешествуете по любимым мирам или историческим картам<br/><br/>Работает бесплатно, играться тут (нужен обычный доступ в Google AI Studio)<br/><br/>Source: <a href="https://t.me/denissexy/10711">Telegram</a>]]></description>
 </item>
 </channel>
 </rss>
