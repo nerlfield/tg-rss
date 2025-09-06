@@ -3,8 +3,17 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-09-06T12:55:22.404014+00:00",
+  "lastBuildDate": "2025-09-06T13:17:14.531801+00:00",
   "items": [
+    {
+      "title": "Я не эксперт конечно, но если у вас стартап построен на том, что вы предлагаете кандидатам и компаниями работу с помощью",
+      "link": "https://openai.com/index/expanding-economic-opportunity-with-ai/",
+      "guid": "https://openai.com/index/expanding-economic-opportunity-with-ai/",
+      "pubDate": "Sat, 06 Sep 2025 13:01:23 +0000",
+      "timestamp": "2025-09-06T13:01:23+00:00",
+      "description": "Я не эксперт конечно, но если у вас стартап построен на том, что вы предлагаете кандидатам и компаниями работу с помощью АИ, то у вас есть год чтобы эвакуироваться ☕️ потому что летом ~2026 года выйдет такой же от OpenAI:\nhttps://openai.com/index/expanding-economic-opportunity-with-ai/\n\nНа платформе еще обещают акцент на «работниках свободно владеющих АИ» и OpenAI Certifications, которые будут выдавать соискателям за тесты, видимо \n\nНу и логично, если твоя компания виновата в том что люди будут терять работу, то лучше бы тебе же пытаться решить эту проблему",
+      "telegram_link": "https://t.me/denissexy/10738"
+    },
     {
       "title": "Там OpenAI опубликовали новый ресёрч: оказывается, нейронки галлюцинируют и врут не потому что \"чугунные шизоиды на тран",
       "link": "https://t.me/denissexy/10737",
