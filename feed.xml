@@ -4,8 +4,15 @@
 <title>Telegram Tech Channels Feed</title>
 <link>https://t.me</link>
 <description>Aggregated posts from Telegram channels for the last 7 days</description>
-<lastBuildDate>Sat, 06 Sep 2025 15:48:59 +0000</lastBuildDate>
+<lastBuildDate>Sat, 06 Sep 2025 16:14:51 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>💳LLM на візитці.</title>
+<link>https://t.me/aiukraine_wetrust/2089</link>
+<guid isPermaLink="true">https://t.me/aiukraine_wetrust/2089</guid>
+<pubDate>Sat, 06 Sep 2025 16:03:14 +0000</pubDate>
+<description><![CDATA[💳LLM на візитці. <br/><br/>якщо ви переживаєте, що не можете локально запустити ЛЛМ на своєму ПК -- подивіться на цього чувака, він запустив ЛЛМку на візитній карткі 💳<br/><br/>використовував llama2.c на esp32s3 (260k параметрів, ~24 токени/сек)<br/><br/>btw, дизайн розробляв сам, та зробив його в стилі дошки з Віджа (відсилка про спілкування з духами, лол) 👻<br/><br/>#fun<br/><br/>🌀AI UKRAINE<br/><br/>Source: <a href="https://t.me/aiukraine_wetrust/2089">Telegram</a>]]></description>
+</item>
 <item>
 <title>👩🏻‍💻 Наскільки реально отримати грант на навчання АІ чи ІТ в Україні?</title>
 <link>https://cutt.ly/zrZADxSG</link>
