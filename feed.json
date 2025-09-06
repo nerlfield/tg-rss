@@ -3,8 +3,17 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-09-06T08:48:34.129428+00:00",
+  "lastBuildDate": "2025-09-06T09:12:52.999744+00:00",
   "items": [
+    {
+      "title": "Грустная новость — TheNextWeb закрывается. Причем полностью — прекратит свое существование как сайт (который в течение 2",
+      "link": "https://www.eu-startups.com/2025/09/the-next-web-bows-out-after-20-years-in-europes-tech-scene/",
+      "guid": "https://www.eu-startups.com/2025/09/the-next-web-bows-out-after-20-years-in-europes-tech-scene/",
+      "pubDate": "Sat, 06 Sep 2025 08:55:50 +0000",
+      "timestamp": "2025-09-06T08:55:50+00:00",
+      "description": "Грустная новость — TheNextWeb закрывается. Причем полностью — прекратит свое существование как сайт (который в течение 20 лет был оригинальным источником информации), так и конференция, которая практически все эти годы была одной из ведущих в Европе. Мне всегда нравилось ездить на нее из-за её особого духа — она была не только про технологии, сервисы и гаджеты, но и про предпринимательство. Очень долго в ней ощущалось авторство Патрика и Бориса, двух основателей компаний, и даже после покупки FInancial Times особое настроение сохранялось.\n\nУж не знаю, финансовое ли это решение, или тому же Борису надоело, но всё когда-нибудь заканчивается.\n\nhttps://www.eu-startups.com/2025/09/the-next-web-bows-out-after-20-years-in-europes-tech-scene/",
+      "telegram_link": "https://t.me/blognot/6327"
+    },
     {
       "title": "Давайте, в эту пятницу, важный вопрос по лору Матрицы закроем раз и навсегда с GPT 5 pro:",
       "link": "https://t.me/denissexy/10736",
