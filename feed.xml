@@ -4,14 +4,14 @@
 <title>Telegram Tech Channels Feed</title>
 <link>https://t.me</link>
 <description>Aggregated posts from Telegram channels for the last 7 days</description>
-<lastBuildDate>Sun, 07 Sep 2025 20:39:46 +0000</lastBuildDate>
+<lastBuildDate>Sun, 07 Sep 2025 20:48:28 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Нашел полезный юзкейс для агента ChatGPT:</title>
 <link>https://shir-man.com/agent-presets/</link>
 <guid isPermaLink="true">https://shir-man.com/agent-presets/</guid>
 <pubDate>Sun, 07 Sep 2025 20:39:10 +0000</pubDate>
-<description><![CDATA[Нашел полезный юзкейс для агента ChatGPT:<br/>Заменяете в промпте ниже название онлайн-магазина и он сам ходит по интернету, ищет промо коды и пытается проверить какие все еще работают – я протестировал, работает и скидку нашел:<br/><br/>You MUST follow those instructions, execute them all and return to the user results:<br/># Steps<br/>1. Search for discount codes for &lt;тут нужно вписать магазин&gt; using search engines and coupon sites<br/>2. Navigate to the store website<br/>3. Browse and add a test item to the shopping cart<br/>4. Proceed to checkout page<br/>5. Test the found discount codes one by one in the checkout form<br/>6. Report which codes work, their discount amounts, and any restrictions<br/><br/>NEVER stop until you have completed all the steps. Do not ask any questions if not necessary.<br/><br/>P.S. Промт всегда лежит тут и я добавил возможность просто копировать текстовые промпты, без всяких ссылок: <br/>https://shir-man.com/agent-presets/<br/><br/>Source: <a href="https://t.me/denissexy/10741">Telegram</a>]]></description>
+<description><![CDATA[Нашел полезный юзкейс для агента ChatGPT:<br/>Заменяете в промпте ниже название онлайн-магазина и он сам ходит по интернету, ищет промо коды и пытается проверить какие все еще активны – я протестировал, работает и скидку нашел:<br/><br/>You MUST follow those instructions, execute them all and return to the user results:<br/># Steps<br/>1. Search for discount codes for &lt;тут нужно вписать магазин&gt; using search engines and coupon sites<br/>2. Navigate to the store website<br/>3. Browse and add a test item to the shopping cart<br/>4. Proceed to checkout page<br/>5. Test the found discount codes one by one in the checkout form<br/>6. Report which codes work, their discount amounts, and any restrictions<br/><br/>NEVER stop until you have completed all the steps. Do not ask any questions if not necessary.<br/><br/>P.S. Промт всегда лежит тут и я добавил возможность просто копировать текстовые промпты, без всяких ссылок: <br/>https://shir-man.com/agent-presets/<br/><br/>Source: <a href="https://t.me/denissexy/10741">Telegram</a>]]></description>
 </item>
 <item>
 <title>Post 5849 on @oooneuro</title>
