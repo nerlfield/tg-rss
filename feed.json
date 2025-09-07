@@ -3,8 +3,17 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-09-07T09:36:32.093961+00:00",
+  "lastBuildDate": "2025-09-07T09:48:53.361186+00:00",
   "items": [
+    {
+      "title": "😗 Чотири роки прогресу Tesla Optimus:",
+      "link": "https://t.me/aiukraine_wetrust/2090",
+      "guid": "https://t.me/aiukraine_wetrust/2090",
+      "pubDate": "Sun, 07 Sep 2025 09:38:37 +0000",
+      "timestamp": "2025-09-07T09:38:37+00:00",
+      "description": "😗 Чотири роки прогресу Tesla Optimus: \n\nцікаво, який некст-степ\n\n#robotics\n\n🌀AI UKRAINE",
+      "telegram_link": "https://t.me/aiukraine_wetrust/2090"
+    },
     {
       "title": "Оказывается, в маке есть встроенный датчик угла наклона экрана – чел нашел как с него читать данные и привязал к нему зв",
       "link": "https://t.me/denissexy/10740",
