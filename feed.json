@@ -3,8 +3,44 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-09-07T15:35:48.861086+00:00",
+  "lastBuildDate": "2025-09-07T15:48:55.678734+00:00",
   "items": [
+    {
+      "title": "Post 5849 on @oooneuro",
+      "link": "https://t.me/oooneuro/5849",
+      "guid": "https://t.me/oooneuro/5849",
+      "pubDate": "Sun, 07 Sep 2025 15:48:31 +0000",
+      "timestamp": "2025-09-07T15:48:31+00:00",
+      "description": "",
+      "telegram_link": "https://t.me/oooneuro/5849"
+    },
+    {
+      "title": "Post 5848 on @oooneuro",
+      "link": "https://t.me/oooneuro/5848",
+      "guid": "https://t.me/oooneuro/5848",
+      "pubDate": "Sun, 07 Sep 2025 15:48:31 +0000",
+      "timestamp": "2025-09-07T15:48:31+00:00",
+      "description": "",
+      "telegram_link": "https://t.me/oooneuro/5848"
+    },
+    {
+      "title": "Post 5847 on @oooneuro",
+      "link": "https://t.me/oooneuro/5847",
+      "guid": "https://t.me/oooneuro/5847",
+      "pubDate": "Sun, 07 Sep 2025 15:48:31 +0000",
+      "timestamp": "2025-09-07T15:48:31+00:00",
+      "description": "",
+      "telegram_link": "https://t.me/oooneuro/5847"
+    },
+    {
+      "title": "Фанатики Gemini бі лайк: чувак з Твітеру оголосив голодовку, поки не буде релізу Gemini 3.0 😡",
+      "link": "https://t.me/oooneuro/5846",
+      "guid": "https://t.me/oooneuro/5846",
+      "pubDate": "Sun, 07 Sep 2025 15:48:31 +0000",
+      "timestamp": "2025-09-07T15:48:31+00:00",
+      "description": "Фанатики Gemini бі лайк: чувак з Твітеру оголосив голодовку, поки не буде релізу Gemini 3.0 😡\n\nНа щастя, мітинг поки віртуальний за участі nano-banana.\n\nооо донат на збір (лишилося 74 073.7)",
+      "telegram_link": "https://t.me/oooneuro/5846"
+    },
     {
       "title": "Сотрудники OpenAI по результатам исследования галлюцинаций моделей делают интересный вывод: причина галлюцинаций не толь",
       "link": "https://openai.com/index/why-language-models-hallucinate/",
