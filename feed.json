@@ -3,8 +3,17 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-09-08T14:51:44.034075+00:00",
+  "lastBuildDate": "2025-09-08T15:14:41.909173+00:00",
   "items": [
+    {
+      "title": "Nasdaq подала заявку в SEC на торговлю токенизированными ценными бумагами наравне с обычными акциями. Если одобрят, это",
+      "link": "https://www.reuters.com/business/finance/nasdaq-makes-push-launch-trading-tokenized-securities-2025-09-08/",
+      "guid": "https://www.reuters.com/business/finance/nasdaq-makes-push-launch-trading-tokenized-securities-2025-09-08/",
+      "pubDate": "Mon, 08 Sep 2025 14:54:28 +0000",
+      "timestamp": "2025-09-08T14:54:28+00:00",
+      "description": "Nasdaq подала заявку в SEC на торговлю токенизированными ценными бумагами наравне с обычными акциями. Если одобрят, это будет первый случай токенизированной торговли на крупной американской бирже.\n\nЗаявка подана через несколько дней после того, как SEC под руководством Пола Аткинса включила в повестку поправки для торговли криптовалютами на национальных биржах. Наверное, можно считать, что администрация настроена интегрировать крипту в финансовую систему.\n\nВ заявке Nasdaq специально подчеркнуто отличие от европейских платформ, где уже торгуют токенизированными американскими акциями. При что, что европейские токены не дают реальных прав собственности на акции, Nasdaq обещает полную эквивалентность: купил токен — получил те же права, что и владелец обычной акции. И обязанности тоже — Хестер Пирс из SEC еще летом предупреждала, что токенизация не позволит обойти законы о ценных бумагах.\n\nПо планам Nasdaq, первые токен-сделки могут состояться к концу третьего квартала 2026 года — если к тому времени Depository Trust Company подготовит инфраструктуру. \n\nhttps://www.reuters.com/business/finance/nasdaq-makes-push-launch-trading-tokenized-securities-2025-09-08/",
+      "telegram_link": "https://t.me/blognot/6331"
+    },
     {
       "title": "OpenAI финансирует создание полнометражного анимационного фильма \"Critterz\" с бюджетом менее $30 млн — для сравнения, ср",
       "link": "https://www.wsj.com/tech/ai/openai-backs-ai-made-animated-feature-film-389f70b0?st=GYZ8b6&reflink=desktopwebshare_permalink",
