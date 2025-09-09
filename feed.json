@@ -3,8 +3,17 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-09-09T22:12:24.830615+00:00",
+  "lastBuildDate": "2025-09-09T22:30:10.868804+00:00",
   "items": [
+    {
+      "title": "Я решил не ждать, все равно рано спать не ложусь, и уже сразу записал и выложил отдельным выпуском подкаста свои мысли п",
+      "link": "https://youtu.be/RY19-LrOePw",
+      "guid": "https://youtu.be/RY19-LrOePw",
+      "pubDate": "Tue, 09 Sep 2025 22:28:13 +0000",
+      "timestamp": "2025-09-09T22:28:13+00:00",
+      "description": "Я решил не ждать, все равно рано спать не ложусь, и уже сразу записал и выложил отдельным выпуском подкаста свои мысли по презентации Apple. Как обычно, и на YouTube, и в подкаст-плеерах.\n\nhttps://youtu.be/RY19-LrOePw\nhttps://blognot.substack.com/p/171-apple",
+      "telegram_link": "https://t.me/blognot/6336"
+    },
     {
       "title": "🍏 На злобу дня.",
       "link": "https://t.me/aiukraine_wetrust/2098",
