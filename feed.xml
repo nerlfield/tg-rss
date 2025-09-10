@@ -4,8 +4,15 @@
 <title>Telegram Tech Channels Feed</title>
 <link>https://t.me</link>
 <description>Aggregated posts from Telegram channels for the last 7 days</description>
-<lastBuildDate>Wed, 10 Sep 2025 22:13:06 +0000</lastBuildDate>
+<lastBuildDate>Wed, 10 Sep 2025 22:30:47 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>OpenAI добавила полную поддержку MCP в ChatGPT. Правда, в десктопном приложении вы этого, разумеется, не найдете, впроче</title>
+<link>https://platform.openai.com/docs/guides/developer-mode</link>
+<guid isPermaLink="true">https://platform.openai.com/docs/guides/developer-mode</guid>
+<pubDate>Wed, 10 Sep 2025 22:18:31 +0000</pubDate>
+<description><![CDATA[OpenAI добавила полную поддержку MCP в ChatGPT. Правда, в десктопном приложении вы этого, разумеется, не найдете, впрочем, там много чего нет. А в настройках вебчата надо в пункте «Connectors» найти Advanced Settings, включить там Developer Mode и тогда появится возможность добавить «unverified connectors that could modify or erase data permanently. Use at your own risk». И тогда появится возможность нажать «Create» в списке коннекторов и указать там все параметры обычных MCP серверов.<br/><br/>В общем, enjoy. <br/><br/>https://platform.openai.com/docs/guides/developer-mode<br/><br/>Source: <a href="https://t.me/denissexy/10748">Telegram</a>]]></description>
+</item>
 <item>
 <title>Bending Spoons покупает Vimeo за $1.38 млрд наличными — премия в 91% к средневзвешенной цене акций за последние 60 дней.</title>
 <link>https://www.bloomberg.com/news/articles/2025-09-10/bending-spoons-to-buy-vimeo-in-1-38-billion-all-cash-deal</link>
