@@ -3,8 +3,17 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-09-10T20:15:38.212918+00:00",
+  "lastBuildDate": "2025-09-10T20:38:02.295115+00:00",
   "items": [
+    {
+      "title": "OpenAI добавила полную поддержку MCP в ChatGPT. Правда, в десктопном приложении вы этого, разумеется, не найдете, впроче",
+      "link": "https://platform.openai.com/docs/guides/developer-mode",
+      "guid": "https://platform.openai.com/docs/guides/developer-mode",
+      "pubDate": "Wed, 10 Sep 2025 20:25:49 +0000",
+      "timestamp": "2025-09-10T20:25:49+00:00",
+      "description": "OpenAI добавила полную поддержку MCP в ChatGPT. Правда, в десктопном приложении вы этого, разумеется, не найдете, впрочем, там много чего нет. А в настройках вебчата надо в пункте «Connectors» найти Advanced Settings, включить там Developer Mode и тогда появится возможность добавить «unverified connectors that could modify or erase data permanently. Use at your own risk». И тогда появится возможность нажать «Create» в списке коннекторов и указать там все параметры обычных MCP серверов.\n\nВ общем, enjoy. \n\nhttps://platform.openai.com/docs/guides/developer-mode",
+      "telegram_link": "https://t.me/blognot/6339"
+    },
     {
       "title": "🤓 Оживив наш з вами концепт форми для Третього Рейху, якби її Hugo Boss шили у 2025 році.",
       "link": "https://t.me/aiukraine_wetrust/2103",
