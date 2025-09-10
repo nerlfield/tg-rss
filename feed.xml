@@ -4,8 +4,15 @@
 <title>Telegram Tech Channels Feed</title>
 <link>https://t.me</link>
 <description>Aggregated posts from Telegram channels for the last 7 days</description>
-<lastBuildDate>Wed, 10 Sep 2025 20:49:13 +0000</lastBuildDate>
+<lastBuildDate>Wed, 10 Sep 2025 21:12:47 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Bending Spoons покупает Vimeo за $1.38 млрд наличными — премия в 91% к средневзвешенной цене акций за последние 60 дней.</title>
+<link>https://www.bloomberg.com/news/articles/2025-09-10/bending-spoons-to-buy-vimeo-in-1-38-billion-all-cash-deal</link>
+<guid isPermaLink="true">https://www.bloomberg.com/news/articles/2025-09-10/bending-spoons-to-buy-vimeo-in-1-38-billion-all-cash-deal</guid>
+<pubDate>Wed, 10 Sep 2025 20:56:28 +0000</pubDate>
+<description><![CDATA[Bending Spoons покупает Vimeo за $1.38 млрд наличными — премия в 91% к средневзвешенной цене акций за последние 60 дней. При рыночной капитализации в $797 млн до объявления сделки, это скорее спасательная операция для платформы, потерявшей 90% стоимости за последние четыре года.<br/><br/>Миланская Bending Spoons специализируется на покупке и реанимации цифровых активов, которые потеряли путь. В частности, именно они купили в свое время Evernote, когда тот казался безнадежно устаревшим на фоне Notion. В их портфеле также StreamYard, Meetup и другие интересные продукты. <br/><br/>При этом оценка самой Bending Spoons составляет $2.6 млрд после последнего раунда, то есть они тратят больше половины своей стоимости на Vimeo.<br/><br/>Сделка полностью за наличные — да, я знаю, как криво переводится выражение cash, но, как уже комментировал, адекватного перевода особо и нет. Что будет делать новый владелец, примерно понятно — оптимизировать расходы и выстраивать монетизацию. Насколько я вижу, особой синергии между разными активами в портфеле компании не наблюдается, впрочем, что компания вкладывает внутри продуктов, снаружи можно и не заметить. Vimeo терять особо нечего — попытки конкурировать с YouTube и TikTok у них явно не удались, так что у нового владельца руки развязаны.<br/><br/>https://www.bloomberg.com/news/articles/2025-09-10/bending-spoons-to-buy-vimeo-in-1-38-billion-all-cash-deal<br/><br/>Source: <a href="https://t.me/blognot/6340">Telegram</a>]]></description>
+</item>
 <item>
 <title>OpenAI добавила полную поддержку MCP в ChatGPT. Правда, в десктопном приложении вы этого, разумеется, не найдете, впроче</title>
 <link>https://platform.openai.com/docs/guides/developer-mode</link>
