@@ -3,8 +3,17 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-09-11T14:49:19.535478+00:00",
+  "lastBuildDate": "2025-09-11T15:14:06.907328+00:00",
   "items": [
+    {
+      "title": "Python прийшов у телеграм!",
+      "link": "https://t.me/oooneuro/5871",
+      "guid": "https://t.me/oooneuro/5871",
+      "pubDate": "Thu, 11 Sep 2025 15:07:33 +0000",
+      "timestamp": "2025-09-11T15:07:33+00:00",
+      "description": "Python прийшов у телеграм!\n\nPython - друга за популярністю мова у світі. Вона дуже універсальна: можна писати сайти, а можна штучний інтелект. Тепер у Python є україномовний канал. Це першоджерело всього, що з&#x27;являється в платних курсах та інших ресурсах. Варто підписатися!",
+      "telegram_link": "https://t.me/oooneuro/5871"
+    },
     {
       "title": "Post 2105 on @aiukraine_wetrust",
       "link": "https://t.me/aiukraine_wetrust/2105",
