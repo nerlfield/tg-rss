@@ -4,8 +4,15 @@
 <title>Telegram Tech Channels Feed</title>
 <link>https://t.me</link>
 <description>Aggregated posts from Telegram channels for the last 7 days</description>
-<lastBuildDate>Thu, 11 Sep 2025 06:21:55 +0000</lastBuildDate>
+<lastBuildDate>Thu, 11 Sep 2025 06:47:27 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Любопытный МЛ-проект:</title>
+<link>https://blur-fields.github.io/</link>
+<guid isPermaLink="true">https://blur-fields.github.io/</guid>
+<pubDate>Thu, 11 Sep 2025 06:33:06 +0000</pubDate>
+<description><![CDATA[Любопытный МЛ-проект:<br/>Ресечеры нашли способ как по «размытию» фона на фото, определять телефон с которого оно было сделано - по их находке, у каждого телефона немного свой «паттерн размытия» фона на фотографиях <br/><br/>Пока что, такую МЛ-модель для определения телефона нужно тренировать под каждое устройство – но в теории, уже возможно взяв два фото понять было ли оно сделано одним устройством <br/><br/>Тут больше деталей:<br/>https://blur-fields.github.io/<br/><br/>Код обещают скоро<br/><br/>Source: <a href="https://t.me/denissexy/10749">Telegram</a>]]></description>
+</item>
 <item>
 <title>OpenAI добавила полную поддержку MCP в ChatGPT. Правда, в десктопном приложении вы этого, разумеется, не найдете, впроче</title>
 <link>https://platform.openai.com/docs/guides/developer-mode</link>
