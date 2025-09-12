@@ -3,8 +3,17 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-09-12T13:49:09.808541+00:00",
+  "lastBuildDate": "2025-09-12T14:13:45.464360+00:00",
   "items": [
+    {
+      "title": "Apple, скорее всего, отложит запуск iPhone Air в Китае — устройство толщиной 5.6мм требует eSIM, а китайские регуляторы",
+      "link": "https://www.scmp.com/tech/big-tech/article/3325322/apple-postpones-iphone-air-release-china-beijing-keeps-tight-grip-esim-approval",
+      "guid": "https://www.scmp.com/tech/big-tech/article/3325322/apple-postpones-iphone-air-release-china-beijing-keeps-tight-grip-esim-approval",
+      "pubDate": "Fri, 12 Sep 2025 13:58:17 +0000",
+      "timestamp": "2025-09-12T13:58:17+00:00",
+      "description": "Apple, скорее всего, отложит запуск iPhone Air в Китае — устройство толщиной 5.6мм требует eSIM, а китайские регуляторы пока не готовы дать одобрение. При этом обычные iPhone 17, Pro и Pro Max выйдут по графику 19 сентября.\n\nПекин традиционно настороженно относится к технологии, которая позволяет менять оператора без физического посещения салона связи.  China Mobile в среду даже написал в Weibo, что &quot;включил поддержку eSIM для мобильных телефонов&quot;, но тут же добавил — дата запуска будет объявлена отдельно.\n\nПо данным Apple, все три государственных оператора — China Unicom, China Mobile и China Telecom — готовы предоставить поддержку eSIM. Но &quot;конкретные сроки зависят от регуляторного одобрения&quot;. Поскольку слот для физической карты в Air разместить негде, покупателям придется подождать.\n\nhttps://www.scmp.com/tech/big-tech/article/3325322/apple-postpones-iphone-air-release-china-beijing-keeps-tight-grip-esim-approval",
+      "telegram_link": "https://t.me/blognot/6344"
+    },
     {
       "title": "OpenAI и Microsoft подписали необязывающий меморандум о взаимопонимании для пересмотра партнерства. Документ должен расч",
       "link": "https://www.axios.com/2025/09/11/open-ai-microsoft-agreement-deal",
