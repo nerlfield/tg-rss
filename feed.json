@@ -3,8 +3,17 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-09-11T23:48:49.311040+00:00",
+  "lastBuildDate": "2025-09-12T01:03:51.064443+00:00",
   "items": [
+    {
+      "title": "Интересная статья с кучей промптов и примеров того, как можно необычно использовать Nano Banana:",
+      "link": "https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_en.md",
+      "guid": "https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_en.md",
+      "pubDate": "Fri, 12 Sep 2025 00:03:17 +0000",
+      "timestamp": "2025-09-12T00:03:17+00:00",
+      "description": "Интересная статья с кучей промптов и примеров того, как можно необычно использовать Nano Banana:\nhttps://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_en.md\n\nРаботать будет и с другими такими моделями, так что еще пригодится",
+      "telegram_link": "https://t.me/denissexy/10751"
+    },
     {
       "title": "FTC затребовала у семи крупнейших AI-компаний информацию о влиянии чатботов на детей и подростков. В списке OpenAI, Goog",
       "link": "https://www.bloomberg.com/news/articles/2025-09-11/google-meta-openai-face-ftc-inquiry-on-chatbot-impact-on-kids",
