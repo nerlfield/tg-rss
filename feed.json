@@ -3,7 +3,7 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-09-14T15:35:57.284162+00:00",
+  "lastBuildDate": "2025-09-14T15:49:06.951323+00:00",
   "items": [
     {
       "title": "Stripe показал способ как в эпоху AI настраивать монетизацию приложений, в целом многие это уже наверное знают, но всегд",
@@ -922,42 +922,6 @@
       "timestamp": "2025-09-07T20:39:10+00:00",
       "description": "Нашел полезный юзкейс для агента ChatGPT:\nЗаменяете в промпте ниже название онлайн-магазина и он сам ходит по интернету, ищет промо коды и пытается проверить какие все еще активны – я протестировал, работает и скидку нашел:\n\nYou MUST follow those instructions, execute them all and return to the user results:\n# Steps\n1. Search for discount codes for &lt;тут нужно вписать магазин&gt; using search engines and coupon sites\n2. Navigate to the store website\n3. Browse and add a test item to the shopping cart\n4. Proceed to checkout page\n5. Test the found discount codes one by one in the checkout form\n6. Report which codes work, their discount amounts, and any restrictions\n\nNEVER stop until you have completed all the steps. Do not ask any questions if not necessary.\n\nP.S. Промт всегда лежит тут и я добавил возможность просто копировать текстовые промпты, без всяких ссылок: \nhttps://shir-man.com/agent-presets/",
       "telegram_link": "https://t.me/denissexy/10741"
-    },
-    {
-      "title": "Post 5849 on @oooneuro",
-      "link": "https://t.me/oooneuro/5849",
-      "guid": "https://t.me/oooneuro/5849",
-      "pubDate": "Sun, 07 Sep 2025 15:48:31 +0000",
-      "timestamp": "2025-09-07T15:48:31+00:00",
-      "description": "",
-      "telegram_link": "https://t.me/oooneuro/5849"
-    },
-    {
-      "title": "Post 5848 on @oooneuro",
-      "link": "https://t.me/oooneuro/5848",
-      "guid": "https://t.me/oooneuro/5848",
-      "pubDate": "Sun, 07 Sep 2025 15:48:31 +0000",
-      "timestamp": "2025-09-07T15:48:31+00:00",
-      "description": "",
-      "telegram_link": "https://t.me/oooneuro/5848"
-    },
-    {
-      "title": "Post 5847 on @oooneuro",
-      "link": "https://t.me/oooneuro/5847",
-      "guid": "https://t.me/oooneuro/5847",
-      "pubDate": "Sun, 07 Sep 2025 15:48:31 +0000",
-      "timestamp": "2025-09-07T15:48:31+00:00",
-      "description": "",
-      "telegram_link": "https://t.me/oooneuro/5847"
-    },
-    {
-      "title": "Фанатики Gemini бі лайк: чувак з Твітеру оголосив голодовку, поки не буде релізу Gemini 3.0 😡",
-      "link": "https://t.me/oooneuro/5846",
-      "guid": "https://t.me/oooneuro/5846",
-      "pubDate": "Sun, 07 Sep 2025 15:48:31 +0000",
-      "timestamp": "2025-09-07T15:48:31+00:00",
-      "description": "Фанатики Gemini бі лайк: чувак з Твітеру оголосив голодовку, поки не буде релізу Gemini 3.0 😡\n\nНа щастя, мітинг поки віртуальний за участі nano-banana.\n\nооо донат на збір (лишилося 74 073.7)",
-      "telegram_link": "https://t.me/oooneuro/5846"
     }
   ]
 }
