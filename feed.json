@@ -3,8 +3,17 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-09-15T11:49:14.681424+00:00",
+  "lastBuildDate": "2025-09-15T12:29:37.385857+00:00",
   "items": [
+    {
+      "title": "Ви теж помітили, що 90% AI-проєктів закінчуються красивим демо, яке ніколи не доходить до продакшену?",
+      "link": "https://cutt.ly/krVot8eL",
+      "guid": "https://cutt.ly/krVot8eL",
+      "pubDate": "Mon, 15 Sep 2025 12:00:13 +0000",
+      "timestamp": "2025-09-15T12:00:13+00:00",
+      "description": "Ви теж помітили, що 90% AI-проєктів закінчуються красивим демо, яке ніколи не доходить до продакшену?\n\nПричини знайомі кожному деву: немає нормальної пам’яті, логіки планування й адекватного контролю бюджету\n\n16 вересня о 19:00 на AI Meetup розберемося, як будувати агентів, які реально працюють: від інструмент-calling і безпеки — до кейсів інженера з Netflix.\n\nПрограма мітапу:\n⏺Generative vs Agentic AI та знайомство з Neoversity\n\n⏺Як перетворити LLM на агента\n\n⏺AI‑коуч для ультрамарафону: кейс від Netflix‑інженера\n\n⏺Q&amp;A-сесія зі спікерами\n\nРеєструйтеся на мітап, щоб отримати реальні кейси від фахівців з Netflix та SoftServe:\nhttps://cutt.ly/krVot8eL",
+      "telegram_link": "https://t.me/aiukraine_wetrust/2124"
+    },
     {
       "title": "❗️RAG не витягує складні кейси? AI-агенти швидко спалюють бюджет? А проєкт так і лишається на рівні MVP?",
       "link": "https://cutt.ly/4rVotGpf",
