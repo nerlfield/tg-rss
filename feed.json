@@ -3,8 +3,17 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-09-15T21:27:10.233757+00:00",
+  "lastBuildDate": "2025-09-15T21:36:31.710235+00:00",
   "items": [
+    {
+      "title": "Хороша новина: роботів все ще можна побити.",
+      "link": "https://t.me/oooneuro/5893",
+      "guid": "https://t.me/oooneuro/5893",
+      "pubDate": "Mon, 15 Sep 2025 21:30:29 +0000",
+      "timestamp": "2025-09-15T21:30:29+00:00",
+      "description": "Хороша новина: роботів все ще можна побити.\n\nПогана: вони швидко встають 💀\n\nооо донат на збір (лишилося 69 390)",
+      "telegram_link": "https://t.me/oooneuro/5893"
+    },
     {
       "title": "Nvidia подписала с провайдером облачных мощностей CoreWeave соглашение, по которому обязывается покупать все мощности в",
       "link": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1769628/000176962825000047/crwv-20250909.htm&_bhlid=f447f3ee11d98a2fb14d8af57759868ee347a668",
