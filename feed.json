@@ -3,8 +3,17 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-09-15T16:17:58.651264+00:00",
+  "lastBuildDate": "2025-09-15T16:44:07.781139+00:00",
   "items": [
+    {
+      "title": "🌎 Корисні фічі від Microsoft.",
+      "link": "https://t.me/aiukraine_wetrust/2125",
+      "guid": "https://t.me/aiukraine_wetrust/2125",
+      "pubDate": "Mon, 15 Sep 2025 16:38:19 +0000",
+      "timestamp": "2025-09-15T16:38:19+00:00",
+      "description": "🌎 Корисні фічі від Microsoft. \n\nМожливо ви не чекали, але Майкрософт вирішили зробити це -- додати вбудований SpeedTest ваших інтернетів 🫡\n\nвсе по класиці: тицяєте -&gt; отримуєте швидкість download / upload (міряти будуть через Bing) \n\n#news\n\n🌀AI UKRAINE",
+      "telegram_link": "https://t.me/aiukraine_wetrust/2125"
+    },
     {
       "title": "Звичайно, ось інформативний допис у вказаному тобою стилі з ноткою гумору: чуваки з OpenAI опублікували цікавий звіт про",
       "link": "https://t.me/oooneuro/5891",
