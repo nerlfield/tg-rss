@@ -3,8 +3,17 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-09-15T20:49:18.508656+00:00",
+  "lastBuildDate": "2025-09-15T21:12:35.765412+00:00",
   "items": [
+    {
+      "title": "Еще одна новость от OpenAI: представлена GPT-5-Codex — версия GPT-5, оптимизированная для \"агентного программирования\".",
+      "link": "https://openai.com/index/introducing-upgrades-to-codex/",
+      "guid": "https://openai.com/index/introducing-upgrades-to-codex/",
+      "pubDate": "Mon, 15 Sep 2025 20:55:33 +0000",
+      "timestamp": "2025-09-15T20:55:33+00:00",
+      "description": "Еще одна новость от OpenAI: представлена GPT-5-Codex — версия GPT-5, оптимизированная для &quot;агентного программирования&quot;. \n\nКак понятно из названия, она предназначена для работы в Codex — причем, как в веб-версии, так и cli. OpenAI подчеркивает, что модель адаптирует объем размышлений под задачу и может потратить несколько часов на сложный рефакторинг. При этом она заточена под code review. \n\nСудя по результатам тестов, модель солидно выигрывает у дефолтной GPT-5, которая до этого использовалась в codex cli. \n\nКак на грех, у меня как раз закончились кодерские задачи, даже не на чем попробовать пока. \n\nhttps://openai.com/index/introducing-upgrades-to-codex/",
+      "telegram_link": "https://t.me/blognot/6350"
+    },
     {
       "title": "OpenAI опубликовали исследование на основе анализа 1.5 млн чатов с ChatGPT.",
       "link": "https://openai.com/index/how-people-are-using-chatgpt/",

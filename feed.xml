@@ -4,8 +4,15 @@
 <title>Telegram Tech Channels Feed</title>
 <link>https://t.me</link>
 <description>Aggregated posts from Telegram channels for the last 7 days</description>
-<lastBuildDate>Mon, 15 Sep 2025 20:49:18 +0000</lastBuildDate>
+<lastBuildDate>Mon, 15 Sep 2025 21:12:35 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Еще одна новость от OpenAI: представлена GPT-5-Codex — версия GPT-5, оптимизированная для &quot;агентного программирования&quot;.</title>
+<link>https://openai.com/index/introducing-upgrades-to-codex/</link>
+<guid isPermaLink="true">https://openai.com/index/introducing-upgrades-to-codex/</guid>
+<pubDate>Mon, 15 Sep 2025 20:55:33 +0000</pubDate>
+<description><![CDATA[Еще одна новость от OpenAI: представлена GPT-5-Codex — версия GPT-5, оптимизированная для &quot;агентного программирования&quot;. <br/><br/>Как понятно из названия, она предназначена для работы в Codex — причем, как в веб-версии, так и cli. OpenAI подчеркивает, что модель адаптирует объем размышлений под задачу и может потратить несколько часов на сложный рефакторинг. При этом она заточена под code review. <br/><br/>Судя по результатам тестов, модель солидно выигрывает у дефолтной GPT-5, которая до этого использовалась в codex cli. <br/><br/>Как на грех, у меня как раз закончились кодерские задачи, даже не на чем попробовать пока. <br/><br/>https://openai.com/index/introducing-upgrades-to-codex/<br/><br/>Source: <a href="https://t.me/blognot/6350">Telegram</a>]]></description>
+</item>
 <item>
 <title>OpenAI опубликовали исследование на основе анализа 1.5 млн чатов с ChatGPT.</title>
 <link>https://openai.com/index/how-people-are-using-chatgpt/</link>
