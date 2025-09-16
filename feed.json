@@ -3,8 +3,17 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-09-16T21:12:46.316318+00:00",
+  "lastBuildDate": "2025-09-16T21:27:12.741018+00:00",
   "items": [
+    {
+      "title": "Эта же модель с одного промпта, wtf вообще, пошел записываться в бету",
+      "link": "https://t.me/denissexy/10757",
+      "guid": "https://t.me/denissexy/10757",
+      "pubDate": "Tue, 16 Sep 2025 21:21:44 +0000",
+      "timestamp": "2025-09-16T21:21:44+00:00",
+      "description": "Эта же модель с одного промпта, wtf вообще, пошел записываться в бету\n\nСсылка на мир",
+      "telegram_link": "https://t.me/denissexy/10757"
+    },
     {
       "title": "🌎 WorldLabs.",
       "link": "https://t.me/aiukraine_wetrust/2132",
