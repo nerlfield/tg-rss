@@ -3,8 +3,17 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-09-16T19:24:01.267871+00:00",
+  "lastBuildDate": "2025-09-16T19:35:42.761646+00:00",
   "items": [
+    {
+      "title": "На мероприятии Made on YouTube в Нью-Йорке YouTube представил AI-инструменты для подкастеров. Видеоподкасты можно будет",
+      "link": "https://techcrunch.com/2025/09/16/youtube-to-use-ai-to-help-podcasters-promote-themselves-with-clips-and-shorts/?_bhlid=7401538ac451210cdc412e8fefe2f7fd2dc5e8a2",
+      "guid": "https://techcrunch.com/2025/09/16/youtube-to-use-ai-to-help-podcasters-promote-themselves-with-clips-and-shorts/?_bhlid=7401538ac451210cdc412e8fefe2f7fd2dc5e8a2",
+      "pubDate": "Tue, 16 Sep 2025 19:28:57 +0000",
+      "timestamp": "2025-09-16T19:28:57+00:00",
+      "description": "На мероприятии Made on YouTube в Нью-Йорке YouTube представил AI-инструменты для подкастеров. Видеоподкасты можно будет автоматически нарезать на клипы и Shorts с помощью AI, а аудиоподкастеры получат возможность генерировать видеоряд для своего контента. Запуск — в ближайшие месяцы и начале 2026 года соответственно. Функция генерации видео из аудио сначала будет доступна только &quot;избранным подкастерам&quot;, всем её планируется предоставить к концу 2026 года.\n\nAI будет предлагать, какие моменты вырезать для клипов и как превратить их в вертикальные Shorts. Собственно, тут YouTube даже ничего не придумал — такие сервисы уже существуют, определяя вирусность того или иного фрагмента видео, что особенно хорошо работает с длинными стримами. Учитывая, что сервис, в отличие от сторонних, точно знает, какие фрагменты лучше цепляют аудиторию, будет любопытно сравнить итоговый результат. \n\nhttps://techcrunch.com/2025/09/16/youtube-to-use-ai-to-help-podcasters-promote-themselves-with-clips-and-shorts/?_bhlid=7401538ac451210cdc412e8fefe2f7fd2dc5e8a2",
+      "telegram_link": "https://t.me/blognot/6354"
+    },
     {
       "title": "Стартап по генерации миров из картинки выкатил бета превью своей модели - самому закачать картинки пока не дают, зато да",
       "link": "https://marble.worldlabs.ai/",
