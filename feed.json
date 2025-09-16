@@ -3,7 +3,7 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-09-16T19:35:42.761646+00:00",
+  "lastBuildDate": "2025-09-16T19:49:11.794642+00:00",
   "items": [
     {
       "title": "На мероприятии Made on YouTube в Нью-Йорке YouTube представил AI-инструменты для подкастеров. Видеоподкасты можно будет",
@@ -868,15 +868,6 @@
       "timestamp": "2025-09-09T22:28:13+00:00",
       "description": "Я решил не ждать, все равно рано спать не ложусь, и уже сразу записал и выложил отдельным выпуском подкаста свои мысли по презентации Apple. Как обычно, и на YouTube, и в подкаст-плеерах.\n\nhttps://youtu.be/RY19-LrOePw\nhttps://blognot.substack.com/p/171-apple",
       "telegram_link": "https://t.me/blognot/6336"
-    },
-    {
-      "title": "🍏 На злобу дня.",
-      "link": "https://t.me/aiukraine_wetrust/2098",
-      "guid": "https://t.me/aiukraine_wetrust/2098",
-      "pubDate": "Tue, 09 Sep 2025 19:36:30 +0000",
-      "timestamp": "2025-09-09T19:36:30+00:00",
-      "description": "🍏 На злобу дня. \n\nDesigned by Max Solo &amp; Nano Banana. \n\n🌀AI UKRAINE",
-      "telegram_link": "https://t.me/aiukraine_wetrust/2098"
     }
   ]
 }
