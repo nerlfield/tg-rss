@@ -3,8 +3,26 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-09-17T22:12:40.040339+00:00",
+  "lastBuildDate": "2025-09-17T22:27:37.527286+00:00",
   "items": [
+    {
+      "title": "Post 10760 on @denissexy",
+      "link": "https://t.me/denissexy/10760",
+      "guid": "https://t.me/denissexy/10760",
+      "pubDate": "Wed, 17 Sep 2025 22:12:40 +0000",
+      "timestamp": "2025-09-17T22:12:40+00:00",
+      "description": "",
+      "telegram_link": "https://t.me/denissexy/10760"
+    },
+    {
+      "title": "Помните Stargate проект от OpenAI, который в августе расширили на Норвегию?",
+      "link": "https://t.me/denissexy/10759",
+      "guid": "https://t.me/denissexy/10759",
+      "pubDate": "Wed, 17 Sep 2025 22:12:40 +0000",
+      "timestamp": "2025-09-17T22:12:40+00:00",
+      "description": "Помните Stargate проект от OpenAI, который в августе расширили на Норвегию? \n\nВ общем уже строят, спасибо подписчику кто побывал в Нарвике",
+      "telegram_link": "https://t.me/denissexy/10759"
+    },
     {
       "title": "Китайский киберрегулятор запретил ByteDance, Alibaba и другим крупным компаниям покупать чипы Nvidia RTX Pro 6000D — пос",
       "link": "https://www.ft.com/content/12adf92d-3e34-428a-8d61-c9169511915c?accessToken=zwAAAZlXEnuvkc8SrfktPjRCitONYckWlRGRXA.MEUCIQD4VE28Q_EKWNxHmwj1MutvFnRVZCclIj5q5TLL6KNalgIgWdpAovveHnIj-o5Wq99ZWps9CYAp_z2lnW7neAcfH_Y&segmentId=e95a9ae7-622c-6235-5f87-51e412b47e97&shareType=enterprise&shareId=58691ef3-7607-4cb2-9e1c-10d59418cea8",
@@ -796,15 +814,6 @@
       "timestamp": "2025-09-11T06:33:06+00:00",
       "description": "Любопытный МЛ-проект:\nРесечеры нашли способ как по «размытию» фона на фото, определять телефон с которого оно было сделано - по их находке, у каждого телефона немного свой «паттерн размытия» фона на фотографиях \n\nПока что, такую МЛ-модель для определения телефона нужно тренировать под каждое устройство – но в теории, уже возможно взяв два фото понять было ли оно сделано одним устройством \n\nТут больше деталей:\nhttps://blur-fields.github.io/\n\nКод обещают скоро",
       "telegram_link": "https://t.me/denissexy/10749"
-    },
-    {
-      "title": "OpenAI добавила полную поддержку MCP в ChatGPT. Правда, в десктопном приложении вы этого, разумеется, не найдете, впроче",
-      "link": "https://platform.openai.com/docs/guides/developer-mode",
-      "guid": "https://platform.openai.com/docs/guides/developer-mode",
-      "pubDate": "Wed, 10 Sep 2025 22:18:31 +0000",
-      "timestamp": "2025-09-10T22:18:31+00:00",
-      "description": "OpenAI добавила полную поддержку MCP в ChatGPT. Правда, в десктопном приложении вы этого, разумеется, не найдете, впрочем, там много чего нет. А в настройках вебчата надо в пункте «Connectors» найти Advanced Settings, включить там Developer Mode и тогда появится возможность добавить «unverified connectors that could modify or erase data permanently. Use at your own risk». И тогда появится возможность нажать «Create» в списке коннекторов и указать там все параметры обычных MCP серверов.\n\nВ общем, enjoy. \n\nhttps://platform.openai.com/docs/guides/developer-mode",
-      "telegram_link": "https://t.me/denissexy/10748"
     }
   ]
 }
