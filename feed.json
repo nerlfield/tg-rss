@@ -3,8 +3,17 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-09-17T15:49:14.093763+00:00",
+  "lastBuildDate": "2025-09-17T16:18:37.106430+00:00",
   "items": [
+    {
+      "title": "🔄Вайбкодери зрозуміють:",
+      "link": "https://t.me/aiukraine_wetrust/2136",
+      "guid": "https://t.me/aiukraine_wetrust/2136",
+      "pubDate": "Wed, 17 Sep 2025 16:13:04 +0000",
+      "timestamp": "2025-09-17T16:13:04+00:00",
+      "description": "🔄Вайбкодери зрозуміють:\n\n- Cursor набагато кращий за Claude Code\n- Claude Code кращий. А ти взагалі щось релізив?\n- Ні, а ти?\n- Ні\n\nbtw, Claude Code дійсно кращий \n\n#fun \n\n🌀AI UKRAINE",
+      "telegram_link": "https://t.me/aiukraine_wetrust/2136"
+    },
     {
       "title": "Приходиш такий до лікаря, а він сидить у ChatGPT. Твої дії? 🤨",
       "link": "https://t.me/oooneuro/5899",
