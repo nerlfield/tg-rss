@@ -4,7 +4,7 @@
 <title>Telegram Tech Channels Feed</title>
 <link>https://t.me</link>
 <description>Aggregated posts from Telegram channels for the last 7 days</description>
-<lastBuildDate>Wed, 17 Sep 2025 19:23:54 +0000</lastBuildDate>
+<lastBuildDate>Wed, 17 Sep 2025 19:35:58 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Китайский киберрегулятор запретил ByteDance, Alibaba и другим крупным компаниям покупать чипы Nvidia RTX Pro 6000D — пос</title>
@@ -642,13 +642,6 @@
 <guid isPermaLink="true">https://platform.openai.com/docs/guides/developer-mode</guid>
 <pubDate>Wed, 10 Sep 2025 20:25:49 +0000</pubDate>
 <description><![CDATA[OpenAI добавила полную поддержку MCP в ChatGPT. Правда, в десктопном приложении вы этого, разумеется, не найдете, впрочем, там много чего нет. А в настройках вебчата надо в пункте «Connectors» найти Advanced Settings, включить там Developer Mode и тогда появится возможность добавить «unverified connectors that could modify or erase data permanently. Use at your own risk». И тогда появится возможность нажать «Create» в списке коннекторов и указать там все параметры обычных MCP серверов.<br/><br/>В общем, enjoy. <br/><br/>https://platform.openai.com/docs/guides/developer-mode<br/><br/>Source: <a href="https://t.me/blognot/6339">Telegram</a>]]></description>
-</item>
-<item>
-<title>🤓 Оживив наш з вами концепт форми для Третього Рейху, якби її Hugo Boss шили у 2025 році.</title>
-<link>https://t.me/aiukraine_wetrust/2103</link>
-<guid isPermaLink="true">https://t.me/aiukraine_wetrust/2103</guid>
-<pubDate>Wed, 10 Sep 2025 19:33:15 +0000</pubDate>
-<description><![CDATA[🤓 Оживив наш з вами концепт форми для Третього Рейху, якби її Hugo Boss шили у 2025 році.<br/><br/>Привітний чоловік вітається з усіма підписниками AI Ukraine 👏<br/><br/>btw, там Hailuo розщедрились та оголосили безкоштовну та безлімітну генерацію для кожного з вас, тому го генерувати відоси 🥂<br/><br/>халява діє до 17 вересня, 8:00<br/><br/>соррі що пост не про Поляків 🤔 <br/><br/>#video #fun <br/><br/>🌀AI UKRAINE<br/><br/>Source: <a href="https://t.me/aiukraine_wetrust/2103">Telegram</a>]]></description>
 </item>
 </channel>
 </rss>
