@@ -3,8 +3,17 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-09-18T13:04:26.334323+00:00",
+  "lastBuildDate": "2025-09-18T13:36:15.920427+00:00",
   "items": [
+    {
+      "title": "🤖 From OpenAI with love.",
+      "link": "https://chatgpt.com/use-cases/students",
+      "guid": "https://chatgpt.com/use-cases/students",
+      "pubDate": "Thu, 18 Sep 2025 13:31:14 +0000",
+      "timestamp": "2025-09-18T13:31:14+00:00",
+      "description": "🤖 From OpenAI with love. \n\nСтуденти, тут для вас викотили 100 промтів на всі випадки життя навчання та кар&#x27;єри 🖥\n\nДавно не було таких каталогів / добірок, тому зберігайте, бо хз коли ще буде 🫡\n\n👆 https://chatgpt.com/use-cases/students\n\n#education \n\n🌀AI UKRAINE",
+      "telegram_link": "https://t.me/aiukraine_wetrust/2138"
+    },
     {
       "title": "Студенти, це вам: OpenAI випустили добірку із 100 промтів для навчання, повсякденного життя та майбутньої кар'єри 😱",
       "link": "https://t.me/oooneuro/5902",
