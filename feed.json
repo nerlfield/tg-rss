@@ -3,8 +3,17 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-09-19T18:44:39.416437+00:00",
+  "lastBuildDate": "2025-09-19T18:53:45.101167+00:00",
   "items": [
+    {
+      "title": "😭 Марк Цукерберг показав реальний юзкейс нових ШІ-окулярів.",
+      "link": "https://t.me/aiukraine_wetrust/2146",
+      "guid": "https://t.me/aiukraine_wetrust/2146",
+      "pubDate": "Fri, 19 Sep 2025 18:50:19 +0000",
+      "timestamp": "2025-09-19T18:50:19+00:00",
+      "description": "😭 Марк Цукерберг показав реальний юзкейс нових ШІ-окулярів.\n\nВізьме трубку чи не візьме ? Не чує баба..\n\n#fun\n\n🌀AI UKRAINE",
+      "telegram_link": "https://t.me/aiukraine_wetrust/2146"
+    },
     {
       "title": "Полезная ссылка: 1000 (тысяча) схем архитектур агентов на LLM – одних только кодовых агентов ~120 штук:",
       "link": "https://altsoph.com/pp/aps/#",
