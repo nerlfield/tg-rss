@@ -3,8 +3,17 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-09-19T19:49:06.747233+00:00",
+  "lastBuildDate": "2025-09-19T20:15:14.627236+00:00",
   "items": [
+    {
+      "title": "https://how.rl.works/ 👀",
+      "link": "https://how.rl.works/",
+      "guid": "https://how.rl.works/",
+      "pubDate": "Fri, 19 Sep 2025 20:14:48 +0000",
+      "timestamp": "2025-09-19T20:14:48+00:00",
+      "description": "https://how.rl.works/ 👀",
+      "telegram_link": "https://t.me/nerlfield/154"
+    },
     {
       "title": "😭 Марк Цукерберг показав реальний юзкейс нових ШІ-окулярів.",
       "link": "https://t.me/aiukraine_wetrust/2146",
