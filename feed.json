@@ -3,7 +3,7 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-09-19T10:40:56.957058+00:00",
+  "lastBuildDate": "2025-09-19T10:49:47.918590+00:00",
   "items": [
     {
       "title": "Suno натякають, що нам варто готувати 10$ на підписку 😋",
@@ -787,96 +787,6 @@
       "timestamp": "2025-09-12T11:26:38+00:00",
       "description": "А пам&#x27;ятаєте маловідомий стартап Stabitilty AI? У них новий реліз — генератор музики Stable Audio 2.5 😇\n\nУсе ще без тексту, але є круті й дійсно важливі особливості:\n\n🪙 Модель розробити разом зі студією звукозапису amp, то ж усі сгенеровані треки ліцензовані й їх можна використовувати для комерції;\n\n🪙 А ще вони використовували новий метод Adversarial Relativistic-Contrastive (ARC), який зменшив кількість кроків генерації з 50 до 8, що сильно пришвидшило роботу.\n\nМожна користуватися на Replicate, FalAI чи на офіційному сайті. Опенсорс? Який опенсорс? 😔\n\nооо донат на збір (лишилося 70 772)",
       "telegram_link": "https://t.me/oooneuro/5876"
-    },
-    {
-      "title": "Post 2117 on @aiukraine_wetrust",
-      "link": "https://t.me/aiukraine_wetrust/2117",
-      "guid": "https://t.me/aiukraine_wetrust/2117",
-      "pubDate": "Fri, 12 Sep 2025 10:47:11 +0000",
-      "timestamp": "2025-09-12T10:47:11+00:00",
-      "description": "",
-      "telegram_link": "https://t.me/aiukraine_wetrust/2117"
-    },
-    {
-      "title": "Post 2116 on @aiukraine_wetrust",
-      "link": "https://t.me/aiukraine_wetrust/2116",
-      "guid": "https://t.me/aiukraine_wetrust/2116",
-      "pubDate": "Fri, 12 Sep 2025 10:47:11 +0000",
-      "timestamp": "2025-09-12T10:47:11+00:00",
-      "description": "",
-      "telegram_link": "https://t.me/aiukraine_wetrust/2116"
-    },
-    {
-      "title": "Post 2115 on @aiukraine_wetrust",
-      "link": "https://t.me/aiukraine_wetrust/2115",
-      "guid": "https://t.me/aiukraine_wetrust/2115",
-      "pubDate": "Fri, 12 Sep 2025 10:47:11 +0000",
-      "timestamp": "2025-09-12T10:47:11+00:00",
-      "description": "",
-      "telegram_link": "https://t.me/aiukraine_wetrust/2115"
-    },
-    {
-      "title": "Post 2114 on @aiukraine_wetrust",
-      "link": "https://t.me/aiukraine_wetrust/2114",
-      "guid": "https://t.me/aiukraine_wetrust/2114",
-      "pubDate": "Fri, 12 Sep 2025 10:47:11 +0000",
-      "timestamp": "2025-09-12T10:47:11+00:00",
-      "description": "",
-      "telegram_link": "https://t.me/aiukraine_wetrust/2114"
-    },
-    {
-      "title": "Post 2113 on @aiukraine_wetrust",
-      "link": "https://t.me/aiukraine_wetrust/2113",
-      "guid": "https://t.me/aiukraine_wetrust/2113",
-      "pubDate": "Fri, 12 Sep 2025 10:47:11 +0000",
-      "timestamp": "2025-09-12T10:47:11+00:00",
-      "description": "",
-      "telegram_link": "https://t.me/aiukraine_wetrust/2113"
-    },
-    {
-      "title": "Post 2112 on @aiukraine_wetrust",
-      "link": "https://t.me/aiukraine_wetrust/2112",
-      "guid": "https://t.me/aiukraine_wetrust/2112",
-      "pubDate": "Fri, 12 Sep 2025 10:47:11 +0000",
-      "timestamp": "2025-09-12T10:47:11+00:00",
-      "description": "",
-      "telegram_link": "https://t.me/aiukraine_wetrust/2112"
-    },
-    {
-      "title": "Post 2111 on @aiukraine_wetrust",
-      "link": "https://t.me/aiukraine_wetrust/2111",
-      "guid": "https://t.me/aiukraine_wetrust/2111",
-      "pubDate": "Fri, 12 Sep 2025 10:47:11 +0000",
-      "timestamp": "2025-09-12T10:47:11+00:00",
-      "description": "",
-      "telegram_link": "https://t.me/aiukraine_wetrust/2111"
-    },
-    {
-      "title": "Post 2110 on @aiukraine_wetrust",
-      "link": "https://t.me/aiukraine_wetrust/2110",
-      "guid": "https://t.me/aiukraine_wetrust/2110",
-      "pubDate": "Fri, 12 Sep 2025 10:47:11 +0000",
-      "timestamp": "2025-09-12T10:47:11+00:00",
-      "description": "",
-      "telegram_link": "https://t.me/aiukraine_wetrust/2110"
-    },
-    {
-      "title": "Post 2109 on @aiukraine_wetrust",
-      "link": "https://t.me/aiukraine_wetrust/2109",
-      "guid": "https://t.me/aiukraine_wetrust/2109",
-      "pubDate": "Fri, 12 Sep 2025 10:47:11 +0000",
-      "timestamp": "2025-09-12T10:47:11+00:00",
-      "description": "",
-      "telegram_link": "https://t.me/aiukraine_wetrust/2109"
-    },
-    {
-      "title": "Вирішив зайти та подивитись що там робиться в їх Discord (Community / showcase-insta) 💬",
-      "link": "https://t.me/aiukraine_wetrust/2108",
-      "guid": "https://t.me/aiukraine_wetrust/2108",
-      "pubDate": "Fri, 12 Sep 2025 10:47:11 +0000",
-      "timestamp": "2025-09-12T10:47:11+00:00",
-      "description": "Вирішив зайти та подивитись що там робиться в їх Discord (Community / showcase-insta) 💬\n\nскину декілька прикладів, щоб вам було страшніше знайомитись в інтернетах 🧃\n\n#image #text2image\n\n🌀AI UKRAINE",
-      "telegram_link": "https://t.me/aiukraine_wetrust/2108"
     }
   ]
 }
