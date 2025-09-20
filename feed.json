@@ -3,8 +3,17 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-09-20T11:35:40.606179+00:00",
+  "lastBuildDate": "2025-09-20T11:49:12.077252+00:00",
   "items": [
+    {
+      "title": "И еще один полезный сайт:",
+      "link": "https://anycrap.shop/",
+      "guid": "https://anycrap.shop/",
+      "pubDate": "Sat, 20 Sep 2025 11:46:06 +0000",
+      "timestamp": "2025-09-20T11:46:06+00:00",
+      "description": "И еще один полезный сайт:\nвводите в поиск товар, он его генерирует будто он есть на самом деле... все, можете добавлять в корзину\n\nhttps://anycrap.shop/",
+      "telegram_link": "https://t.me/denissexy/10770"
+    },
     {
       "title": "Історія без міфів by Gemini 😖",
       "link": "https://t.me/oooneuro/5910",
