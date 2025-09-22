@@ -3,15 +3,24 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-09-22T20:15:36.610265+00:00",
+  "lastBuildDate": "2025-09-22T20:38:21.935718+00:00",
   "items": [
+    {
+      "title": "И еще про Deep Research:",
+      "link": "https://t.me/denissexy/10775",
+      "guid": "https://t.me/denissexy/10775",
+      "pubDate": "Mon, 22 Sep 2025 20:17:18 +0000",
+      "timestamp": "2025-09-22T20:17:18+00:00",
+      "description": "И еще про Deep Research:\nЕсли у вас есть локальная модель без цензуры (например такая), то опенсорс Deep Research проекты такие как этот или этот, если подключить к ней, начинают искать любые темы в интернете, тоже без цензуры\n\nЯ не придумал себе какого-то сценария где мне это сильно нужно было бы, но в жизни всякое бывает и оно работает, я потестировал ☕️",
+      "telegram_link": "https://t.me/denissexy/10775"
+    },
     {
       "title": "Протестировал неплохую систему Deep Research:",
       "link": "https://platform.parallel.ai/play/deep-research",
       "guid": "https://platform.parallel.ai/play/deep-research",
       "pubDate": "Mon, 22 Sep 2025 20:10:59 +0000",
       "timestamp": "2025-09-22T20:10:59+00:00",
-      "description": "Протестировал неплохую систему Deep Research: \n1. Регаетесь тут https://platform.parallel.ai/play/deep-research\n2. Получаете 80$ на счет\n3. Выбираете Ultra8x и запускаете поиск по какой-то теме которая вам важна\n\nШтука генерирует отчет на основе тысяч страниц, в моих тестах она рассматривала 10-20 тысяч для генерации отчета\n\nP.S. Один отчет стоит примерно 2.4$",
+      "description": "Протестировал неплохую систему Deep Research: \n1. Регаетесь тут https://platform.parallel.ai/play/deep-research\n2. Получаете 80$ на счет (UPD. подписчик говорит дали 20$, не знаю как это работает)\n3. Выбираете Ultra8x и запускаете поиск по какой-то теме которая вам важна\n\nШтука генерирует отчет на основе тысяч страниц, в моих тестах она рассматривала 10-20 тысяч для генерации отчета\n\nP.S. Один отчет стоит примерно 2.4$",
       "telegram_link": "https://t.me/denissexy/10774"
     },
     {
