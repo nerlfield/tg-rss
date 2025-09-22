@@ -3,7 +3,7 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-09-22T20:49:10.079948+00:00",
+  "lastBuildDate": "2025-09-22T21:12:40.399150+00:00",
   "items": [
     {
       "title": "И еще про Deep Research:",
@@ -850,15 +850,6 @@
       "timestamp": "2025-09-15T21:15:20+00:00",
       "description": "Nvidia подписала с провайдером облачных мощностей CoreWeave соглашение, по которому обязывается покупать все мощности в новых датацентров, которые CoreWeave не продаст самостоятельно. Соглашение будет действовать до 13 апреля 2032 года и фактически избавляет полгода назад вышедшую на биржу компанию от рисков при строительстве новых датацентров.\n\nЗачем это самой Nvidia — догадайтесь.\nhttps://www.sec.gov/ix?doc=/Archives/edgar/data/1769628/000176962825000047/crwv-20250909.htm&amp;_bhlid=f447f3ee11d98a2fb14d8af57759868ee347a668",
       "telegram_link": "https://t.me/blognot/6351"
-    },
-    {
-      "title": "Еще одна новость от OpenAI: представлена GPT-5-Codex — версия GPT-5, оптимизированная для \"агентного программирования\".",
-      "link": "https://openai.com/index/introducing-upgrades-to-codex/",
-      "guid": "https://openai.com/index/introducing-upgrades-to-codex/",
-      "pubDate": "Mon, 15 Sep 2025 20:55:33 +0000",
-      "timestamp": "2025-09-15T20:55:33+00:00",
-      "description": "Еще одна новость от OpenAI: представлена GPT-5-Codex — версия GPT-5, оптимизированная для &quot;агентного программирования&quot;. \n\nКак понятно из названия, она предназначена для работы в Codex — причем, как в веб-версии, так и cli. OpenAI подчеркивает, что модель адаптирует объем размышлений под задачу и может потратить несколько часов на сложный рефакторинг. При этом она заточена под code review. \n\nСудя по результатам тестов, модель солидно выигрывает у дефолтной GPT-5, которая до этого использовалась в codex cli. \n\nКак на грех, у меня как раз закончились кодерские задачи, даже не на чем попробовать пока. \n\nhttps://openai.com/index/introducing-upgrades-to-codex/",
-      "telegram_link": "https://t.me/blognot/6350"
     }
   ]
 }
