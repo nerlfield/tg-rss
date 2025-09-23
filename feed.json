@@ -3,8 +3,35 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-09-23T17:49:10.424341+00:00",
+  "lastBuildDate": "2025-09-23T18:21:20.326660+00:00",
   "items": [
+    {
+      "title": "Тут Suno v5 вышла, как водится протестировал на Олеге и Ко",
+      "link": "https://t.me/denissexy/10782",
+      "guid": "https://t.me/denissexy/10782",
+      "pubDate": "Tue, 23 Sep 2025 17:57:21 +0000",
+      "timestamp": "2025-09-23T17:57:21+00:00",
+      "description": "Тут Suno v5 вышла, как водится протестировал на Олеге и Ко\n\n@denissexy",
+      "telegram_link": "https://t.me/denissexy/10782"
+    },
+    {
+      "title": "Post 10781 on @denissexy",
+      "link": "https://t.me/denissexy/10781",
+      "guid": "https://t.me/denissexy/10781",
+      "pubDate": "Tue, 23 Sep 2025 17:57:21 +0000",
+      "timestamp": "2025-09-23T17:57:21+00:00",
+      "description": "",
+      "telegram_link": "https://t.me/denissexy/10781"
+    },
+    {
+      "title": "Post 10780 on @denissexy",
+      "link": "https://t.me/denissexy/10780",
+      "guid": "https://t.me/denissexy/10780",
+      "pubDate": "Tue, 23 Sep 2025 17:57:20 +0000",
+      "timestamp": "2025-09-23T17:57:20+00:00",
+      "description": "",
+      "telegram_link": "https://t.me/denissexy/10780"
+    },
     {
       "title": "Post 5935 on @oooneuro",
       "link": "https://t.me/oooneuro/5935",
