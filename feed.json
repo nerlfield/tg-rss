@@ -3,8 +3,17 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-09-23T10:49:55.082814+00:00",
+  "lastBuildDate": "2025-09-23T11:11:59.690524+00:00",
   "items": [
+    {
+      "title": "🎰  Один з найнеочікуваніших бенчмарків, які я бачив.",
+      "link": "https://t.me/aiukraine_wetrust/2151",
+      "guid": "https://t.me/aiukraine_wetrust/2151",
+      "pubDate": "Tue, 23 Sep 2025 10:51:37 +0000",
+      "timestamp": "2025-09-23T10:51:37+00:00",
+      "description": "🎰  Один з найнеочікуваніших бенчмарків, які я бачив.\n\nЧувак з Твіттеру потестив різні режими GPT-5: порівняв Thinking моделі (Light, Standard, Extended, Heavy) з новою лінійкою Codex (Low, Medium, High) 🌍\n\nдля тесту він робив одноруких бандитів злодіїв, лол \n\nлідерборд вийшов ось такий: \n\n🥇 1. GPT-5 Codex Medium (навіть кращий за Codex High).\n🥈 2. GPT-5 Thinking Heavy.\n🥉 3. GPT-5 Pro.\n4. GPT-5-Codex-High\n5. GPT-5-Codex-Low\n6. GPT-5-Thinking-Standard\n7. GPT-5-Thinking-Extended\n8. GPT-5-Thinking-Light\n\nТобто автор авторитетно заявляє, що Codex-версії GPT-5 показують себе впевненіше, ніж Thinking-моделі 🤔\n\nbtw, раніше десь читав, що самі OpenAI радили ставити Codex Medium як дефолт, тому логіка явно є 🫡\n\nbtw(2), музику генерував в Suno \n\n#gpt\n\n🌀AI UKRAINE",
+      "telegram_link": "https://t.me/aiukraine_wetrust/2151"
+    },
     {
       "title": "С интересом прочитал свежее интервью CTO по AI в Минцифре Украине о том, как они замечательно разрабатывают LLM и тот са",
       "link": "https://dou.ua/lenta/interviews/ovcharenko-diia-ai-and-llm/",
