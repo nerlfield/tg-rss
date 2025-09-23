@@ -3,8 +3,35 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-09-23T07:15:03.243431+00:00",
+  "lastBuildDate": "2025-09-23T07:30:49.145841+00:00",
   "items": [
+    {
+      "title": "Post 5926 on @oooneuro",
+      "link": "https://t.me/oooneuro/5926",
+      "guid": "https://t.me/oooneuro/5926",
+      "pubDate": "Tue, 23 Sep 2025 07:29:33 +0000",
+      "timestamp": "2025-09-23T07:29:33+00:00",
+      "description": "",
+      "telegram_link": "https://t.me/oooneuro/5926"
+    },
+    {
+      "title": "Post 5925 on @oooneuro",
+      "link": "https://t.me/oooneuro/5925",
+      "guid": "https://t.me/oooneuro/5925",
+      "pubDate": "Tue, 23 Sep 2025 07:29:33 +0000",
+      "timestamp": "2025-09-23T07:29:33+00:00",
+      "description": "",
+      "telegram_link": "https://t.me/oooneuro/5925"
+    },
+    {
+      "title": "Трішки прикладів Wan2.2-Animate-14B — модель круто працює не тільки з анімаційними персонажами, але й з реальними людьми",
+      "link": "https://t.me/oooneuro/5924",
+      "guid": "https://t.me/oooneuro/5924",
+      "pubDate": "Tue, 23 Sep 2025 07:29:33 +0000",
+      "timestamp": "2025-09-23T07:29:33+00:00",
+      "description": "Трішки прикладів Wan2.2-Animate-14B — модель круто працює не тільки з анімаційними персонажами, але й з реальними людьми 😱\n\nНам потрібна модель десь на 5-7b і можна казати, що це революція у створенні діпфейків.\n\nооо донат на збір (лишилося 62 159.25)",
+      "telegram_link": "https://t.me/oooneuro/5924"
+    },
     {
       "title": "И еще про Deep Research:",
       "link": "https://t.me/denissexy/10775",
