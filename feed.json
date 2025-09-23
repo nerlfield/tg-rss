@@ -3,8 +3,17 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-09-23T19:11:54.331520+00:00",
+  "lastBuildDate": "2025-09-23T19:25:21.536362+00:00",
   "items": [
+    {
+      "title": "Не на часі 🐶",
+      "link": "https://t.me/oooneuro/5936",
+      "guid": "https://t.me/oooneuro/5936",
+      "pubDate": "Tue, 23 Sep 2025 19:17:38 +0000",
+      "timestamp": "2025-09-23T19:17:38+00:00",
+      "description": "Не на часі 🐶\n\nПідступно підрізав\n\nооо донат на збір (лишилося 61 848.25)",
+      "telegram_link": "https://t.me/oooneuro/5936"
+    },
     {
       "title": "Тут Suno v5 вышла, как водится протестировал на Олеге и Ко",
       "link": "https://t.me/denissexy/10782",
