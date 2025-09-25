@@ -3,8 +3,17 @@
   "title": "Telegram Tech Channels Feed",
   "link": "https://t.me",
   "description": "Aggregated posts from Telegram channels for the last 7 days",
-  "lastBuildDate": "2025-09-25T14:15:16.142804+00:00",
+  "lastBuildDate": "2025-09-25T14:37:28.351974+00:00",
   "items": [
+    {
+      "title": "Qualcomm анонсировал десктопный процессор Snapdragon X2 Elite и его топовую версию X2 Elite Extreme. Extreme версия соде",
+      "link": "https://www.tomshardware.com/pc-components/cpus/qualcomms-new-snapdragon-x2-elite-extreme-and-elite-chips-for-pcs-stretch-up-to-a-record-5-ghz-3nm-arm-chips-sport-new-oryon-prime-cores",
+      "guid": "https://www.tomshardware.com/pc-components/cpus/qualcomms-new-snapdragon-x2-elite-extreme-and-elite-chips-for-pcs-stretch-up-to-a-record-5-ghz-3nm-arm-chips-sport-new-oryon-prime-cores",
+      "pubDate": "Thu, 25 Sep 2025 14:28:46 +0000",
+      "timestamp": "2025-09-25T14:28:46+00:00",
+      "description": "Qualcomm анонсировал десктопный процессор Snapdragon X2 Elite и его топовую версию X2 Elite Extreme. Extreme версия содержит до 18 ядер и это, по заявлению компании, первый Arm‑чип, достигающий до 5 ГГц на ядре (всего на двух из них). Поставки систем — в первой половине 2026.\n\nУ Extreme заметно усилена память: 192‑битная шина и 228 ГБ/с против 128 бит и 152 ГБ/с у других версий, плюс поддержка 128+ ГБ ОЗУ. 80 TOPS NPU, на 78% выше прошлой 45‑TOPS генерации, явно заточен под Copilot+ и параллельные AI‑сценарии. \n\nАнонс сейчас процессоров, которые появятся через полгода, подсказывает, что компания собирается поконкурировать с Apple — уже подходит время для анонса новой версии Apple Silicon и теперь желающие обзавестись экономным и мощным устройством могут подумать над выбором. Хотя, в отличие от Apple, судьба процессоров Qualcomm зависит и от Windows, и от производителей конечных ноутбуков или десктопов.\n\nhttps://www.tomshardware.com/pc-components/cpus/qualcomms-new-snapdragon-x2-elite-extreme-and-elite-chips-for-pcs-stretch-up-to-a-record-5-ghz-3nm-arm-chips-sport-new-oryon-prime-cores",
+      "telegram_link": "https://t.me/blognot/6370"
+    },
     {
       "title": "Як ШІ допомагає боротися з раком?",
       "link": "https://t.me/AIHOUSE/1306",
